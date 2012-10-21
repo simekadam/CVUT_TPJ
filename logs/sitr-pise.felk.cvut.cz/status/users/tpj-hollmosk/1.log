@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-hollmosk
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210041805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-hollmosk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-hollmosk
+Repository UUID: 4096a0f0-1250-4e5d-8284-c16a3b50ec02
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_hollmosk
+Last Changed Rev: 12
+Last Changed Date: 2012-10-04 16:22:24 +0200 (Thu, 04 Oct 2012)
+
+Note: cvut_tpj-hollmosk/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Test PROSEL. Spotrebovany cas: 0 s.

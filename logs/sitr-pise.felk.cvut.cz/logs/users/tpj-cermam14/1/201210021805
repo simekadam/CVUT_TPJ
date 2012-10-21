@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-cermam14
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 4
+Last Changed Date: 2012-10-02 15:52:32 +0200 (Tue, 02 Oct 2012)
+
+cvut_tpj-cermam14/homeworks/homework1.java:47: illegal start of type
+        return new HashSet<>();
+                           ^
+cvut_tpj-cermam14/homeworks/homework1.java:85: illegal start of type
+        return new HashSet<>();
+                           ^
+cvut_tpj-cermam14/homeworks/homework1.java:138: illegal start of type
+        HashSet<Expr> hs = new HashSet<>();
+                                       ^
+cvut_tpj-cermam14/homeworks/homework1.java:200: illegal start of type
+        HashSet<Expr> hs = new HashSet<>();
+                                       ^
+cvut_tpj-cermam14/homeworks/homework1.java:262: illegal start of type
+        HashSet<Expr> hs = new HashSet<>();
+                                       ^
+cvut_tpj-cermam14/homeworks/homework1.java:315: illegal start of type
+        HashSet<Expr> hs = new HashSet<>();
+                                       ^
+6 errors
+Preklad NEPROSEL.

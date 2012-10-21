@@ -1,0 +1,74 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mirteond
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210101005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mirteond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mirteond
+Repository UUID: fda20315-0937-4a60-aed1-ab6e1ca3ec4d
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mirteond
+Last Changed Rev: 6
+Last Changed Date: 2012-10-10 09:15:22 +0200 (Wed, 10 Oct 2012)
+
+---
+Num(42)
+Derivative(Num(42))
+Num(0)
+Derivative(Num(42)) rewritten to [Num(0), ]
+Num(0)
+X()
+Derivative(X())
+Num(1)
+Derivative(X()) rewritten to [Num(1), ]
+Num(1)
+X()
+X()
+Addition(X(), X())
+Derivative(Addition(X(), X()))
+Derivative(X())
+Derivative(X())
+Addition(Derivative(X()), Derivative(X()))
+Derivative(Addition(X(), X())) rewritten to [Addition(Derivative(X()), Derivative(X())), ]
+X()
+Derivative(X())
+X()
+Derivative(X())
+Addition(Derivative(X()), Derivative(X()))
+X()
+X()
+Multiplication(X(), X())
+Derivative(Multiplication(X(), X()))
+Derivative(X())
+Multiplication(X(), Derivative(X()))
+Derivative(X())
+Multiplication(Derivative(X()), X())
+Addition(Multiplication(X(), Derivative(X())), Multiplication(Derivative(X()), X()))
+Derivative(Multiplication(X(), X())) rewritten to [Addition(Multiplication(X(), Derivative(X())), Multiplication(Derivative(X()), X())), ]
+X()
+X()
+Derivative(X())
+Multiplication(X(), Derivative(X()))
+X()
+Derivative(X())
+X()
+Multiplication(Derivative(X()), X())
+Addition(Multiplication(X(), Derivative(X())), Multiplication(Derivative(X()), X()))
+X()
+Num(2)
+Exponentiation(X(), Num(2))
+Derivative(Exponentiation(X(), Num(2)))
+Num(1)
+Exponentiation(X(), Num(1))
+Multiplication(Num(2), Exponentiation(X(), Num(1)))
+Derivative(Exponentiation(X(), Num(2))) rewritten to [Multiplication(Num(2), Exponentiation(X(), Num(1))), ]
+Num(2)
+X()
+Num(1)
+Exponentiation(X(), Num(1))
+Multiplication(Num(2), Exponentiation(X(), Num(1)))
+Test PROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,49 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-horakmi2
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210030205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 3
+Last Changed Date: 2012-10-02 23:01:35 +0200 (Tue, 02 Oct 2012)
+
+cvut_tpj-horakmi2/homeworks/homework1.java:46: illegal start of type
+        return new HashSet<>();
+                           ^
+cvut_tpj-horakmi2/homeworks/homework1.java:72: illegal start of type
+        return new HashSet<>();
+                           ^
+cvut_tpj-horakmi2/homeworks/homework1.java:115: illegal start of type
+        Set<Expr> builder = new HashSet<>();
+                                        ^
+cvut_tpj-horakmi2/homeworks/homework1.java:166: illegal start of type
+        Set<Expr> builder = new HashSet<>();
+                                        ^
+cvut_tpj-horakmi2/homeworks/homework1.java:225: illegal start of type
+        Set<Expr> builder = new HashSet<>();
+                                        ^
+cvut_tpj-horakmi2/homeworks/homework1.java:271: illegal start of type
+            Set<Expr> builder = new HashSet<>();
+                                            ^
+cvut_tpj-horakmi2/homeworks/homework1.java:277: illegal start of type
+            Set<Expr> builder = new HashSet<>();
+                                            ^
+cvut_tpj-horakmi2/homeworks/homework1.java:285: illegal start of type
+            Set<Expr> builder = new HashSet<>();
+                                            ^
+cvut_tpj-horakmi2/homeworks/homework1.java:292: illegal start of type
+            Set<Expr> builder = new HashSet<>();
+                                            ^
+cvut_tpj-horakmi2/homeworks/homework1.java:308: illegal start of type
+            Set<Expr> builder = new HashSet<>();
+                                            ^
+10 errors
+Preklad NEPROSEL.

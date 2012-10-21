@@ -1,0 +1,33 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-danisluk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository UUID: df604ef5-ad05-436d-ac45-5d4053adaa28
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_danisluk
+Last Changed Rev: 8
+Last Changed Date: 2012-10-16 18:44:47 +0200 (Tue, 16 Oct 2012)
+
+---
+var getType
+var getType
+ternary getType start
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+ternary getType no error yet
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary(Var(x),Var(y),Var(z)) in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.

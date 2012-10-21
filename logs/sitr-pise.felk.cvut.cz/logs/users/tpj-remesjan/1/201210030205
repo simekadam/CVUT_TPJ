@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-remesjan
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210030205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 7
+Last Changed Date: 2012-10-02 22:24:40 +0200 (Tue, 02 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException: Not supported yet.
+	at Derivative.oneStepRewrite(homework1.java:297)
+	at Homework1Test.main(Homework1Test.java:41)
+Test NEPROSEL. Spotrebovany cas: 0 s.

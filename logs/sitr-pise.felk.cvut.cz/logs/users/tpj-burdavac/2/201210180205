@@ -1,0 +1,23 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210180205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 9
+Last Changed Date: 2012-10-17 22:23:22 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:77)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.

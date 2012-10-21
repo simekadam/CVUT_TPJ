@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-poledtom
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210031405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-poledtom
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-poledtom
+Repository UUID: d46bacd4-a66a-4ac7-8e9f-c1db512da9b7
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_poledtom
+Last Changed Rev: 3
+Last Changed Date: 2012-10-03 12:23:38 +0200 (Wed, 03 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:45)
+Test NEPROSEL. Spotrebovany cas: 0 s.

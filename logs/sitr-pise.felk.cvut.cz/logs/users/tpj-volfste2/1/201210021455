@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-volfste2
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 4
+Last Changed Date: 2012-09-27 18:31:55 +0200 (Thu, 27 Sep 2012)
+
+cvut_tpj-volfste2/homeworks/homework1.java:19: illegal start of type
+        return new HashSet<>();
+                           ^
+cvut_tpj-volfste2/homeworks/homework1.java:49: illegal start of type
+        return new HashSet<>();
+                           ^
+cvut_tpj-volfste2/homeworks/homework1.java:81: illegal start of type
+        HashSet<Expr> hashSet = new HashSet<>();
+                                            ^
+cvut_tpj-volfste2/homeworks/homework1.java:123: illegal start of type
+        HashSet<Expr> hashSet = new HashSet<>();
+                                            ^
+cvut_tpj-volfste2/homeworks/homework1.java:166: illegal start of type
+        HashSet<Expr> hashSet = new HashSet<>();
+                                            ^
+cvut_tpj-volfste2/homeworks/homework1.java:206: illegal start of type
+        HashSet<Expr> hashSet = new HashSet<>();
+                                            ^
+6 errors
+Preklad NEPROSEL.

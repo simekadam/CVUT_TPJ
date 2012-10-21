@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 7
+Last Changed Date: 2012-10-16 12:24:57 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework2Test.main(Homework2Test.java:14)
+Test NEPROSEL. Spotrebovany cas: 1 s.

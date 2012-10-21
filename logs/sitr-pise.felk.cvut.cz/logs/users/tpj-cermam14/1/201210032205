@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210032205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 8
+Last Changed Date: 2012-10-03 18:09:52 +0200 (Wed, 03 Oct 2012)
+
+Note: cvut_tpj-cermam14/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Test PROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,86 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 18
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 18
+Last Changed Date: 2012-10-18 09:28:28 +0200 (Thu, 18 Oct 2012)
+
+---
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+true true
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+true true
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+true true
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+true true
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+Exception in thread "main" java.lang.AssertionError: Typecheck of Compound program,Assignment :Assignment, varName :x Expr :Bool:trueProgram :Compound program,Assignment :Assignment, varName :x Expr :Bool:falseProgram :Assignment, varName :x Expr :Num:1 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.

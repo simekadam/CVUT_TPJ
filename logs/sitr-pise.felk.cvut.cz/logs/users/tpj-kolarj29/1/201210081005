@@ -1,0 +1,79 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kolarj29
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210081005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kolarj29
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kolarj29
+Repository UUID: a8ab68e8-8287-4139-843a-62b8d2d9b61b
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kolarj29
+Last Changed Rev: 2
+Last Changed Date: 2012-10-08 09:44:05 +0200 (Mon, 08 Oct 2012)
+
+---
+NEW konstanta 42
+NEW derivace
+NEW konstanta 0
+HSH konstanta 0
+OSR derivace konstanty
+NEW konstanta 0
+NEW x
+NEW derivace
+NEW konstanta 1
+HSH konstanta 1
+OSR derivace x
+NEW konstanta 1
+NEW x
+NEW x
+NEW scitani
+NEW derivace
+NEW derivace
+NEW derivace
+NEW scitani
+HSH x 1
+HSH derivace 1
+HSH x 1
+HSH derivace 1
+HSH scitani 32
+OSR derivace souctu
+NEW x
+NEW derivace
+NEW x
+NEW derivace
+NEW scitani
+NEW x
+NEW x
+NEW nasobeni
+NEW derivace
+NEW derivace
+NEW nasobeni
+NEW derivace
+NEW nasobeni
+NEW scitani
+HSH x 1
+HSH derivace 1
+HSH x 1
+HSH nasobeni 32
+HSH x 1
+HSH x 1
+HSH derivace 1
+HSH nasobeni 32
+HSH scitani 1024
+OSR derivace soucinu
+NEW x
+NEW x
+NEW derivace
+NEW nasobeni
+NEW x
+NEW derivace
+NEW x
+NEW nasobeni
+NEW scitani
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:44)
+Test NEPROSEL. Spotrebovany cas: 0 s.

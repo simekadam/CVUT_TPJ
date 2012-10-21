@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-strakja7
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-strakja7
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-strakja7
+Repository UUID: e344618a-e68e-4079-be55-d17f6e34808a
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_strakja7
+Last Changed Rev: 5
+Last Changed Date: 2012-09-27 15:27:24 +0200 (Thu, 27 Sep 2012)
+
+cvut_tpj-strakja7/homeworks/homework1.java:36: illegal start of type
+		HashSet<Expr> result = new HashSet<>();
+		                                   ^
+cvut_tpj-strakja7/homeworks/homework1.java:64: illegal start of type
+		HashSet<Expr> result = new HashSet<>();
+		                                   ^
+cvut_tpj-strakja7/homeworks/homework1.java:105: illegal start of type
+		HashSet<Expr> result = new HashSet<>();
+		                                   ^
+cvut_tpj-strakja7/homeworks/homework1.java:147: illegal start of type
+		HashSet<Expr> result = new HashSet<>();
+		                                   ^
+cvut_tpj-strakja7/homeworks/homework1.java:190: illegal start of type
+		HashSet<Expr> result = new HashSet<>();
+		                                   ^
+cvut_tpj-strakja7/homeworks/homework1.java:227: illegal start of type
+		HashSet<Expr> result = new HashSet<>();
+		                                   ^
+6 errors
+Preklad NEPROSEL.

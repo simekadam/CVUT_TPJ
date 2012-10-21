@@ -1,0 +1,88 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-stejsj11
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository UUID: eeccbbdb-3289-4014-9575-f01201c3005e
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stejsj11
+Last Changed Rev: 10
+Last Changed Date: 2012-10-16 17:46:29 +0200 (Tue, 16 Oct 2012)
+
+---
+Type error in x
+Type error in x
+Type error in if x then y else z
+Type error in if x then y else z
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Checking type of: 
+x=true;
+x=false;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+
+Checking type of: 
+x=false;
+
+Type ok in: 
+x=false;
+
+Checking type of: 
+x=true;
+x=false;
+x=1;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+x=1;
+
+Checking type of: 
+x=false;
+x=1;
+
+Checking type of: 
+x=false;
+
+Type ok in: 
+x=false;
+
+Type ok in: 
+x=false;
+x=1;
+
+Exception in thread "main" java.lang.IllegalArgumentException: duplicate key: x
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:119)
+	at com.google.common.collect.RegularImmutableMap.<init>(RegularImmutableMap.java:70)
+	at com.google.common.collect.ImmutableMap$Builder.fromEntryList(ImmutableMap.java:249)
+	at com.google.common.collect.ImmutableMap$Builder.build(ImmutableMap.java:235)
+	at CompoundProgram.isWellTyped(homework2.java:198)
+	at CompoundProgram.isWellTyped(homework2.java:198)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.

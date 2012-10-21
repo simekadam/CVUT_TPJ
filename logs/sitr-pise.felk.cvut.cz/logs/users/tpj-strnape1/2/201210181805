@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-strnape1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository UUID: c099482a-58a2-4c30-b6ea-8325463e3b71
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_strnape1
+Last Changed Rev: 7
+Last Changed Date: 2012-10-18 16:57:46 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var(x) in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.

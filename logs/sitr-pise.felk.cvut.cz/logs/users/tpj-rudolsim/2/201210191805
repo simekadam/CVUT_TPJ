@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rudolsim
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rudolsim
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rudolsim
+Repository UUID: b53568cc-9cae-4573-9280-035efa7e6626
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rudolsim
+Last Changed Rev: 6
+Last Changed Date: 2012-10-19 16:47:55 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,80 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-rozendav
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository UUID: c83abeb0-3889-4f6c-9f4f-499ba0b2da5c
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rozendav
+Last Changed Rev: 3
+Last Changed Date: 2012-09-26 19:08:32 +0200 (Wed, 26 Sep 2012)
+
+cvut_tpj-rozendav/homeworks/homework1.java:1: package com.google.common.collect does not exist
+import com.google.common.collect.ImmutableSet;
+                                ^
+cvut_tpj-rozendav/homeworks/homework1.java:41: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Num
+        return ImmutableSet.of();
+               ^
+cvut_tpj-rozendav/homeworks/homework1.java:67: cannot find symbol
+symbol  : variable ImmutableSet
+location: class X
+        return ImmutableSet.of();
+               ^
+cvut_tpj-rozendav/homeworks/homework1.java:110: package ImmutableSet does not exist
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                    ^
+cvut_tpj-rozendav/homeworks/homework1.java:110: package ImmutableSet does not exist
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                             ^
+cvut_tpj-rozendav/homeworks/homework1.java:160: package ImmutableSet does not exist
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                    ^
+cvut_tpj-rozendav/homeworks/homework1.java:160: package ImmutableSet does not exist
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                             ^
+cvut_tpj-rozendav/homeworks/homework1.java:211: package ImmutableSet does not exist
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                    ^
+cvut_tpj-rozendav/homeworks/homework1.java:211: package ImmutableSet does not exist
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                             ^
+cvut_tpj-rozendav/homeworks/homework1.java:253: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Num(0));
+                   ^
+cvut_tpj-rozendav/homeworks/homework1.java:256: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Num(1));
+                   ^
+cvut_tpj-rozendav/homeworks/homework1.java:260: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Addition(new Derivative(a.left), new Derivative(a.right))); // 14
+                   ^
+cvut_tpj-rozendav/homeworks/homework1.java:264: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Addition(new Multiplication(a.left, new Derivative(a.right)), new Multiplication(new Derivative(a.left), a.right))); // 15
+                   ^
+cvut_tpj-rozendav/homeworks/homework1.java:268: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Multiplication(a.exponent, new Exponentiation(a.subexpr, new Num(a.exponent.value - 1)))); // 16
+                   ^
+cvut_tpj-rozendav/homeworks/homework1.java:271: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of();
+                   ^
+15 errors
+Preklad NEPROSEL.

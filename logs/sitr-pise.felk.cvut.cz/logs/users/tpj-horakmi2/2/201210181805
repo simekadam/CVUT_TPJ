@@ -1,0 +1,23 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 10
+Last Changed Date: 2012-10-18 16:56:17 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:90)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.

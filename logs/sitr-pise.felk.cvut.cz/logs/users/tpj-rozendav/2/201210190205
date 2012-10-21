@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rozendav
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository UUID: c83abeb0-3889-4f6c-9f4f-499ba0b2da5c
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rozendav
+Last Changed Rev: 5
+Last Changed Date: 2012-10-18 23:46:48 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.

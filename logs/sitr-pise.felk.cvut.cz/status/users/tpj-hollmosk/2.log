@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-hollmosk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-hollmosk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-hollmosk
+Repository UUID: 4096a0f0-1250-4e5d-8284-c16a3b50ec02
+Revision: 13
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_hollmosk
+Last Changed Rev: 13
+Last Changed Date: 2012-10-19 16:12:32 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:212)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.

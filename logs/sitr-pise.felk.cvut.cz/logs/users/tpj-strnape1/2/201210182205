@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-strnape1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository UUID: c099482a-58a2-4c30-b6ea-8325463e3b71
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_strnape1
+Last Changed Rev: 8
+Last Changed Date: 2012-10-18 18:10:48 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:182)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.

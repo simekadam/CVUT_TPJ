@@ -1,0 +1,29 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-sukhomik
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210051005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-sukhomik
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-sukhomik
+Repository UUID: 1cb33e2c-a8d2-44f8-a243-d5ae934fa282
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_sukhomik
+Last Changed Rev: 11
+Last Changed Date: 2012-10-05 09:38:08 +0200 (Fri, 05 Oct 2012)
+
+---
+before: (42)'
+after: 0
+before: (x)'
+after: 1
+before: ((x) + (x))'
+after: ((x)') + ((x)')
+before: ((x) * (x))'
+after: ((x) * ((x)')) + (((x)') * (x))
+before: ((x) ^ (2))'
+after: (2) * ((x) ^ (1))
+Test PROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-bartomat
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210082205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-bartomat
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-bartomat
+Repository UUID: d1ba963f-13d4-4464-9d28-d063feb3eda4
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_bartomat
+Last Changed Rev: 7
+Last Changed Date: 2012-10-08 21:23:50 +0200 (Mon, 08 Oct 2012)
+
+cvut_tpj-bartomat/homeworks/homework1.java:1: class, interface, or enum expected
+???
+^
+1 error
+Preklad NEPROSEL.

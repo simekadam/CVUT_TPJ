@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 12
+Last Changed Date: 2012-10-18 21:49:45 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of VarName x ExprValue true in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rozendav
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository UUID: c83abeb0-3889-4f6c-9f4f-499ba0b2da5c
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rozendav
+Last Changed Rev: 7
+Last Changed Date: 2012-10-19 12:14:53 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:189)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.

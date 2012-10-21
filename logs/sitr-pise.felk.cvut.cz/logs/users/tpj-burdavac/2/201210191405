@@ -1,0 +1,177 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 13
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 13
+Last Changed Date: 2012-10-19 13:15:53 +0200 (Fri, 19 Oct 2012)
+
+---
+Var Type None
+Var BOOLEAN
+Var Type None
+Var Type None
+Var Type None
+Ternary: e1 NONE e2 NONE e3 NONE
+Var NUMBER
+Var NUMBER
+Var NUMBER
+Ternary: e1 NUMBER e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var NUMBER
+Var NUMBER
+Ternary: e1 BOOLEAN e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var BOOLEAN
+Var BOOLEAN
+Ternary: e1 BOOLEAN e2 BOOLEAN e3 BOOLEAN
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.

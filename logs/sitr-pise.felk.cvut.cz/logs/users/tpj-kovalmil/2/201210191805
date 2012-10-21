@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kovalmil
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository UUID: 24db9c60-c502-4af5-986c-1b560b439886
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kovalmil
+Last Changed Rev: 9
+Last Changed Date: 2012-10-19 14:52:56 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.

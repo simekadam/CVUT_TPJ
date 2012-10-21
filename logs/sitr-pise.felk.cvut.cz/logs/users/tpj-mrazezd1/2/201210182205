@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 17
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 17
+Last Changed Date: 2012-10-18 21:36:23 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.

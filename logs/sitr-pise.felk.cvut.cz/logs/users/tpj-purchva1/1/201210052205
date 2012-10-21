@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-purchva1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210052205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-purchva1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-purchva1
+Repository UUID: 3fd0c300-9c33-47dc-831d-dc2d844be14f
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_purchva1
+Last Changed Rev: 3
+Last Changed Date: 2012-10-05 18:46:48 +0200 (Fri, 05 Oct 2012)
+
+cvut_tpj-purchva1/homeworks/homework1.java:4: class Hw1 is public, should be declared in a file named Hw1.java
+public class Hw1 {
+       ^
+1 error
+Preklad NEPROSEL.

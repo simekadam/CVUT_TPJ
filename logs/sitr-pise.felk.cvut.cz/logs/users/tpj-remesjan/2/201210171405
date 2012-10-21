@@ -1,0 +1,27 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 16
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 16
+Last Changed Date: 2012-10-17 10:36:14 +0200 (Wed, 17 Oct 2012)
+
+---
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Exception in thread "main" java.lang.NullPointerException
+	at Assignment.isWellTyped(homework2.java:176)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.

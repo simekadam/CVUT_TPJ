@@ -1,0 +1,55 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 37
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 37
+Last Changed Date: 2012-10-19 10:13:25 +0200 (Fri, 19 Oct 2012)
+
+---
+Var@9931f5
+Var@f84386
+Var@1194a4e
+Var@15d56d5
+Var@efd552
+Ternary@19dfbff
+Var@10b4b2f
+Var@750159
+Var@1abab88
+Ternary@18a7efd
+Var@17fa65e
+Var@18385e3
+Var@1cb25f1
+Ternary@2808b3
+Var@535b58
+Var@922804
+Var@1815859
+Ternary@cf40f5
+Bool@8b819f
+Assignment@eb017e
+Environment:
+
+Bool@df8f5e
+Assignment@13d93f4
+CompoundProgram@1bca5f1
+Environment:
+
+Num@329f3d
+Assignment@1749757
+CompoundProgram@17bd6a1
+CompoundProgram@147ee05
+Environment:
+
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@147ee05 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 1 s.

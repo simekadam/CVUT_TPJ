@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-pecekjan
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210100605
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-pecekjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-pecekjan
+Repository UUID: 3f383f60-3530-4322-85d1-b98f564dc882
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_pecekjan
+Last Changed Rev: 2
+Last Changed Date: 2012-10-10 02:22:30 +0200 (Wed, 10 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:45)
+Test NEPROSEL. Spotrebovany cas: 0 s.

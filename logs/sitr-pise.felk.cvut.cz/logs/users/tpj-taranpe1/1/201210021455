@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-taranpe1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-taranpe1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-taranpe1
+Repository UUID: 3f9eb9da-3f1d-4add-8468-b198a5bf4512
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_taranpe1
+Last Changed Rev: 2
+Last Changed Date: 2012-09-28 15:49:52 +0200 (Fri, 28 Sep 2012)
+
+cvut_tpj-taranpe1/homeworks/homework1.java:3: class Homework1 is public, should be declared in a file named Homework1.java
+public class Homework1 {
+       ^
+1 error
+Preklad NEPROSEL.

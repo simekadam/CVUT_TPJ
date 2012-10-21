@@ -1,0 +1,43 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 11
+Last Changed Date: 2012-10-18 09:41:09 +0200 (Thu, 18 Oct 2012)
+
+---
+Var Type None
+Var BOOLEAN
+Var Type None
+Var Type None
+Var Type None
+Ternary: e1 NONE e2 NONE e3 NONE
+Var NUMBER
+Var NUMBER
+Var NUMBER
+Ternary: e1 NUMBER e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var NUMBER
+Var NUMBER
+Ternary: e1 BOOLEAN e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var BOOLEAN
+Var BOOLEAN
+Ternary: e1 BOOLEAN e2 BOOLEAN e3 BOOLEAN
+Bool
+Assignment null BOOLEAN
+Bool
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 1 s.

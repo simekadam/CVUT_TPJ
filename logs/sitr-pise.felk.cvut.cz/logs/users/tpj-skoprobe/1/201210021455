@@ -1,0 +1,110 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-skoprobe
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository UUID: 4fac7b45-50ee-4f0f-a0eb-9f5019b5612c
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_skoprobe
+Last Changed Rev: 2
+Last Changed Date: 2012-09-26 18:34:56 +0200 (Wed, 26 Sep 2012)
+
+cvut_tpj-skoprobe/homeworks/homework1.java:2: package com.google.common.collect does not exist
+import com.google.common.collect.ImmutableSet;
+                                ^
+cvut_tpj-skoprobe/homeworks/homework1.java:98: cannot find symbol
+symbol  : class ImmutableSet
+location: class X
+    public ImmutableSet<Expr> oneStepRewrite() {
+           ^
+cvut_tpj-skoprobe/homeworks/homework1.java:147: cannot find symbol
+symbol  : class ImmutableSet
+location: class Addition
+    public ImmutableSet<Expr> oneStepRewrite() {
+           ^
+cvut_tpj-skoprobe/homeworks/homework1.java:219: cannot find symbol
+symbol  : class ImmutableSet
+location: class Multiplication
+    public ImmutableSet<Expr> oneStepRewrite() {
+           ^
+cvut_tpj-skoprobe/homeworks/homework1.java:293: cannot find symbol
+symbol  : class ImmutableSet
+location: class Exponentiation
+    public ImmutableSet<Expr> oneStepRewrite() {
+           ^
+cvut_tpj-skoprobe/homeworks/homework1.java:353: cannot find symbol
+symbol  : class ImmutableSet
+location: class Derivative
+    public ImmutableSet<Expr> oneStepRewrite() {
+           ^
+cvut_tpj-skoprobe/homeworks/homework1.java:49: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Num
+        return ImmutableSet.of();
+               ^
+cvut_tpj-skoprobe/homeworks/homework1.java:99: cannot find symbol
+symbol  : variable ImmutableSet
+location: class X
+        return ImmutableSet.of();
+               ^
+cvut_tpj-skoprobe/homeworks/homework1.java:149: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Addition
+            return ImmutableSet.of((Expr) new Num(left.getValue() + right.getValue()));
+                   ^
+cvut_tpj-skoprobe/homeworks/homework1.java:151: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                        ^
+cvut_tpj-skoprobe/homeworks/homework1.java:151: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                                 ^
+cvut_tpj-skoprobe/homeworks/homework1.java:221: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Multiplication
+            return ImmutableSet.of((Expr) new Num(left.getValue() * right.getValue()));
+                   ^
+cvut_tpj-skoprobe/homeworks/homework1.java:223: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                        ^
+cvut_tpj-skoprobe/homeworks/homework1.java:223: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                                 ^
+cvut_tpj-skoprobe/homeworks/homework1.java:294: package ImmutableSet does not exist
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                    ^
+cvut_tpj-skoprobe/homeworks/homework1.java:294: package ImmutableSet does not exist
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                             ^
+cvut_tpj-skoprobe/homeworks/homework1.java:355: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Num(0));
+                   ^
+cvut_tpj-skoprobe/homeworks/homework1.java:357: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Num(1));
+                   ^
+cvut_tpj-skoprobe/homeworks/homework1.java:360: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Addition(new Derivative(a.left), new Derivative(a.right)));
+                   ^
+cvut_tpj-skoprobe/homeworks/homework1.java:363: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Multiplication(new Addition(m.left, new Derivative(m.right)), new Addition(new Derivative(m.left), m.right)));
+                   ^
+cvut_tpj-skoprobe/homeworks/homework1.java:366: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+            return ImmutableSet.of((Expr) new Multiplication(e.exponent, (Expr) new Exponentiation(e.subexpr, new Num(e.exponent.getValue() - 1))));
+                   ^
+21 errors
+Preklad NEPROSEL.

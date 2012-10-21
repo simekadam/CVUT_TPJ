@@ -1,0 +1,80 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-stejsj11
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository UUID: eeccbbdb-3289-4014-9575-f01201c3005e
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stejsj11
+Last Changed Rev: 3
+Last Changed Date: 2012-10-02 16:52:34 +0200 (Tue, 02 Oct 2012)
+
+cvut_tpj-stejsj11/homeworks/homework1.java:2: package com.google.common.collect does not exist
+import com.google.common.collect.ImmutableSet;
+                                ^
+cvut_tpj-stejsj11/homeworks/homework1.java:127: cannot find symbol
+symbol  : class ImmutableSet
+location: class Addition
+    public ImmutableSet<Expr> oneStepRewrite() {
+           ^
+cvut_tpj-stejsj11/homeworks/homework1.java:43: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Num
+		return ImmutableSet.of();
+		       ^
+cvut_tpj-stejsj11/homeworks/homework1.java:79: cannot find symbol
+symbol  : variable ImmutableSet
+location: class X
+		return ImmutableSet.of();
+		       ^
+cvut_tpj-stejsj11/homeworks/homework1.java:130: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                        ^
+cvut_tpj-stejsj11/homeworks/homework1.java:130: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                                 ^
+cvut_tpj-stejsj11/homeworks/homework1.java:185: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                        ^
+cvut_tpj-stejsj11/homeworks/homework1.java:185: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                                 ^
+cvut_tpj-stejsj11/homeworks/homework1.java:241: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                        ^
+cvut_tpj-stejsj11/homeworks/homework1.java:241: package ImmutableSet does not exist
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<Expr>();
+                                                                 ^
+cvut_tpj-stejsj11/homeworks/homework1.java:306: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+		return ImmutableSet.of((Expr) new Num(0));
+		       ^
+cvut_tpj-stejsj11/homeworks/homework1.java:310: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+		return ImmutableSet.of((Expr) new Num(1));
+		       ^
+cvut_tpj-stejsj11/homeworks/homework1.java:317: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+		return ImmutableSet.of((Expr) new Addition(leftDerivation, rightDerivation));
+		       ^
+cvut_tpj-stejsj11/homeworks/homework1.java:324: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+		return ImmutableSet.of((Expr) new Addition(leftProduct, rightProduct));
+		       ^
+cvut_tpj-stejsj11/homeworks/homework1.java:331: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+		return ImmutableSet.of((Expr) new Multiplication(exponentiation.exponent, derExponentiation));
+		       ^
+15 errors
+Preklad NEPROSEL.

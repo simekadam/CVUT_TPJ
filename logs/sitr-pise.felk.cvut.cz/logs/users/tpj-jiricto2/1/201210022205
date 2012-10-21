@@ -1,0 +1,66 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-jiricto2
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210022205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jiricto2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jiricto2
+Repository UUID: 997e0942-50d9-46c0-88b1-0c3d743c3374
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jiricto2
+Last Changed Rev: 5
+Last Changed Date: 2012-10-02 20:00:50 +0200 (Tue, 02 Oct 2012)
+
+---
+Creating Num(42)
+Creating Derivative((42))'
+Derivative oneStep  input(42)
+Creating Num(0)
+[(0)]
+Creating Num(0)
+Creating Derivative(X{})'
+Derivative oneStep  inputX{}
+Creating Num(1)
+[(1)]
+Creating Num(1)
+Creating Addition(X{} + X{})
+Creating Derivative((X{} + X{}))'
+Derivative oneStep  input(X{} + X{})
+Creating Derivative(X{})'
+Creating Derivative(X{})'
+Creating Addition((X{})' + (X{})')
+[((X{})' + (X{})')]
+Creating Derivative(X{})'
+Creating Derivative(X{})'
+Creating Addition((X{})' + (X{})')
+Creating Multiplication(X{} * X{})
+Creating Derivative((X{} * X{}))'
+Derivative oneStep  input(X{} * X{})
+Creating Derivative(X{})'
+Creating Derivative(X{})'
+Creating Multiplication(X{} * (X{})')
+Creating Multiplication((X{})' * X{})
+Creating Addition((X{} * (X{})') + ((X{})' * X{}))
+[((X{} * (X{})') + ((X{})' * X{}))]
+Creating Derivative(X{})'
+Creating Multiplication(X{} * (X{})')
+Creating Derivative(X{})'
+Creating Multiplication((X{})' * X{})
+Creating Addition((X{} * (X{})') + ((X{})' * X{}))
+Creating Num(2)
+Creating Exponentiation(X{}^ (2))
+Creating Derivative((X{}^(2)))'
+Derivative oneStep  input(X{}^(2))
+Creating Num(1)
+Creating Exponentiation(X{}^ (1))
+Creating Multiplication((2) * (X{}^(1)))
+[((2) * (X{}^(1)))]
+Creating Num(2)
+Creating Num(1)
+Creating Exponentiation(X{}^ (1))
+Creating Multiplication((2) * (X{}^(1)))
+Test PROSEL.

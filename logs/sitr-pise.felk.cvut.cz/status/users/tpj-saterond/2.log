@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-saterond
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository UUID: 719a4495-0031-4f48-998b-95ee38858139
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_saterond
+Last Changed Rev: 7
+Last Changed Date: 2012-10-18 22:08:48 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Program ass: Assignment x Bool true, prog: Assignment x Bool false in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 1 s.

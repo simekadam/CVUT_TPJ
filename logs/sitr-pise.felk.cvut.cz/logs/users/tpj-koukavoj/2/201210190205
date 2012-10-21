@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 33
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 33
+Last Changed Date: 2012-10-18 22:18:54 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.

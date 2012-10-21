@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-tomasma5
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210031005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-tomasma5
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-tomasma5
+Repository UUID: 5f998abe-1397-4ff9-8a41-9e4d64ef2262
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_tomasma5
+Last Changed Rev: 9
+Last Changed Date: 2012-10-03 08:15:14 +0200 (Wed, 03 Oct 2012)
+
+cvut_tpj-tomasma5/homeworks/homework1.java:52: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+1 error
+Preklad NEPROSEL.

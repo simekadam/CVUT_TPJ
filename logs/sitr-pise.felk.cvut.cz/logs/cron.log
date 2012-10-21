@@ -1,0 +1,4444 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-test
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210151805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-test
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-test
+Repository UUID: b5421165-2628-4ea8-8b92-b72a378c67e4
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: michal.pise
+Last Changed Rev: 5
+Last Changed Date: 2012-10-15 16:42:54 +0200 (Mon, 15 Oct 2012)
+
+Soubor s ukolem NENALEZEN.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-test
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210151805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-test
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-test
+Repository UUID: b5421165-2628-4ea8-8b92-b72a378c67e4
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: michal.pise
+Last Changed Rev: 5
+Last Changed Date: 2012-10-15 16:42:54 +0200 (Mon, 15 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-stejsj11
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210160205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository UUID: eeccbbdb-3289-4014-9575-f01201c3005e
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stejsj11
+Last Changed Rev: 8
+Last Changed Date: 2012-10-15 23:16:14 +0200 (Mon, 15 Oct 2012)
+
+---
+Error in x
+Error in x
+Error in if x then y else z
+Error in if x then y else z
+Error in x=false;
+
+Exception in thread "main" java.lang.AssertionError
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-brustto1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository UUID: bb15169c-4118-4fa9-8ffe-205b01a16977
+Revision: 15
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_brustto1
+Last Changed Rev: 15
+Last Changed Date: 2012-10-16 13:51:40 +0200 (Tue, 16 Oct 2012)
+
+Soubor s ukolem NENALEZEN.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 11
+Last Changed Date: 2012-10-16 12:23:17 +0200 (Tue, 16 Oct 2012)
+
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                                                         ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                                                                           ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                         ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                   ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                           ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                                                                  ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                               ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                             ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                           ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                                                                                    ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                  ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                    ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                                      ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                               ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                             ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                           ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                                                       ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                  ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                     ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                                       ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                   ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                               ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                             ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                           ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                                                        ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                  ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                     ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                                        ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                   ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                               ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                             ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                           ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                                                          ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+        ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                            ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                                                ^
+../tests/Homework2Test.java:14: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert a1.isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                               ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+        ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                            ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                                                ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert new CompoundProgram(a1, a2).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                                                        ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert new CompoundProgram(a1, a2).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                   ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+        ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                            ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Num
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                                                ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                                                                                  ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                    ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                            ^
+51 errors
+Preklad NEPROSEL.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-danisluk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository UUID: df604ef5-ad05-436d-ac45-5d4053adaa28
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_danisluk
+Last Changed Rev: 5
+Last Changed Date: 2012-10-16 13:53:42 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework2Test.main(Homework2Test.java:10)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-murinjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-murinjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-murinjan
+Repository UUID: 91523ccc-3e46-4d30-bd1c-d5efb1d5595f
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_murinjan
+Last Changed Rev: 7
+Last Changed Date: 2012-10-16 11:58:24 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework2Test.main(Homework2Test.java:7)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-salaidom
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository UUID: 7262eb51-a58a-4e16-85c2-8ee7564f6a2a
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_salaidom
+Last Changed Rev: 5
+Last Changed Date: 2012-10-16 11:23:12 +0200 (Tue, 16 Oct 2012)
+
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                                                         ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                                                                           ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                         ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                   ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                           ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                                                                  ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                               ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                             ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                           ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                                                                                    ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                  ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                    ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                                      ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                               ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                             ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                           ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                                                       ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                  ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                     ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                                       ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                   ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                               ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                             ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                           ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                                                        ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                  ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                     ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                                        ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                   ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                               ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                             ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                           ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                                                          ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+        ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                            ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                                                ^
+../tests/Homework2Test.java:14: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert a1.isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                               ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+        ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                            ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                                                ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert new CompoundProgram(a1, a2).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                                                        ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert new CompoundProgram(a1, a2).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                   ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+        ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                            ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Num
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                                                ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                                                                                  ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                    ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                            ^
+51 errors
+Preklad NEPROSEL.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-salampa1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-salampa1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-salampa1
+Repository UUID: 894ac688-0b9e-4750-b7f7-4f59e9774e88
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_salampa1
+Last Changed Rev: 5
+Last Changed Date: 2012-10-16 13:28:12 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at Assignment.isWellTyped(homework2.java:134)
+	at Homework2Test.main(Homework2Test.java:14)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-stejsj11
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository UUID: eeccbbdb-3289-4014-9575-f01201c3005e
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stejsj11
+Last Changed Rev: 9
+Last Changed Date: 2012-10-16 11:23:24 +0200 (Tue, 16 Oct 2012)
+
+---
+Type error in x
+Type error in x
+Type error in if x then y else z
+Type error in if x then y else z
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Checking type of: 
+x=true;
+x=false;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+
+Checking type of: 
+x=false;
+
+Type error in: 
+x=false;
+
+Exception in thread "main" java.lang.AssertionError
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 7
+Last Changed Date: 2012-10-16 12:24:57 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework2Test.main(Homework2Test.java:14)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 12
+Last Changed Date: 2012-10-16 18:04:05 +0200 (Tue, 16 Oct 2012)
+
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Expr
+location: class Homework2Test
+    public static void typecheckExpression(Expr e, Map<String, Type> gamma, Type expected) {
+                                           ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+    public static void typecheckExpression(Expr e, Map<String, Type> gamma, Type expected) {
+                                                               ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+    public static void typecheckExpression(Expr e, Map<String, Type> gamma, Type expected) {
+                                                                            ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Program
+location: class Homework2Test
+    public static void typecheckProgram(Program p, Map<String, Type> gamma, Boolean expected) {
+                                        ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+    public static void typecheckProgram(Program p, Map<String, Type> gamma, Boolean expected) {
+                                                               ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+	typecheckExpression(new Var("x"), ImmutableMap.of("y", Type.BOOLEAN), Type.NONE);
+	                        ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+	typecheckExpression(new Var("x"), ImmutableMap.of("y", Type.BOOLEAN), Type.NONE);
+	                                                       ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+	typecheckExpression(new Var("x"), ImmutableMap.of("y", Type.BOOLEAN), Type.NONE);
+	                                                                      ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Var("x"), ImmutableMap.of("x", Type.BOOLEAN), Type.BOOLEAN);
+                                ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Var("x"), ImmutableMap.of("x", Type.BOOLEAN), Type.BOOLEAN);
+                                                               ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Var("x"), ImmutableMap.of("x", Type.BOOLEAN), Type.BOOLEAN);
+                                                                              ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                            ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                                          ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                                                        ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                                                                                        ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                                                                                                       ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                            ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                          ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                        ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                                                        ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                                                                          ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                                                                                            ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                                                                                                          ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                            ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                          ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                        ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                                                        ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                                                                           ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                                                                                             ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                                                                                                           ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                            ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                          ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                        ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                                                        ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                                                                           ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                                                                                              ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                                                                                                             ^
+../tests/Homework2Test.java:22: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+	Map<String, Type> emptyGamma = new ImmutableMap.Builder<String, Type>().build();
+	            ^
+../tests/Homework2Test.java:22: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+	Map<String, Type> emptyGamma = new ImmutableMap.Builder<String, Type>().build();
+	                                                                ^
+../tests/Homework2Test.java:23: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+        ^
+../tests/Homework2Test.java:23: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                            ^
+../tests/Homework2Test.java:23: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                                                ^
+../tests/Homework2Test.java:25: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+        ^
+../tests/Homework2Test.java:25: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                            ^
+../tests/Homework2Test.java:25: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                                                ^
+../tests/Homework2Test.java:26: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        typecheckProgram(new CompoundProgram(a1, a2), emptyGamma, true);
+                             ^
+../tests/Homework2Test.java:27: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+        ^
+../tests/Homework2Test.java:27: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                            ^
+../tests/Homework2Test.java:27: cannot find symbol
+symbol  : class Num
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                                                ^
+../tests/Homework2Test.java:28: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        typecheckProgram(new CompoundProgram(a1, new CompoundProgram(a2, a3)), emptyGamma, false);
+                             ^
+../tests/Homework2Test.java:28: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        typecheckProgram(new CompoundProgram(a1, new CompoundProgram(a2, a3)), emptyGamma, false);
+                                                     ^
+55 errors
+Preklad NEPROSEL.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-danisluk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository UUID: df604ef5-ad05-436d-ac45-5d4053adaa28
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_danisluk
+Last Changed Rev: 7
+Last Changed Date: 2012-10-16 17:31:05 +0200 (Tue, 16 Oct 2012)
+
+---
+var getType
+var getType
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary(Var(x),Var(y),Var(z)) in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-murinjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-murinjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-murinjan
+Repository UUID: 91523ccc-3e46-4d30-bd1c-d5efb1d5595f
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_murinjan
+Last Changed Rev: 10
+Last Changed Date: 2012-10-16 16:54:45 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 13
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 13
+Last Changed Date: 2012-10-16 18:01:58 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of ternary, if Var:x then Var:y else Var:z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-salaidom
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository UUID: 7262eb51-a58a-4e16-85c2-8ee7564f6a2a
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_salaidom
+Last Changed Rev: 6
+Last Changed Date: 2012-10-16 14:22:19 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-salampa1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-salampa1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-salampa1
+Repository UUID: 894ac688-0b9e-4750-b7f7-4f59e9774e88
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_salampa1
+Last Changed Rev: 6
+Last Changed Date: 2012-10-16 17:00:00 +0200 (Tue, 16 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-stejsj11
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository UUID: eeccbbdb-3289-4014-9575-f01201c3005e
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stejsj11
+Last Changed Rev: 10
+Last Changed Date: 2012-10-16 17:46:29 +0200 (Tue, 16 Oct 2012)
+
+---
+Type error in x
+Type error in x
+Type error in if x then y else z
+Type error in if x then y else z
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Checking type of: 
+x=true;
+x=false;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+
+Checking type of: 
+x=false;
+
+Type ok in: 
+x=false;
+
+Checking type of: 
+x=true;
+x=false;
+x=1;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+x=1;
+
+Checking type of: 
+x=false;
+x=1;
+
+Checking type of: 
+x=false;
+
+Type ok in: 
+x=false;
+
+Type ok in: 
+x=false;
+x=1;
+
+Exception in thread "main" java.lang.IllegalArgumentException: duplicate key: x
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:119)
+	at com.google.common.collect.RegularImmutableMap.<init>(RegularImmutableMap.java:70)
+	at com.google.common.collect.ImmutableMap$Builder.fromEntryList(ImmutableMap.java:249)
+	at com.google.common.collect.ImmutableMap$Builder.build(ImmutableMap.java:235)
+	at CompoundProgram.isWellTyped(homework2.java:198)
+	at CompoundProgram.isWellTyped(homework2.java:198)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-brustto1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository UUID: bb15169c-4118-4fa9-8ffe-205b01a16977
+Revision: 16
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_brustto1
+Last Changed Rev: 16
+Last Changed Date: 2012-10-16 21:45:46 +0200 (Tue, 16 Oct 2012)
+
+Soubor s ukolem NENALEZEN.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 14
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 14
+Last Changed Date: 2012-10-16 18:17:59 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of var name: x in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-danisluk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository UUID: df604ef5-ad05-436d-ac45-5d4053adaa28
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_danisluk
+Last Changed Rev: 8
+Last Changed Date: 2012-10-16 18:44:47 +0200 (Tue, 16 Oct 2012)
+
+---
+var getType
+var getType
+ternary getType start
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+ternary getType no error yet
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary(Var(x),Var(y),Var(z)) in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-murinjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-murinjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-murinjan
+Repository UUID: 91523ccc-3e46-4d30-bd1c-d5efb1d5595f
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_murinjan
+Last Changed Rev: 11
+Last Changed Date: 2012-10-16 19:42:16 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 14
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 14
+Last Changed Date: 2012-10-16 19:15:19 +0200 (Tue, 16 Oct 2012)
+
+---
+Assignment is well typed :x Bool:true
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment, varNamex Expr :Bool:true in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-salaidom
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository UUID: 7262eb51-a58a-4e16-85c2-8ee7564f6a2a
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_salaidom
+Last Changed Rev: 7
+Last Changed Date: 2012-10-16 18:27:24 +0200 (Tue, 16 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 8
+Last Changed Date: 2012-10-16 21:00:32 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment(x, Bool(true)) in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-danisluk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210170205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository UUID: df604ef5-ad05-436d-ac45-5d4053adaa28
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_danisluk
+Last Changed Rev: 9
+Last Changed Date: 2012-10-16 22:39:26 +0200 (Tue, 16 Oct 2012)
+
+---
+var getType
+var getType
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+assignment wellTyped called
+compoundProgram wellTypedCalled
+assignment wellTyped called
+assignment wellTyped called
+compoundProgram wellTypedCalled
+assignment wellTyped called
+compoundProgram wellTypedCalled
+assignment wellTyped called
+assignment wellTyped called
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram(Assignment(x,Bool(true)),CompoundProgram(Assignment(x,Bool(false)),Assignment(x,Num(1)))) in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210170205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 15
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 15
+Last Changed Date: 2012-10-16 23:14:33 +0200 (Tue, 16 Oct 2012)
+
+---
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment, varName :x Expr :Bool:true in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-stejsj11
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210170205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository UUID: eeccbbdb-3289-4014-9575-f01201c3005e
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stejsj11
+Last Changed Rev: 11
+Last Changed Date: 2012-10-16 23:37:04 +0200 (Tue, 16 Oct 2012)
+
+---
+Type error in x
+Type error in x
+Type error in if x then y else z
+Type error in if x then y else z
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Checking type of: 
+x=true;
+x=false;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:196)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 16
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 16
+Last Changed Date: 2012-10-17 09:46:26 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of assignment: var name: x subexpr: Bool value: true program: assignment: var name: x subexpr: Bool value: false program: var name: x subexpr: Num value: 1 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-danisluk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository UUID: df604ef5-ad05-436d-ac45-5d4053adaa28
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_danisluk
+Last Changed Rev: 10
+Last Changed Date: 2012-10-17 09:44:17 +0200 (Wed, 17 Oct 2012)
+
+---
+var getType
+var getType
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+assignment wellTyped called
+compoundProgram wellTypedCalled
+assignment wellTyped called
+bool getType
+assignment wellTyped called
+bool getType
+compoundProgram wellTypedCalled
+assignment wellTyped called
+bool getType
+compoundProgram wellTypedCalled
+assignment wellTyped called
+bool getType
+bool getType
+assignment wellTyped called
+number getType
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 9
+Last Changed Date: 2012-10-17 07:09:05 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment(x, Bool(true)) in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 16
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 16
+Last Changed Date: 2012-10-17 10:36:14 +0200 (Wed, 17 Oct 2012)
+
+---
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Exception in thread "main" java.lang.NullPointerException
+	at Assignment.isWellTyped(homework2.java:176)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-stejsj11
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository UUID: eeccbbdb-3289-4014-9575-f01201c3005e
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stejsj11
+Last Changed Rev: 12
+Last Changed Date: 2012-10-17 10:15:03 +0200 (Wed, 17 Oct 2012)
+
+---
+Type error in x
+Type error in x
+Type error in if x then y else z
+Type error in if x then y else z
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Checking type of: 
+x=true;
+x=false;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+
+Checking type of: 
+x=false;
+
+Type ok in: 
+x=false;
+
+Checking type of: 
+x=true;
+x=false;
+x=1;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+x=1;
+
+Checking type of: 
+x=false;
+x=1;
+
+Checking type of: 
+x=false;
+
+Type ok in: 
+x=false;
+
+Type ok in: 
+x=false;
+x=1;
+
+Checking type of: 
+x=1;
+
+Type error in: 
+x=1;
+
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 10
+Last Changed Date: 2012-10-17 11:48:18 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at Assignment.isWellTyped(homework2.java:138)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 7
+Last Changed Date: 2012-10-17 17:13:30 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 18
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 18
+Last Changed Date: 2012-10-17 16:29:57 +0200 (Wed, 17 Oct 2012)
+
+---
+VAR_in: (type: NONE ...)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type: NONE ...)
+VAR_in: (type:NUMBER)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type:NUMBER)
+VAR_in: (type:NUMBER)
+VAR_in: (type:NUMBER)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type:BOOLEAN)
+ASSIGNMENT_in: null, BOOLEAN
+ASSIGNMENT_in: null, BOOLEAN
+ASSIGNMENT_in: null, BOOLEAN
+Exception in thread "main" java.lang.AssertionError: Typecheck of Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (true)) program: Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (false)) program: ASSIGNMENT: (var name: x subexpr: NUM: (1)))) in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210172205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 8
+Last Changed Date: 2012-10-17 20:52:48 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:79)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-jinocvla
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210172205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository UUID: 0d5ce121-767a-497f-86a5-6f9f0be3d983
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jinocvla
+Last Changed Rev: 6
+Last Changed Date: 2012-10-17 18:53:55 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210172205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 17
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 17
+Last Changed Date: 2012-10-17 18:24:40 +0200 (Wed, 17 Oct 2012)
+
+---
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Exception in thread "main" java.lang.AssertionError: Typecheck of Compound program,Assignment :Assignment, varName :x Expr :Bool:trueProgram :Assignment, varName :x Expr :Bool:false in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210180205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 9
+Last Changed Date: 2012-10-17 22:23:22 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:77)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210180205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 7
+Last Changed Date: 2012-10-18 01:49:55 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-jinocvla
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210180205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository UUID: 0d5ce121-767a-497f-86a5-6f9f0be3d983
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jinocvla
+Last Changed Rev: 8
+Last Changed Date: 2012-10-17 22:15:49 +0200 (Wed, 17 Oct 2012)
+
+---
+x
+x
+x
+x
+x
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:99)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210180205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 15
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 15
+Last Changed Date: 2012-10-17 22:39:00 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-saterond
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210180205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository UUID: 719a4495-0031-4f48-998b-95ee38858139
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_saterond
+Last Changed Rev: 4
+Last Changed Date: 2012-10-18 00:16:40 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-brustto1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository UUID: bb15169c-4118-4fa9-8ffe-205b01a16977
+Revision: 17
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_brustto1
+Last Changed Rev: 17
+Last Changed Date: 2012-10-18 08:42:24 +0200 (Thu, 18 Oct 2012)
+
+Soubor s ukolem NENALEZEN.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 11
+Last Changed Date: 2012-10-18 09:41:09 +0200 (Thu, 18 Oct 2012)
+
+---
+Var Type None
+Var BOOLEAN
+Var Type None
+Var Type None
+Var Type None
+Ternary: e1 NONE e2 NONE e3 NONE
+Var NUMBER
+Var NUMBER
+Var NUMBER
+Ternary: e1 NUMBER e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var NUMBER
+Var NUMBER
+Ternary: e1 BOOLEAN e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var BOOLEAN
+Var BOOLEAN
+Ternary: e1 BOOLEAN e2 BOOLEAN e3 BOOLEAN
+Bool
+Assignment null BOOLEAN
+Bool
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-jinocvla
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository UUID: 0d5ce121-767a-497f-86a5-6f9f0be3d983
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jinocvla
+Last Changed Rev: 9
+Last Changed Date: 2012-10-18 08:32:57 +0200 (Thu, 18 Oct 2012)
+
+---
+NUMBER NUMBER
+BOOLEAN BOOLEAN
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:170)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 16
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 16
+Last Changed Date: 2012-10-18 07:57:19 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 18
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 18
+Last Changed Date: 2012-10-18 09:28:28 +0200 (Thu, 18 Oct 2012)
+
+---
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+true true
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+true true
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+true true
+[] [] {}
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+true true
+[] [] {}
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+[] [] {}
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+Exception in thread "main" java.lang.AssertionError: Typecheck of Compound program,Assignment :Assignment, varName :x Expr :Bool:trueProgram :Compound program,Assignment :Assignment, varName :x Expr :Bool:falseProgram :Assignment, varName :x Expr :Num:1 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 8
+Last Changed Date: 2012-10-18 11:33:17 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-jinocvla
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository UUID: 0d5ce121-767a-497f-86a5-6f9f0be3d983
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jinocvla
+Last Changed Rev: 10
+Last Changed Date: 2012-10-18 11:21:27 +0200 (Thu, 18 Oct 2012)
+
+---
+assign x true assign x false
+x true
+assign x true compound assign x false assign x 1
+x true
+assign x false assign x 1
+x false
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 21
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 21
+Last Changed Date: 2012-10-18 15:55:56 +0200 (Thu, 18 Oct 2012)
+
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Expr
+location: class Homework2Test
+    public static void typecheckExpression(Expr e, Map<String, Type> gamma, Type expected) {
+                                           ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+    public static void typecheckExpression(Expr e, Map<String, Type> gamma, Type expected) {
+                                                               ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+    public static void typecheckExpression(Expr e, Map<String, Type> gamma, Type expected) {
+                                                                            ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Program
+location: class Homework2Test
+    public static void typecheckProgram(Program p, Map<String, Type> gamma, Boolean expected) {
+                                        ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+    public static void typecheckProgram(Program p, Map<String, Type> gamma, Boolean expected) {
+                                                               ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+	typecheckExpression(new Var("x"), ImmutableMap.of("y", Type.BOOLEAN), Type.NONE);
+	                        ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+	typecheckExpression(new Var("x"), ImmutableMap.of("y", Type.BOOLEAN), Type.NONE);
+	                                                       ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+	typecheckExpression(new Var("x"), ImmutableMap.of("y", Type.BOOLEAN), Type.NONE);
+	                                                                      ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Var("x"), ImmutableMap.of("x", Type.BOOLEAN), Type.BOOLEAN);
+                                ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Var("x"), ImmutableMap.of("x", Type.BOOLEAN), Type.BOOLEAN);
+                                                               ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Var("x"), ImmutableMap.of("x", Type.BOOLEAN), Type.BOOLEAN);
+                                                                              ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                            ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                                          ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                                                        ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                                                                                        ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("a", Type.BOOLEAN), Type.NONE);
+                                                                                                                       ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                            ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                          ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                        ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                                                        ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                                                                          ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                                                                                            ^
+../tests/Homework2Test.java:19: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER), Type.NONE);
+                                                                                                                                                          ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                            ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                          ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                        ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                                                        ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                                                                           ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                                                                                             ^
+../tests/Homework2Test.java:20: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER), Type.NUMBER);
+                                                                                                                                                           ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                            ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                          ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                        ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                                                        ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                                                                           ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                                                                                              ^
+../tests/Homework2Test.java:21: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        typecheckExpression(new Ternary(new Var("x"), new Var("y"), new Var("z")), ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN), Type.BOOLEAN);
+                                                                                                                                                             ^
+../tests/Homework2Test.java:22: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+	Map<String, Type> emptyGamma = new ImmutableMap.Builder<String, Type>().build();
+	            ^
+../tests/Homework2Test.java:22: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+	Map<String, Type> emptyGamma = new ImmutableMap.Builder<String, Type>().build();
+	                                                                ^
+../tests/Homework2Test.java:23: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+        ^
+../tests/Homework2Test.java:23: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                            ^
+../tests/Homework2Test.java:23: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                                                ^
+../tests/Homework2Test.java:25: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+        ^
+../tests/Homework2Test.java:25: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                            ^
+../tests/Homework2Test.java:25: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                                                ^
+../tests/Homework2Test.java:26: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        typecheckProgram(new CompoundProgram(a1, a2), emptyGamma, true);
+                             ^
+../tests/Homework2Test.java:27: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+        ^
+../tests/Homework2Test.java:27: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                            ^
+../tests/Homework2Test.java:27: cannot find symbol
+symbol  : class Num
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                                                ^
+../tests/Homework2Test.java:28: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        typecheckProgram(new CompoundProgram(a1, new CompoundProgram(a2, a3)), emptyGamma, false);
+                             ^
+../tests/Homework2Test.java:28: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        typecheckProgram(new CompoundProgram(a1, new CompoundProgram(a2, a3)), emptyGamma, false);
+                                                     ^
+55 errors
+Preklad NEPROSEL.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 10
+Last Changed Date: 2012-10-18 16:56:17 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:90)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kalisja1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kalisja1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kalisja1
+Repository UUID: d07bd162-47f3-43d8-81c3-de3f74bf4092
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kalisja1
+Last Changed Rev: 3
+Last Changed Date: 2012-10-18 17:27:25 +0200 (Thu, 18 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 19
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 19
+Last Changed Date: 2012-10-18 14:28:52 +0200 (Thu, 18 Oct 2012)
+
+---
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Compound program typecheck :
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+first part:true second :true
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Compound program typecheck :
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Compound program typecheck :
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+first part:true second :false
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+first part:true second :false
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Compound program typecheck :
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+first part:true second :false
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-saterond
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository UUID: 719a4495-0031-4f48-998b-95ee38858139
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_saterond
+Last Changed Rev: 5
+Last Changed Date: 2012-10-18 16:33:06 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Nand Var x Var y Var z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-strnape1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository UUID: c099482a-58a2-4c30-b6ea-8325463e3b71
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_strnape1
+Last Changed Rev: 7
+Last Changed Date: 2012-10-18 16:57:46 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var(x) in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 11
+Last Changed Date: 2012-10-18 17:36:34 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram(Assignment(x, Bool(true)), CompoundProgram(Assignment(x, Bool(false)), Assignment(x, Num(1)))) in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 22
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 22
+Last Changed Date: 2012-10-18 18:51:20 +0200 (Thu, 18 Oct 2012)
+
+---
+VAR_in: (name: x, type: NONE ...)
+VAR_in: (name: x, type:BOOLEAN)
+VAR_in: (name: x, type: NONE ...)
+VAR_in: (name: x, type:NUMBER)
+VAR_in: (name: x, type:BOOLEAN)
+VAR_in: (name: y, type:NUMBER)
+VAR_in: (name: z, type:NUMBER)
+VAR_in: (name: z, type:NUMBER)
+VAR_in: (name: x, type:BOOLEAN)
+VAR_in: (name: y, type:BOOLEAN)
+VAR_in: (name: z, type:BOOLEAN)
+VAR_in: (name: z, type:BOOLEAN)
+VALUES IN GAMMA:
+ASSIGNMENT_in: null, BOOLEAN
+VALUES IN GAMMA:
+ASSIGNMENT_in: null, BOOLEAN
+VALUES IN GAMMA:
+ASSIGNMENT_in: null, BOOLEAN
+Exception in thread "main" java.lang.AssertionError: Typecheck of Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (true)) program: Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (false)) program: ASSIGNMENT: (var name: x subexpr: NUM: (1)))) in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 12
+Last Changed Date: 2012-10-18 21:49:45 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of VarName x ExprValue true in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 29
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 29
+Last Changed Date: 2012-10-18 21:23:28 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mazanma3
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mazanma3
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mazanma3
+Repository UUID: dfd4130e-4780-4df4-b334-82df6bad2da1
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mazanma3
+Last Changed Rev: 5
+Last Changed Date: 2012-10-18 18:52:31 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-minarja4
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-minarja4
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-minarja4
+Repository UUID: 313d0fbb-7fb3-432a-a993-91ea0b884562
+Revision: 14
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_minarja4
+Last Changed Rev: 14
+Last Changed Date: 2012-10-18 18:15:55 +0200 (Thu, 18 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 17
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 17
+Last Changed Date: 2012-10-18 21:36:23 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-saterond
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository UUID: 719a4495-0031-4f48-998b-95ee38858139
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_saterond
+Last Changed Rev: 6
+Last Changed Date: 2012-10-18 20:55:57 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:120)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 25
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 25
+Last Changed Date: 2012-10-18 21:43:43 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var x null in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-strnape1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository UUID: c099482a-58a2-4c30-b6ea-8325463e3b71
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_strnape1
+Last Changed Rev: 8
+Last Changed Date: 2012-10-18 18:10:48 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:182)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 12
+Last Changed Date: 2012-10-18 19:51:29 +0200 (Thu, 18 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 12
+Last Changed Date: 2012-10-18 23:41:16 +0200 (Thu, 18 Oct 2012)
+
+---
+Var Type None
+Var BOOLEAN
+Var Type None
+Var Type None
+Var Type None
+Ternary: e1 NONE e2 NONE e3 NONE
+Var NUMBER
+Var NUMBER
+Var NUMBER
+Ternary: e1 NUMBER e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var NUMBER
+Var NUMBER
+Ternary: e1 BOOLEAN e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var BOOLEAN
+Var BOOLEAN
+Ternary: e1 BOOLEAN e2 BOOLEAN e3 BOOLEAN
+Bool
+Assignment null BOOLEAN
+Bool
+Assignment return: false
+Bool
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 13
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 13
+Last Changed Date: 2012-10-18 23:06:54 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at Assignment.isWellTyped(homework2.java:166)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 33
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 33
+Last Changed Date: 2012-10-18 22:18:54 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-pecekjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-pecekjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-pecekjan
+Repository UUID: 3f383f60-3530-4322-85d1-b98f564dc882
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_pecekjan
+Last Changed Rev: 4
+Last Changed Date: 2012-10-18 22:34:31 +0200 (Thu, 18 Oct 2012)
+
+cvut_tpj-pecekjan/homeworks/homework2.java:2: warning: com.sun.org.apache.bcel.internal.generic.INSTANCEOF is Sun proprietary API and may be removed in a future release
+import com.sun.org.apache.bcel.internal.generic.INSTANCEOF;
+                                               ^
+1 warning
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of var x in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rozendav
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository UUID: c83abeb0-3889-4f6c-9f4f-499ba0b2da5c
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rozendav
+Last Changed Rev: 5
+Last Changed Date: 2012-10-18 23:46:48 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-saterond
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository UUID: 719a4495-0031-4f48-998b-95ee38858139
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_saterond
+Last Changed Rev: 7
+Last Changed Date: 2012-10-18 22:08:48 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Program ass: Assignment x Bool true, prog: Assignment x Bool false in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 29
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 29
+Last Changed Date: 2012-10-19 01:22:25 +0200 (Fri, 19 Oct 2012)
+
+---
+Var@9931f5
+Var@f84386
+Var@15d56d5
+Var@efd552
+Var@19dfbff
+Ternary@10b4b2f
+Tak co to asi je za typ false
+Var@750159
+Var@1abab88
+Var@18a7efd
+Ternary@1971afc
+Tak co to asi je za typ true
+Var@18385e3
+Var@1cb25f1
+Var@2808b3
+Ternary@535b58
+Tak co to asi je za typ true
+Var@922804
+Var@1815859
+Var@cf40f5
+Ternary@b1c260
+Tak co to asi je za typ false
+Bool@8b819f
+Assignment@eb017e
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@eb017e in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-strnape1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository UUID: c099482a-58a2-4c30-b6ea-8325463e3b71
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_strnape1
+Last Changed Rev: 9
+Last Changed Date: 2012-10-18 22:44:31 +0200 (Thu, 18 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190605
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 31
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 31
+Last Changed Date: 2012-10-19 02:23:09 +0200 (Fri, 19 Oct 2012)
+
+---
+Var@9931f5
+Var@f84386
+Var@1194a4e
+Var@15d56d5
+Var@efd552
+Ternary@19dfbff
+Tak co to asi je za typ false
+Var@10b4b2f
+Var@750159
+Var@1abab88
+Ternary@18a7efd
+Tak co to asi je za typ true
+Var@17fa65e
+Var@18385e3
+Var@1cb25f1
+Ternary@2808b3
+Tak co to asi je za typ true
+Var@535b58
+Var@922804
+Var@1815859
+Ternary@cf40f5
+Tak co to asi je za typ false
+Bool@fc9944
+Assignment@1b26af3
+Bool@8b819f
+Assignment@eb017e
+CompoundProgram@aeffdf
+Num@120a47e
+Assignment@f73c1
+CompoundProgram@789144
+CompoundProgram@1893efe
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@1893efe in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-bobisjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-bobisjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-bobisjan
+Repository UUID: 152b877a-810c-4752-a582-5aeaab552593
+Revision: 32
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_bobisjan
+Last Changed Rev: 32
+Last Changed Date: 2012-10-19 06:33:26 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@1908ca1 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 14
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 14
+Last Changed Date: 2012-10-19 09:46:12 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment VarName x ExprValue true in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 35
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 35
+Last Changed Date: 2012-10-19 08:59:22 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mazanma3
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mazanma3
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mazanma3
+Repository UUID: dfd4130e-4780-4df4-b334-82df6bad2da1
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mazanma3
+Last Changed Rev: 6
+Last Changed Date: 2012-10-19 06:29:09 +0200 (Fri, 19 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rozendav
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository UUID: c83abeb0-3889-4f6c-9f4f-499ba0b2da5c
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rozendav
+Last Changed Rev: 6
+Last Changed Date: 2012-10-19 08:40:47 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of if Var name x then Var name y else Var name z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 36
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 36
+Last Changed Date: 2012-10-19 09:29:17 +0200 (Fri, 19 Oct 2012)
+
+---
+Var@9931f5
+Var@f84386
+Var@15d56d5
+Var@efd552
+Var@19dfbff
+Ternary@10b4b2f
+Var@750159
+Var@1abab88
+Var@18a7efd
+Ternary@1971afc
+Var@1cb25f1
+Var@2808b3
+Var@535b58
+Ternary@922804
+Var@1815859
+Var@cf40f5
+Var@b1c260
+Ternary@503429
+Bool@8b819f
+Assignment@eb017e
+Environment:
+
+Bool@df8f5e
+Assignment@13d93f4
+CompoundProgram@1bca5f1
+Environment:
+
+Num@329f3d
+Assignment@1749757
+CompoundProgram@17bd6a1
+CompoundProgram@147ee05
+Environment:
+
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@147ee05 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-brustto1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository UUID: bb15169c-4118-4fa9-8ffe-205b01a16977
+Revision: 18
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_brustto1
+Last Changed Rev: 18
+Last Changed Date: 2012-10-19 11:14:31 +0200 (Fri, 19 Oct 2012)
+
+Soubor s ukolem NENALEZEN.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 13
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 13
+Last Changed Date: 2012-10-19 13:15:53 +0200 (Fri, 19 Oct 2012)
+
+---
+Var Type None
+Var BOOLEAN
+Var Type None
+Var Type None
+Var Type None
+Ternary: e1 NONE e2 NONE e3 NONE
+Var NUMBER
+Var NUMBER
+Var NUMBER
+Ternary: e1 NUMBER e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var NUMBER
+Var NUMBER
+Ternary: e1 BOOLEAN e2 NUMBER e3 NUMBER
+Var BOOLEAN
+Var BOOLEAN
+Var BOOLEAN
+Ternary: e1 BOOLEAN e2 BOOLEAN e3 BOOLEAN
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program true true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Program return: true
+Bool
+Assignment null BOOLEAN
+Bool
+Return true from if
+new Environment
+Number
+Assignment null NUMBER
+Number
+Return true from if
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-dvorap39
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-dvorap39
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-dvorap39
+Repository UUID: 6111c5b0-a0e8-41e5-8e59-3128816e54b4
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_dvorap39
+Last Changed Rev: 11
+Last Changed Date: 2012-10-19 12:33:16 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:236)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 37
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 37
+Last Changed Date: 2012-10-19 10:44:23 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kovalmil
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository UUID: 24db9c60-c502-4af5-986c-1b560b439886
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kovalmil
+Last Changed Rev: 7
+Last Changed Date: 2012-10-19 12:21:04 +0200 (Fri, 19 Oct 2012)
+
+Soubor s ukolem NENALEZEN.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 18
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 18
+Last Changed Date: 2012-10-19 13:52:21 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rozendav
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository UUID: c83abeb0-3889-4f6c-9f4f-499ba0b2da5c
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rozendav
+Last Changed Rev: 7
+Last Changed Date: 2012-10-19 12:14:53 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:189)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rysdanie
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository UUID: a771ec01-831a-45a0-8491-a44e1c01149e
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rysdanie
+Last Changed Rev: 4
+Last Changed Date: 2012-10-19 10:15:37 +0200 (Fri, 19 Oct 2012)
+
+cvut_tpj-rysdanie/homeworks/homework2.java:113: cannot find symbol
+symbol  : method getType(java.util.Map<java.lang.String,Type>)
+location: class Type
+        if(gamma.get(this.varName).getType(gamma) == this.subexpr.getType(gamma)) return true;
+                                  ^
+1 error
+Preklad NEPROSEL.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 37
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 37
+Last Changed Date: 2012-10-19 10:13:25 +0200 (Fri, 19 Oct 2012)
+
+---
+Var@9931f5
+Var@f84386
+Var@1194a4e
+Var@15d56d5
+Var@efd552
+Ternary@19dfbff
+Var@10b4b2f
+Var@750159
+Var@1abab88
+Ternary@18a7efd
+Var@17fa65e
+Var@18385e3
+Var@1cb25f1
+Ternary@2808b3
+Var@535b58
+Var@922804
+Var@1815859
+Ternary@cf40f5
+Bool@8b819f
+Assignment@eb017e
+Environment:
+
+Bool@df8f5e
+Assignment@13d93f4
+CompoundProgram@1bca5f1
+Environment:
+
+Num@329f3d
+Assignment@1749757
+CompoundProgram@17bd6a1
+CompoundProgram@147ee05
+Environment:
+
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@147ee05 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-skoprobe
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository UUID: 4fac7b45-50ee-4f0f-a0eb-9f5019b5612c
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_skoprobe
+Last Changed Rev: 5
+Last Changed Date: 2012-10-19 12:09:55 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-brustto1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository UUID: bb15169c-4118-4fa9-8ffe-205b01a16977
+Revision: 19
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_brustto1
+Last Changed Rev: 19
+Last Changed Date: 2012-10-19 14:46:20 +0200 (Fri, 19 Oct 2012)
+
+Soubor s ukolem NENALEZEN.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-dvorap39
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-dvorap39
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-dvorap39
+Repository UUID: 6111c5b0-a0e8-41e5-8e59-3128816e54b4
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_dvorap39
+Last Changed Rev: 12
+Last Changed Date: 2012-10-19 17:56:25 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoudProgram... sem asi vic dat nelze. in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-hollmosk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-hollmosk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-hollmosk
+Repository UUID: 4096a0f0-1250-4e5d-8284-c16a3b50ec02
+Revision: 13
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_hollmosk
+Last Changed Rev: 13
+Last Changed Date: 2012-10-19 16:12:32 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:212)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 15
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 15
+Last Changed Date: 2012-10-19 16:54:31 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment VarName x ExprValue true in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 41
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 41
+Last Changed Date: 2012-10-19 14:27:12 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kovalmil
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository UUID: 24db9c60-c502-4af5-986c-1b560b439886
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kovalmil
+Last Changed Rev: 9
+Last Changed Date: 2012-10-19 14:52:56 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-motycjak
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-motycjak
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-motycjak
+Repository UUID: 0d22a61f-41a5-46a7-9956-515ef4f8a663
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_motycjak
+Last Changed Rev: 12
+Last Changed Date: 2012-10-19 15:58:57 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 19
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 19
+Last Changed Date: 2012-10-19 14:39:37 +0200 (Fri, 19 Oct 2012)
+
+---
+CompoundProgram: program.getClass() - class Assignment
+CompoundProgram: program.getClass() - class CompoundProgram
+CompoundProgram: program.getClass() - class Assignment
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram: program.getClass() - class CompoundProgram in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rozendav
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository UUID: c83abeb0-3889-4f6c-9f4f-499ba0b2da5c
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rozendav
+Last Changed Rev: 8
+Last Changed Date: 2012-10-19 14:32:22 +0200 (Fri, 19 Oct 2012)
+
+Note: cvut_tpj-rozendav/homeworks/homework2.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Asignment(varname : x , expression : Bool, value true) 
+Asignment(varname : x , expression : Bool, value false) 
+Asignment(varname : x , expression : Num, value 1)  in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rudolsim
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rudolsim
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rudolsim
+Repository UUID: b53568cc-9cae-4573-9280-035efa7e6626
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rudolsim
+Last Changed Rev: 6
+Last Changed Date: 2012-10-19 16:47:55 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rysdanie
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository UUID: a771ec01-831a-45a0-8491-a44e1c01149e
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rysdanie
+Last Changed Rev: 5
+Last Changed Date: 2012-10-19 15:29:37 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 38
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 38
+Last Changed Date: 2012-10-19 17:18:03 +0200 (Fri, 19 Oct 2012)
+
+---
+[Var](x)
+[Var](x)
+[Var](x)
+[Var](y)
+[Var](z)
+[Ternary]([Var](x), [Var](y), [Var](z))
+[Var](x)
+[Var](y)
+[Var](z)
+[Ternary]([Var](x), [Var](y), [Var](z))
+[Var](x)
+[Var](y)
+[Var](z)
+[Ternary]([Var](x), [Var](y), [Var](z))
+[Var](x)
+[Var](y)
+[Var](z)
+[Ternary]([Var](x), [Var](y), [Var](z))
+[Bool](true)
+[Assignment](x, [Bool](true))
+[Bool](false)
+[Assignment](x, [Bool](false))
+[Program]([Assignment](x, [Bool](true)), [Assignment](x, [Bool](false)))
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:222)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-skoprobe
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository UUID: 4fac7b45-50ee-4f0f-a0eb-9f5019b5612c
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_skoprobe
+Last Changed Rev: 6
+Last Changed Date: 2012-10-19 17:18:54 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of VAR = x == VAR = y ? VAR = x : VAR = z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-smrzond1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-smrzond1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-smrzond1
+Repository UUID: b2d92d48-4040-4f08-816f-1a90005ff9f1
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_smrzond1
+Last Changed Rev: 9
+Last Changed Date: 2012-10-19 17:42:01 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:107)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-brustto1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository UUID: bb15169c-4118-4fa9-8ffe-205b01a16977
+Revision: 20
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_brustto1
+Last Changed Rev: 20
+Last Changed Date: 2012-10-19 19:28:35 +0200 (Fri, 19 Oct 2012)
+
+Soubor s ukolem NENALEZEN.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 24
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 24
+Last Changed Date: 2012-10-19 20:16:04 +0200 (Fri, 19 Oct 2012)
+
+---
+VAR_in: (name: x, type: NONE ...)
+VAR_in: (name: x, type:BOOLEAN)
+VAR_in: (name: x, type: NONE ...)
+VAR_in: (name: x, type:NUMBER)
+VAR_in: (name: x, type:BOOLEAN)
+VAR_in: (name: y, type:NUMBER)
+VAR_in: (name: z, type:NUMBER)
+VAR_in: (name: z, type:NUMBER)
+VAR_in: (name: x, type:BOOLEAN)
+VAR_in: (name: y, type:BOOLEAN)
+VAR_in: (name: z, type:BOOLEAN)
+VAR_in: (name: z, type:BOOLEAN)
+VALUES IN GAMMA:
+VAR NAME=x: null
+ASSIGNMENT_in: null, BOOLEAN
+Exception in thread "main" java.lang.AssertionError: Typecheck of ASSIGNMENT: (var name: x subexpr: BOOL: (true)) in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-dvorap39
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-dvorap39
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-dvorap39
+Repository UUID: 6111c5b0-a0e8-41e5-8e59-3128816e54b4
+Revision: 14
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_dvorap39
+Last Changed Rev: 14
+Last Changed Date: 2012-10-19 21:31:35 +0200 (Fri, 19 Oct 2012)
+
+---
+CompoudProgram... prubeh is welltyped.
+Assingement, name x, expr type Boolean
+Assingement, name x, expr type Boolean
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:256)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 1 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-horakmi2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 17
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 17
+Last Changed Date: 2012-10-19 18:38:22 +0200 (Fri, 19 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 43
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 43
+Last Changed Date: 2012-10-19 21:24:32 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kovalmil
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository UUID: 24db9c60-c502-4af5-986c-1b560b439886
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kovalmil
+Last Changed Rev: 10
+Last Changed Date: 2012-10-19 21:17:11 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at Assignment.getNewGamma(homework2.java:123)
+	at CompoundProgram.isWellTyped(homework2.java:158)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rysdanie
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository UUID: a771ec01-831a-45a0-8491-a44e1c01149e
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rysdanie
+Last Changed Rev: 6
+Last Changed Date: 2012-10-19 18:25:50 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 40
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 40
+Last Changed Date: 2012-10-19 20:17:17 +0200 (Fri, 19 Oct 2012)
+
+---
+[Var](x)
+[Var](x)
+[Var](x)
+[Var](y)
+[Var](z)
+[Ternary]([Var](x), [Var](y), [Var](z))
+[Var](x)
+[Var](y)
+[Var](z)
+[Ternary]([Var](x), [Var](y), [Var](z))
+[Var](x)
+[Var](y)
+[Var](z)
+[Ternary]([Var](x), [Var](y), [Var](z))
+[Var](x)
+[Var](y)
+[Var](z)
+[Ternary]([Var](x), [Var](y), [Var](z))
+[Bool](true)
+[Assignment](x, [Bool](true))
+[Bool](false)
+[Assignment](x, [Bool](false))
+[Program]([Assignment](x, [Bool](true)), [Assignment](x, [Bool](false)))
+[Num](1)
+[Assignment](x, [Num](1))
+[Program]([Assignment](x, [Bool](false)), [Assignment](x, [Num](1)))
+[Program]([Assignment](x, [Bool](true)), [Program]([Assignment](x, [Bool](false)), [Assignment](x, [Num](1))))
+Test PROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-smrzond1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-smrzond1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-smrzond1
+Repository UUID: b2d92d48-4040-4f08-816f-1a90005ff9f1
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_smrzond1
+Last Changed Rev: 11
+Last Changed Date: 2012-10-19 18:52:39 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of if var x then var y else var z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-turekto5
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-turekto5
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-turekto5
+Repository UUID: 8e5ad249-79fd-4900-8dbc-e97af074f2ae
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_turekto5
+Last Changed Rev: 5
+Last Changed Date: 2012-10-19 18:06:37 +0200 (Fri, 19 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.

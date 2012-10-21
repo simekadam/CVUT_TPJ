@@ -1,0 +1,25 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 19
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 19
+Last Changed Date: 2012-10-19 14:39:37 +0200 (Fri, 19 Oct 2012)
+
+---
+CompoundProgram: program.getClass() - class Assignment
+CompoundProgram: program.getClass() - class CompoundProgram
+CompoundProgram: program.getClass() - class Assignment
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram: program.getClass() - class CompoundProgram in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.

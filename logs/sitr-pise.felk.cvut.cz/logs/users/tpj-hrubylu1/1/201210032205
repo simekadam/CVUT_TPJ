@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-hrubylu1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210032205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-hrubylu1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-hrubylu1
+Repository UUID: b0e26aa9-ae8b-4cf8-8fcd-0ed1fe263b9b
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_hrubylu1
+Last Changed Rev: 12
+Last Changed Date: 2012-10-03 19:30:34 +0200 (Wed, 03 Oct 2012)
+
+cvut_tpj-hrubylu1/homeworks/homework1.java:35: illegal start of type
+    	HashSet<Expr> set = new HashSet<>();
+    	                                ^
+cvut_tpj-hrubylu1/homeworks/homework1.java:59: illegal start of type
+    	HashSet<Expr> set = new HashSet<>();
+    	                                ^
+cvut_tpj-hrubylu1/homeworks/homework1.java:95: illegal start of type
+    	HashSet<Expr> set = new HashSet<>();
+    	                                ^
+cvut_tpj-hrubylu1/homeworks/homework1.java:137: illegal start of type
+    	HashSet<Expr> set = new HashSet<>();
+    	                                ^
+cvut_tpj-hrubylu1/homeworks/homework1.java:177: illegal start of type
+    	HashSet<Expr> set = new HashSet<>();
+    	                                ^
+cvut_tpj-hrubylu1/homeworks/homework1.java:210: illegal start of type
+    	HashSet<Expr> set = new HashSet<>();
+    	                                ^
+6 errors
+Preklad NEPROSEL.

@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-brustto1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210031805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository UUID: bb15169c-4118-4fa9-8ffe-205b01a16977
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_brustto1
+Last Changed Rev: 8
+Last Changed Date: 2012-10-03 14:21:36 +0200 (Wed, 03 Oct 2012)
+
+Note: cvut_tpj-brustto1/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Test PROSEL. Spotrebovany cas: 0 s.

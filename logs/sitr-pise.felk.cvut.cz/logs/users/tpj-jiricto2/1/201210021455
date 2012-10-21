@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-jiricto2
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jiricto2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jiricto2
+Repository UUID: 997e0942-50d9-46c0-88b1-0c3d743c3374
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jiricto2
+Last Changed Rev: 4
+Last Changed Date: 2012-09-28 18:31:09 +0200 (Fri, 28 Sep 2012)
+
+cvut_tpj-jiricto2/homeworks/homework1.java:84: illegal start of type
+        Set<Expr> set = new HashSet<>();
+                                    ^
+1 error
+Preklad NEPROSEL.

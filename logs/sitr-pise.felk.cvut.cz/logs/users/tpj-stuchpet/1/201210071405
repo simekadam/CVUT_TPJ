@@ -1,0 +1,52 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-stuchpet
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210071405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stuchpet
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stuchpet
+Repository UUID: 039a9f22-634f-4131-9739-05e15ffd3ba1
+Revision: 1
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stuchpet
+Last Changed Rev: 1
+Last Changed Date: 2012-10-07 12:56:47 +0200 (Sun, 07 Oct 2012)
+
+cvut_tpj-stuchpet/homeworks/homework1.java:43: illegal start of type
+        return new HashSet<>();
+                           ^
+cvut_tpj-stuchpet/homeworks/homework1.java:68: illegal start of type
+        return new HashSet<>();
+                           ^
+cvut_tpj-stuchpet/homeworks/homework1.java:111: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+cvut_tpj-stuchpet/homeworks/homework1.java:163: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+cvut_tpj-stuchpet/homeworks/homework1.java:216: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+cvut_tpj-stuchpet/homeworks/homework1.java:258: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+cvut_tpj-stuchpet/homeworks/homework1.java:276: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+cvut_tpj-stuchpet/homeworks/homework1.java:282: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+cvut_tpj-stuchpet/homeworks/homework1.java:288: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+cvut_tpj-stuchpet/homeworks/homework1.java:296: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+cvut_tpj-stuchpet/homeworks/homework1.java:304: illegal start of type
+        Set<Expr> result = new HashSet<>();
+                                       ^
+11 errors
+Preklad NEPROSEL.

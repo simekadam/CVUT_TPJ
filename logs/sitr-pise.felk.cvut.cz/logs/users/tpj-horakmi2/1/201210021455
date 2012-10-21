@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-horakmi2
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-horakmi2
+Repository UUID: 74a4d8d7-0cba-4528-8c9c-93342c7b7535
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_horakmi2
+Last Changed Rev: 2
+Last Changed Date: 2012-09-24 22:13:40 +0200 (Mon, 24 Sep 2012)
+
+cvut_tpj-horakmi2/homeworks/homework1.java:120: illegal start of type
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<>();
+                                                                      ^
+cvut_tpj-horakmi2/homeworks/homework1.java:170: illegal start of type
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<>();
+                                                                      ^
+cvut_tpj-horakmi2/homeworks/homework1.java:232: illegal start of type
+        ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<>();
+                                                                      ^
+cvut_tpj-horakmi2/homeworks/homework1.java:284: illegal start of type
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<>();
+                                                                          ^
+cvut_tpj-horakmi2/homeworks/homework1.java:290: illegal start of type
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<>();
+                                                                          ^
+cvut_tpj-horakmi2/homeworks/homework1.java:304: illegal start of type
+            ImmutableSet.Builder<Expr> builder = new ImmutableSet.Builder<>();
+                                                                          ^
+6 errors
+Preklad NEPROSEL.

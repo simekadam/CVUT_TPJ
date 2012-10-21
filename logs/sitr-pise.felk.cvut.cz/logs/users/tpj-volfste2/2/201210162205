@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 8
+Last Changed Date: 2012-10-16 21:00:32 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment(x, Bool(true)) in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.

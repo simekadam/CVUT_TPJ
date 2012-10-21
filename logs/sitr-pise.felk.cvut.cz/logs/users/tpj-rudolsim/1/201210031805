@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rudolsim
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210031805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rudolsim
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rudolsim
+Repository UUID: b53568cc-9cae-4573-9280-035efa7e6626
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rudolsim
+Last Changed Rev: 3
+Last Changed Date: 2012-10-03 15:07:15 +0200 (Wed, 03 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:44)
+Test NEPROSEL. Spotrebovany cas: 0 s.

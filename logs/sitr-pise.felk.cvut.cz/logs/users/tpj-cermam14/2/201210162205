@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 14
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 14
+Last Changed Date: 2012-10-16 18:17:59 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of var name: x in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.

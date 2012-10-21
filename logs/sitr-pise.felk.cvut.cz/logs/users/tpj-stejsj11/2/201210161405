@@ -1,0 +1,51 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-stejsj11
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-stejsj11
+Repository UUID: eeccbbdb-3289-4014-9575-f01201c3005e
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_stejsj11
+Last Changed Rev: 9
+Last Changed Date: 2012-10-16 11:23:24 +0200 (Tue, 16 Oct 2012)
+
+---
+Type error in x
+Type error in x
+Type error in if x then y else z
+Type error in if x then y else z
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Checking type of: 
+x=true;
+x=false;
+
+Checking type of: 
+x=true;
+
+Type ok in: 
+x=true;
+
+Type ok in: 
+x=true;
+x=false;
+
+Checking type of: 
+x=false;
+
+Type error in: 
+x=false;
+
+Exception in thread "main" java.lang.AssertionError
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.

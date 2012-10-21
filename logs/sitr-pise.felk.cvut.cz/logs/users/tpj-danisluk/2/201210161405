@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-danisluk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository UUID: df604ef5-ad05-436d-ac45-5d4053adaa28
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_danisluk
+Last Changed Rev: 5
+Last Changed Date: 2012-10-16 13:53:42 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework2Test.main(Homework2Test.java:10)
+Test NEPROSEL. Spotrebovany cas: 0 s.

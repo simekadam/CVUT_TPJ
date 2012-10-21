@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mazanma3
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210182205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mazanma3
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mazanma3
+Repository UUID: dfd4130e-4780-4df4-b334-82df6bad2da1
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mazanma3
+Last Changed Rev: 5
+Last Changed Date: 2012-10-18 18:52:31 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.

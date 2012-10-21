@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-saterond
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210062205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository UUID: 719a4495-0031-4f48-998b-95ee38858139
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_saterond
+Last Changed Rev: 3
+Last Changed Date: 2012-10-06 19:35:55 +0200 (Sat, 06 Oct 2012)
+
+Note: cvut_tpj-saterond/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Test PROSEL. Spotrebovany cas: 0 s.

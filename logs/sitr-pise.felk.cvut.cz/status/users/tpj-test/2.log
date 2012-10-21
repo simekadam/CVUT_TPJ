@@ -1,0 +1,19 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-test
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210151805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-test
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-test
+Repository UUID: b5421165-2628-4ea8-8b92-b72a378c67e4
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: michal.pise
+Last Changed Rev: 5
+Last Changed Date: 2012-10-15 16:42:54 +0200 (Mon, 15 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 0 s.

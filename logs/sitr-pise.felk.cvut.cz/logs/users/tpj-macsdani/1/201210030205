@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-macsdani
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210030205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-macsdani
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-macsdani
+Repository UUID: b9ee5a96-2c20-4aa5-afe3-650840eba6b8
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_macsdani
+Last Changed Rev: 3
+Last Changed Date: 2012-10-02 22:00:51 +0200 (Tue, 02 Oct 2012)
+
+cvut_tpj-macsdani/homeworks/homework1.java:60: illegal start of type
+        Set<Expr> s = new HashSet<>();
+                                  ^
+cvut_tpj-macsdani/homeworks/homework1.java:92: illegal start of type
+        Set<Expr> s = new HashSet<>();
+                                  ^
+cvut_tpj-macsdani/homeworks/homework1.java:138: illegal start of type
+        Set<Expr> s = new HashSet<>();
+                                  ^
+cvut_tpj-macsdani/homeworks/homework1.java:198: illegal start of type
+        Set<Expr> s = new HashSet<>();
+                                  ^
+cvut_tpj-macsdani/homeworks/homework1.java:254: illegal start of type
+        Set<Expr> s = new HashSet<>();
+                                  ^
+cvut_tpj-macsdani/homeworks/homework1.java:301: illegal start of type
+        Set<Expr> s = new HashSet<>();
+                                  ^
+6 errors
+Preklad NEPROSEL.

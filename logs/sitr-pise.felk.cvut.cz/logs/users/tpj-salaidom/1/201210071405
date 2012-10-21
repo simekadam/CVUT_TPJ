@@ -1,0 +1,29 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-salaidom
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210071405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository UUID: 7262eb51-a58a-4e16-85c2-8ee7564f6a2a
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_salaidom
+Last Changed Rev: 3
+Last Changed Date: 2012-10-07 11:38:27 +0200 (Sun, 07 Oct 2012)
+
+cvut_tpj-salaidom/homeworks/homework1.java:393: incompatible types
+found   : com.google.common.collect.ImmutableSet<Num>
+required: java.util.Set<Expr>
+        if (subexpr.isNumber()) return ImmutableSet.of(new Num(0)); // (12)
+                                                      ^
+cvut_tpj-salaidom/homeworks/homework1.java:394: incompatible types
+found   : com.google.common.collect.ImmutableSet<Num>
+required: java.util.Set<Expr>
+        else if(subexpr.isVariable()) return ImmutableSet.of(new Num(1)); // (13)
+                                                            ^
+2 errors
+Preklad NEPROSEL.

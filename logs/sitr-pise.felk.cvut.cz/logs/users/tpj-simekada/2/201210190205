@@ -1,0 +1,46 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 29
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 29
+Last Changed Date: 2012-10-19 01:22:25 +0200 (Fri, 19 Oct 2012)
+
+---
+Var@9931f5
+Var@f84386
+Var@15d56d5
+Var@efd552
+Var@19dfbff
+Ternary@10b4b2f
+Tak co to asi je za typ false
+Var@750159
+Var@1abab88
+Var@18a7efd
+Ternary@1971afc
+Tak co to asi je za typ true
+Var@18385e3
+Var@1cb25f1
+Var@2808b3
+Ternary@535b58
+Tak co to asi je za typ true
+Var@922804
+Var@1815859
+Var@cf40f5
+Ternary@b1c260
+Tak co to asi je za typ false
+Bool@8b819f
+Assignment@eb017e
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@eb017e in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.

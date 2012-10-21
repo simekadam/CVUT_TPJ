@@ -1,0 +1,26 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-jinocvla
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository UUID: 0d5ce121-767a-497f-86a5-6f9f0be3d983
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jinocvla
+Last Changed Rev: 9
+Last Changed Date: 2012-10-18 08:32:57 +0200 (Thu, 18 Oct 2012)
+
+---
+NUMBER NUMBER
+BOOLEAN BOOLEAN
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at CompoundProgram.isWellTyped(homework2.java:170)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.

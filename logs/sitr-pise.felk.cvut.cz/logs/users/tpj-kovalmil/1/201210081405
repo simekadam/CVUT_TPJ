@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kovalmil
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210081405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kovalmil
+Repository UUID: 24db9c60-c502-4af5-986c-1b560b439886
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kovalmil
+Last Changed Rev: 3
+Last Changed Date: 2012-10-08 11:38:39 +0200 (Mon, 08 Oct 2012)
+
+---
+Exception in thread "main" java.lang.ClassCastException: Exponentiation cannot be cast to Multiplication
+	at Derivative.oneStepRewrite(homework1.java:391)
+	at Homework1Test.main(Homework1Test.java:45)
+Test NEPROSEL. Spotrebovany cas: 1 s.

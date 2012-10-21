@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-egermma1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210092205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-egermma1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-egermma1
+Repository UUID: 8db800c8-78d5-48af-a41b-ef1b02e24cf3
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_egermma1
+Last Changed Rev: 12
+Last Changed Date: 2012-10-09 20:08:06 +0200 (Tue, 09 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:44)
+Test NEPROSEL. Spotrebovany cas: 0 s.

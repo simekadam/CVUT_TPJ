@@ -1,0 +1,19 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-macosond
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210131005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-macosond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-macosond
+Repository UUID: b0951968-58fc-4aac-8b75-76678f37b77b
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_macosond
+Last Changed Rev: 3
+Last Changed Date: 2012-10-12 21:20:44 +0200 (Fri, 12 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 1 s.

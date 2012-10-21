@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-volfste2
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-volfste2
+Repository UUID: f1f67ad8-9966-4a40-9e7f-0b0462f8c341
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_volfste2
+Last Changed Rev: 10
+Last Changed Date: 2012-10-17 11:48:18 +0200 (Wed, 17 Oct 2012)
+
+---
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
+	at Assignment.isWellTyped(homework2.java:138)
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 0 s.

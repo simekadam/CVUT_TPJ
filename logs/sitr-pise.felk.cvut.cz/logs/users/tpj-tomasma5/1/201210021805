@@ -1,0 +1,444 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-tomasma5
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-tomasma5
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-tomasma5
+Repository UUID: 5f998abe-1397-4ff9-8a41-9e4d64ef2262
+Revision: 7
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_tomasma5
+Last Changed Rev: 7
+Last Changed Date: 2012-10-02 15:57:44 +0200 (Tue, 02 Oct 2012)
+
+../tests/Homework1Test.java:2: cannot find symbol
+symbol  : class Expr
+location: class Homework1Test
+	    public static boolean expressionsAreIsomorphic(Expr first, Expr second) {
+	                                                   ^
+../tests/Homework1Test.java:2: cannot find symbol
+symbol  : class Expr
+location: class Homework1Test
+	    public static boolean expressionsAreIsomorphic(Expr first, Expr second) {
+	                                                               ^
+../tests/Homework1Test.java:16: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+	        public static boolean numbersAreIsomorphic(Num first, Num second) {
+	                                                   ^
+../tests/Homework1Test.java:16: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+	        public static boolean numbersAreIsomorphic(Num first, Num second) {
+	                                                              ^
+../tests/Homework1Test.java:20: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+		    public static boolean xsAreIsomorphic(X first, X second) {
+		                                          ^
+../tests/Homework1Test.java:20: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+		    public static boolean xsAreIsomorphic(X first, X second) {
+		                                                   ^
+../tests/Homework1Test.java:24: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+		        public static boolean additionsAreIsomorphic(Addition first, Addition second) {
+		                                                     ^
+../tests/Homework1Test.java:24: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+		        public static boolean additionsAreIsomorphic(Addition first, Addition second) {
+		                                                                     ^
+../tests/Homework1Test.java:28: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+			    public static boolean multiplicationsAreIsomorphic(Multiplication first, Multiplication second) {
+			                                                       ^
+../tests/Homework1Test.java:28: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+			    public static boolean multiplicationsAreIsomorphic(Multiplication first, Multiplication second) {
+			                                                                             ^
+../tests/Homework1Test.java:32: cannot find symbol
+symbol  : class Exponentiation
+location: class Homework1Test
+			        public static boolean exponentiationsAreIsomorphic(Exponentiation first, Exponentiation second) {
+			                                                           ^
+../tests/Homework1Test.java:32: cannot find symbol
+symbol  : class Exponentiation
+location: class Homework1Test
+			        public static boolean exponentiationsAreIsomorphic(Exponentiation first, Exponentiation second) {
+			                                                                                 ^
+../tests/Homework1Test.java:36: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+				    public static boolean derivativesAreIsomorphic(Derivative first, Derivative second) {
+				                                                   ^
+../tests/Homework1Test.java:36: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+				    public static boolean derivativesAreIsomorphic(Derivative first, Derivative second) {
+				                                                                     ^
+cvut_tpj-tomasma5/homeworks/homework1.java:51: cannot find symbol
+symbol  : class HashSet
+location: class homework1.Num
+        Set<Expr> result = new HashSet<Expr>();
+                               ^
+cvut_tpj-tomasma5/homeworks/homework1.java:82: cannot find symbol
+symbol  : class HashSet
+location: class homework1.X
+        Set<Expr> result = new HashSet<Expr>();
+                               ^
+cvut_tpj-tomasma5/homeworks/homework1.java:130: cannot find symbol
+symbol  : class HashSet
+location: class homework1.Addition
+        Set<Expr> result = new HashSet<Expr>();
+                               ^
+cvut_tpj-tomasma5/homeworks/homework1.java:131: cannot find symbol
+symbol  : class Iterator
+location: class homework1.Addition
+        Iterator expIt;
+        ^
+cvut_tpj-tomasma5/homeworks/homework1.java:199: cannot find symbol
+symbol  : class HashSet
+location: class homework1.Multiplication
+        Set<Expr> result = new HashSet<Expr>();
+                               ^
+cvut_tpj-tomasma5/homeworks/homework1.java:200: cannot find symbol
+symbol  : class Iterator
+location: class homework1.Multiplication
+        Iterator expIt;
+        ^
+cvut_tpj-tomasma5/homeworks/homework1.java:270: cannot find symbol
+symbol  : class HashSet
+location: class homework1.Exponentiation
+        Set<Expr> result = new HashSet<Expr>();
+                               ^
+cvut_tpj-tomasma5/homeworks/homework1.java:273: cannot find symbol
+symbol  : class Iterator
+location: class homework1.Exponentiation
+            Iterator expIt = leftExpSet.iterator();
+            ^
+cvut_tpj-tomasma5/homeworks/homework1.java:322: cannot find symbol
+symbol  : class HashSet
+location: class homework1.Derivative
+        Set<Expr> result = new HashSet<Expr>();
+                               ^
+cvut_tpj-tomasma5/homeworks/homework1.java:323: cannot find symbol
+symbol  : class Iterator
+location: class homework1.Derivative
+        Iterator expIt;
+        ^
+../tests/Homework1Test.java:3: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+		            if (first instanceof Num && second instanceof Num) return numbersAreIsomorphic((Num) first, (Num) second);
+		                                 ^
+../tests/Homework1Test.java:3: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+		            if (first instanceof Num && second instanceof Num) return numbersAreIsomorphic((Num) first, (Num) second);
+		                                                          ^
+../tests/Homework1Test.java:3: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+		            if (first instanceof Num && second instanceof Num) return numbersAreIsomorphic((Num) first, (Num) second);
+		                                                                                            ^
+../tests/Homework1Test.java:3: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+		            if (first instanceof Num && second instanceof Num) return numbersAreIsomorphic((Num) first, (Num) second);
+		                                                                                                         ^
+../tests/Homework1Test.java:4: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+			            if (first instanceof X && second instanceof X) return xsAreIsomorphic((X) first, (X) second);
+			                                 ^
+../tests/Homework1Test.java:4: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+			            if (first instanceof X && second instanceof X) return xsAreIsomorphic((X) first, (X) second);
+			                                                        ^
+../tests/Homework1Test.java:4: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+			            if (first instanceof X && second instanceof X) return xsAreIsomorphic((X) first, (X) second);
+			                                                                                   ^
+../tests/Homework1Test.java:4: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+			            if (first instanceof X && second instanceof X) return xsAreIsomorphic((X) first, (X) second);
+			                                                                                              ^
+../tests/Homework1Test.java:5: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+				            if (first instanceof Addition && second instanceof Addition)
+				                                 ^
+../tests/Homework1Test.java:5: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+				            if (first instanceof Addition && second instanceof Addition)
+				                                                               ^
+../tests/Homework1Test.java:6: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+						                return additionsAreIsomorphic((Addition) first, (Addition) second);
+						                                               ^
+../tests/Homework1Test.java:6: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+						                return additionsAreIsomorphic((Addition) first, (Addition) second);
+						                                                                 ^
+../tests/Homework1Test.java:7: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+					            if (first instanceof Multiplication && second instanceof Multiplication)
+					                                 ^
+../tests/Homework1Test.java:7: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+					            if (first instanceof Multiplication && second instanceof Multiplication)
+					                                                                     ^
+../tests/Homework1Test.java:8: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+							                return multiplicationsAreIsomorphic((Multiplication) first, (Multiplication) second);
+							                                                     ^
+../tests/Homework1Test.java:8: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+							                return multiplicationsAreIsomorphic((Multiplication) first, (Multiplication) second);
+							                                                                             ^
+../tests/Homework1Test.java:9: cannot find symbol
+symbol  : class Exponentiation
+location: class Homework1Test
+						            if (first instanceof Exponentiation && second instanceof Exponentiation)
+						                                 ^
+../tests/Homework1Test.java:9: cannot find symbol
+symbol  : class Exponentiation
+location: class Homework1Test
+						            if (first instanceof Exponentiation && second instanceof Exponentiation)
+						                                                                     ^
+../tests/Homework1Test.java:10: cannot find symbol
+symbol  : class Exponentiation
+location: class Homework1Test
+								                return exponentiationsAreIsomorphic((Exponentiation) first, (Exponentiation) second);
+								                                                     ^
+../tests/Homework1Test.java:10: cannot find symbol
+symbol  : class Exponentiation
+location: class Homework1Test
+								                return exponentiationsAreIsomorphic((Exponentiation) first, (Exponentiation) second);
+								                                                                             ^
+../tests/Homework1Test.java:11: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+							            if (first instanceof Derivative && second instanceof Derivative)
+							                                 ^
+../tests/Homework1Test.java:11: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+							            if (first instanceof Derivative && second instanceof Derivative)
+							                                                                 ^
+../tests/Homework1Test.java:12: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+									                return derivativesAreIsomorphic((Derivative) first, (Derivative) second);
+									                                                 ^
+../tests/Homework1Test.java:12: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+									                return derivativesAreIsomorphic((Derivative) first, (Derivative) second);
+									                                                                     ^
+../tests/Homework1Test.java:41: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+						        assert expressionsAreIsomorphic(new Derivative(new Num(42)).oneStepRewrite().iterator().next(), new Num(0));
+						                                            ^
+../tests/Homework1Test.java:41: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+						        assert expressionsAreIsomorphic(new Derivative(new Num(42)).oneStepRewrite().iterator().next(), new Num(0));
+						                                                           ^
+../tests/Homework1Test.java:41: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+						        assert expressionsAreIsomorphic(new Derivative(new Num(42)).oneStepRewrite().iterator().next(), new Num(0));
+						                                                                                                            ^
+../tests/Homework1Test.java:42: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+							        assert expressionsAreIsomorphic(new Derivative(new X()).oneStepRewrite().iterator().next(), new Num(1));
+							                                            ^
+../tests/Homework1Test.java:42: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+							        assert expressionsAreIsomorphic(new Derivative(new X()).oneStepRewrite().iterator().next(), new Num(1));
+							                                                           ^
+../tests/Homework1Test.java:42: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+							        assert expressionsAreIsomorphic(new Derivative(new X()).oneStepRewrite().iterator().next(), new Num(1));
+							                                                                                                        ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                            ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                           ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                                        ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                                                 ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                                                                                               ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                                                                                                            ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                                                                                                                           ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                                                                                                                                     ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                                                                                                                                                    ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                            ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                           ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                              ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                       ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class Addition
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                     ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                                  ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                                                     ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                                                              ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                                                                             ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                                                                                        ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                                                                                                           ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                                                                                                                          ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                                                                                                                                                                                    ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class Derivative
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                            ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class Exponentiation
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                           ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                                              ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                                                       ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class Multiplication
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                                                                                                        ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                                                                                                                           ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class Exponentiation
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                                                                                                                                       ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class X
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                                                                                                                                                          ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : class Num
+location: class Homework1Test
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                                                                                                                                                                   ^
+85 errors
+Preklad NEPROSEL.

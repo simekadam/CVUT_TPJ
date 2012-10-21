@@ -1,0 +1,23 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-harcuond
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210031805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-harcuond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-harcuond
+Repository UUID: 9e83022a-8d4d-4139-bf40-68cdccce4358
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_harcuond
+Last Changed Rev: 4
+Last Changed Date: 2012-10-03 17:41:38 +0200 (Wed, 03 Oct 2012)
+
+Note: cvut_tpj-harcuond/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:41)
+Test NEPROSEL. Spotrebovany cas: -1 s.

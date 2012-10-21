@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210171805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 18
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 18
+Last Changed Date: 2012-10-17 16:29:57 +0200 (Wed, 17 Oct 2012)
+
+---
+VAR_in: (type: NONE ...)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type: NONE ...)
+VAR_in: (type:NUMBER)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type:NUMBER)
+VAR_in: (type:NUMBER)
+VAR_in: (type:NUMBER)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type:BOOLEAN)
+VAR_in: (type:BOOLEAN)
+ASSIGNMENT_in: null, BOOLEAN
+ASSIGNMENT_in: null, BOOLEAN
+ASSIGNMENT_in: null, BOOLEAN
+Exception in thread "main" java.lang.AssertionError: Typecheck of Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (true)) program: Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (false)) program: ASSIGNMENT: (var name: x subexpr: NUM: (1)))) in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.

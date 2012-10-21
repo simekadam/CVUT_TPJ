@@ -1,0 +1,46 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-sukhomik
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210022205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-sukhomik
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-sukhomik
+Repository UUID: 1cb33e2c-a8d2-44f8-a243-d5ae934fa282
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_sukhomik
+Last Changed Rev: 4
+Last Changed Date: 2012-10-02 21:02:20 +0200 (Tue, 02 Oct 2012)
+
+---
+-----Derivative-----
+subexpr: Num
+output: 
+Num
+------------------------
+-----Derivative-----
+subexpr: X
+output: 
+Num
+------------------------
+-----Derivative-----
+subexpr: Addition
+output: 
+Addition
+------------------------
+-----Derivative-----
+subexpr: Multiplication
+output: 
+Addition
+------------------------
+-----Derivative-----
+subexpr: Exponentiation
+output: 
+Multiplication
+------------------------
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:45)
+Test NEPROSEL.

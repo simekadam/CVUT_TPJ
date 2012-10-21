@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-motycjak
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-motycjak
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-motycjak
+Repository UUID: 0d22a61f-41a5-46a7-9956-515ef4f8a663
+Revision: 12
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_motycjak
+Last Changed Rev: 12
+Last Changed Date: 2012-10-19 15:58:57 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 1 s.

@@ -1,0 +1,64 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-jinocvla
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository UUID: 0d5ce121-767a-497f-86a5-6f9f0be3d983
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jinocvla
+Last Changed Rev: 2
+Last Changed Date: 2012-09-30 20:23:15 +0200 (Sun, 30 Sep 2012)
+
+cvut_tpj-jinocvla/homeworks/homework1.java:16: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Num
+        return ImmutableSet.of();
+               ^
+cvut_tpj-jinocvla/homeworks/homework1.java:37: X is not abstract and does not override abstract method oneStepRewrite() in Expr
+class X implements Expr {
+^
+cvut_tpj-jinocvla/homeworks/homework1.java:53: Addition is not abstract and does not override abstract method oneStepRewrite() in Expr
+class Addition implements Expr {
+^
+cvut_tpj-jinocvla/homeworks/homework1.java:82: Multiplication is not abstract and does not override abstract method oneStepRewrite() in Expr
+class Multiplication implements Expr {
+^
+cvut_tpj-jinocvla/homeworks/homework1.java:111: Exponentiation is not abstract and does not override abstract method oneStepRewrite() in Expr
+class Exponentiation implements Expr {
+^
+cvut_tpj-jinocvla/homeworks/homework1.java:141: Derivative is not abstract and does not override abstract method oneStepRewrite() in Expr
+class Derivative implements Expr {
+^
+../tests/Homework1Test.java:41: cannot find symbol
+symbol  : method oneStepRewrite()
+location: class Derivative
+						        assert expressionsAreIsomorphic(new Derivative(new Num(42)).oneStepRewrite().iterator().next(), new Num(0));
+						                                                                   ^
+../tests/Homework1Test.java:42: cannot find symbol
+symbol  : method oneStepRewrite()
+location: class Derivative
+							        assert expressionsAreIsomorphic(new Derivative(new X()).oneStepRewrite().iterator().next(), new Num(1));
+							                                                               ^
+../tests/Homework1Test.java:43: cannot find symbol
+symbol  : method oneStepRewrite()
+location: class Derivative
+								        assert expressionsAreIsomorphic(new Derivative(new Addition(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Derivative(new X()), new Derivative(new X())));
+								                                                                                      ^
+../tests/Homework1Test.java:44: cannot find symbol
+symbol  : method oneStepRewrite()
+location: class Derivative
+									        assert expressionsAreIsomorphic(new Derivative(new Multiplication(new X(), new X())).oneStepRewrite().iterator().next(), new Addition(new Multiplication(new X(), new Derivative(new X())), new Multiplication(new Derivative(new X()), new X())));
+									                                                                                            ^
+../tests/Homework1Test.java:45: cannot find symbol
+symbol  : method oneStepRewrite()
+location: class Derivative
+										        assert expressionsAreIsomorphic(new Derivative(new Exponentiation(new X(), new Num(2))).oneStepRewrite().iterator().next(), new Multiplication(new Num(2), new Exponentiation(new X(), new Num(1))));
+										                                                                                               ^
+11 errors
+Preklad NEPROSEL.

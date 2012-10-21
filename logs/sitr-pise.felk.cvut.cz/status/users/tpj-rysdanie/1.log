@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rysdanie
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210081805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository UUID: a771ec01-831a-45a0-8491-a44e1c01149e
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rysdanie
+Last Changed Rev: 3
+Last Changed Date: 2012-10-08 16:54:42 +0200 (Mon, 08 Oct 2012)
+
+Note: cvut_tpj-rysdanie/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Test PROSEL. Spotrebovany cas: 0 s.

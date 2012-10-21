@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-skoprobe
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository UUID: 4fac7b45-50ee-4f0f-a0eb-9f5019b5612c
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_skoprobe
+Last Changed Rev: 6
+Last Changed Date: 2012-10-19 17:18:54 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of VAR = x == VAR = y ? VAR = x : VAR = z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.

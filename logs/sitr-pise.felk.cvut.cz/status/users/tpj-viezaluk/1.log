@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-viezaluk
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210091405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-viezaluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-viezaluk
+Repository UUID: 4eca64d0-4ed9-4e22-a938-a1282f9fb343
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_viezaluk
+Last Changed Rev: 3
+Last Changed Date: 2012-10-09 07:19:05 +0200 (Tue, 09 Oct 2012)
+
+---
+Derivate: ((42)')
+Derivate: ((X)')
+Derivate: (((X) + (X))')
+Derivate: (((X) * (X))')
+Derivate: (((X) na (2))')
+Test PROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,339 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-sukhomik
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210040205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-sukhomik
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-sukhomik
+Repository UUID: 1cb33e2c-a8d2-44f8-a243-d5ae934fa282
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_sukhomik
+Last Changed Rev: 6
+Last Changed Date: 2012-10-03 22:35:03 +0200 (Wed, 03 Oct 2012)
+
+---
+-----Derivative-----
+subexpr: Num
+output: 
+Num
+-----Num-----
+value: 0
+------------------------
+onestep: []
+------------------------
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-----Derivative-----
+subexpr: Addition
+output: 
+Addition
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-------Addition---------
+left: Derivative
+right: Derivative
+output: 
+Addition
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-----Num-----
+value: 1
+------------------------
+-------Addition---------
+left: Derivative
+right: Num
+output: 
+Addition
+-------Addition---------
+left: Num
+right: Num
+output: 
+Num
+-----Num-----
+value: 2
+------------------------
+onestep: []
+------------------------
+onestep: [Num@2]
+------------------------
+onestep: [Addition@20]
+Addition
+-----Num-----
+value: 1
+------------------------
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-------Addition---------
+left: Num
+right: Derivative
+output: 
+Addition
+-------Addition---------
+left: Num
+right: Num
+output: 
+Num
+-----Num-----
+value: 2
+------------------------
+onestep: []
+------------------------
+onestep: [Num@2]
+------------------------
+onestep: [Addition@20]
+------------------------
+onestep: [Addition@20, Addition@20]
+------------------------
+Derivative from multiplication
+-----Derivative-----
+subexpr: Multiplication
+output: 
+Addition
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-----Multiplication-----
+left: X
+right: Derivative
+output: 
+Multiplication
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: X
+right: Num
+output: 
+------------------------
+onestep: []
+------------------------
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-----Multiplication-----
+left: Derivative
+right: X
+output: 
+Multiplication
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: Num
+right: X
+output: 
+------------------------
+onestep: []
+------------------------
+-------Addition---------
+left: Multiplication
+right: Multiplication
+output: 
+Addition
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-----Multiplication-----
+left: X
+right: Derivative
+output: 
+Multiplication
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: X
+right: Num
+output: 
+------------------------
+onestep: []
+------------------------
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: Num
+right: X
+output: 
+------------------------
+-------Addition---------
+left: Multiplication
+right: Multiplication
+output: 
+Addition
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: X
+right: Num
+output: 
+------------------------
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: Num
+right: X
+output: 
+------------------------
+-------Addition---------
+left: Multiplication
+right: Multiplication
+output: 
+------------------------
+onestep: []
+------------------------
+onestep: [Addition@400]
+Addition
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: X
+right: Num
+output: 
+------------------------
+-----Derivative-----
+subexpr: X
+output: 
+Num
+-----Num-----
+value: 1
+------------------------
+onestep: []
+------------------------
+-----Multiplication-----
+left: Derivative
+right: X
+output: 
+Multiplication
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: Num
+right: X
+output: 
+------------------------
+onestep: []
+------------------------
+-------Addition---------
+left: Multiplication
+right: Multiplication
+output: 
+Addition
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: X
+right: Num
+output: 
+------------------------
+-----Num-----
+value: 1
+------------------------
+-----Multiplication-----
+left: Num
+right: X
+output: 
+------------------------
+-------Addition---------
+left: Multiplication
+right: Multiplication
+output: 
+------------------------
+onestep: []
+------------------------
+onestep: [Addition@400]
+------------------------
+onestep: [Addition@400, Addition@400]
+------------------------
+Derivative from exponent
+-----Derivative-----
+subexpr: Exponentiation
+output: 
+Multiplication
+-----Num-----
+value: 2
+------------------------
+-----Exponentiation-----
+subexpr: X
+exponent: 2
+output: 
+------------------------
+-----Exponentiation-----
+subexpr: Exponentiation
+exponent: 1
+output: 
+------------------------
+-----Multiplication-----
+left: Num
+right: Exponentiation
+output: 
+------------------------
+onestep: []
+------------------------
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:45)
+Test NEPROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,28 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-jakesjan
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jakesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jakesjan
+Repository UUID: 510ffe5d-d40a-4d85-9d29-ae8b4ca6e7ab
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jakesjan
+Last Changed Rev: 4
+Last Changed Date: 2012-09-28 18:10:59 +0200 (Fri, 28 Sep 2012)
+
+cvut_tpj-jakesjan/homeworks/homework1.java:123: illegal start of type
+        Set<Expr> set = new HashSet<>();
+                                    ^
+cvut_tpj-jakesjan/homeworks/homework1.java:167: illegal start of type
+        Set<Expr> set = new HashSet<>();
+                                    ^
+cvut_tpj-jakesjan/homeworks/homework1.java:211: illegal start of type
+        Set<Expr> set = new HashSet<>();
+                                    ^
+3 errors
+Preklad NEPROSEL.

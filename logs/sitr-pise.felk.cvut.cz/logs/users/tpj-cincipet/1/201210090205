@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cincipet
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210090205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cincipet
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cincipet
+Repository UUID: 6704f99c-4e05-42d2-b581-bb6d8fad80f0
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cincipet
+Last Changed Rev: 2
+Last Changed Date: 2012-10-08 23:21:48 +0200 (Mon, 08 Oct 2012)
+
+cvut_tpj-cincipet/homeworks/homework1.java:43: illegal start of type
+        return new HashSet<>();
+                           ^
+1 error
+Preklad NEPROSEL.

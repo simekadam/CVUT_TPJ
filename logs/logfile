@@ -1,0 +1,3378 @@
+--2012-10-19 23:15:21--  http://sitr-pise.felk.cvut.cz/
+Resolving sitr-pise.felk.cvut.cz (sitr-pise.felk.cvut.cz)... 147.32.83.86
+Connecting to sitr-pise.felk.cvut.cz (sitr-pise.felk.cvut.cz)|147.32.83.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 834 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/index.html’
+
+     0K                                                       100% 44.2M=0s
+
+2012-10-19 23:15:22 (44.2 MB/s) - ‘sitr-pise.felk.cvut.cz/index.html’ saved [834/834]
+
+Loading robots.txt; please ignore errors.
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/robots.txt
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 404 Not Found
+2012-10-19 23:15:22 ERROR 404: Not Found.
+
+Removing sitr-pise.felk.cvut.cz/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/modifiedRepos/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 251 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/modifiedRepos/index.html’
+
+     0K                                                       100% 29.9M=0s
+
+2012-10-19 23:15:22 (29.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/modifiedRepos/index.html’ saved [251/251]
+
+Removing sitr-pise.felk.cvut.cz/status/modifiedRepos/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/queuedRepos/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 497 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/queuedRepos/index.html’
+
+     0K                                                       100% 67.7M=0s
+
+2012-10-19 23:15:22 (67.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/queuedRepos/index.html’ saved [497/497]
+
+Removing sitr-pise.felk.cvut.cz/status/queuedRepos/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/repoInfos/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4333 (4.2K) [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/repoInfos/index.html’
+
+     0K ....                                                  100%  250K=0.02s
+
+2012-10-19 23:15:22 (250 KB/s) - ‘sitr-pise.felk.cvut.cz/status/repoInfos/index.html’ saved [4333/4333]
+
+Removing sitr-pise.felk.cvut.cz/status/repoInfos/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4179 (4.1K) [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/index.html’
+
+     0K ....                                                  100%  322K=0.01s
+
+2012-10-19 23:15:22 (322 KB/s) - ‘sitr-pise.felk.cvut.cz/status/users/index.html’ saved [4179/4179]
+
+Removing sitr-pise.felk.cvut.cz/status/users/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/logs/users/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4173 (4.1K) [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/index.html’
+
+     0K ....                                                  100%  790K=0.005s
+
+2012-10-19 23:15:22 (790 KB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/index.html’ saved [4173/4173]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 576 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/index.html’
+
+     0K                                                       100% 49.9M=0s
+
+2012-10-19 23:15:22 (49.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/index.html’ saved [576/576]
+
+Removing sitr-pise.felk.cvut.cz/status/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-bartojak/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-bartojak/index.html’
+
+     0K                                                       100% 36.1M=0s
+
+2012-10-19 23:15:22 (36.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-bartojak/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-bartojak/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-bartomat/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-bartomat/index.html’
+
+     0K                                                       100% 40.2M=0s
+
+2012-10-19 23:15:22 (40.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-bartomat/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-bartomat/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-bobisjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-bobisjan/index.html’
+
+     0K                                                       100% 14.5M=0s
+
+2012-10-19 23:15:22 (14.5 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-bobisjan/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-bobisjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-brejcja1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-brejcja1/index.html’
+
+     0K                                                       100% 40.2M=0s
+
+2012-10-19 23:15:22 (40.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-brejcja1/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-brejcja1/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-brustto1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-brustto1/index.html’
+
+     0K                                                       100% 54.5M=0s
+
+2012-10-19 23:15:22 (54.5 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-brustto1/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-brustto1/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-burdavac/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-burdavac/index.html’
+
+     0K                                                       100% 43.6M=0s
+
+2012-10-19 23:15:22 (43.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-burdavac/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-burdavac/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-buzektom/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-buzektom/index.html’
+
+     0K                                                       100% 30.1M=0s
+
+2012-10-19 23:15:22 (30.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-buzektom/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-buzektom/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-cermam14/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-cermam14/index.html’
+
+     0K                                                       100% 48.4M=0s
+
+2012-10-19 23:15:22 (48.4 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-cermam14/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-cermam14/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-chasaota/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-chasaota/index.html’
+
+     0K                                                       100% 45.2M=0s
+
+2012-10-19 23:15:22 (45.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-chasaota/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-chasaota/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-cincipet/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-cincipet/index.html’
+
+     0K                                                       100% 40.2M=0s
+
+2012-10-19 23:15:22 (40.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-cincipet/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-cincipet/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-danisluk/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-danisluk/index.html’
+
+     0K                                                       100% 20.4M=0s
+
+2012-10-19 23:15:22 (20.4 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-danisluk/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-danisluk/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-dvorap39/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-dvorap39/index.html’
+
+     0K                                                       100% 43.6M=0s
+
+2012-10-19 23:15:22 (43.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-dvorap39/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-dvorap39/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-egermma1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-egermma1/index.html’
+
+     0K                                                       100% 16.4M=0s
+
+2012-10-19 23:15:22 (16.4 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-egermma1/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-egermma1/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-harcuond/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-harcuond/index.html’
+
+     0K                                                       100% 40.2M=0s
+
+2012-10-19 23:15:22 (40.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-harcuond/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-harcuond/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-hollmosk/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-hollmosk/index.html’
+
+     0K                                                       100% 43.6M=0s
+
+2012-10-19 23:15:22 (43.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-hollmosk/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-hollmosk/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-horakmi2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-horakmi2/index.html’
+
+     0K                                                       100% 46.8M=0s
+
+2012-10-19 23:15:22 (46.8 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-horakmi2/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-horakmi2/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-hostivac/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-hostivac/index.html’
+
+     0K                                                       100% 36.1M=0s
+
+2012-10-19 23:15:22 (36.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-hostivac/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-hostivac/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-hrubylu1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-hrubylu1/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:22 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-hrubylu1/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-hrubylu1/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-jakesjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-jakesjan/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:22 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-jakesjan/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-jakesjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-jinocvla/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-jinocvla/index.html’
+
+     0K                                                       100% 39.0M=0s
+
+2012-10-19 23:15:22 (39.0 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-jinocvla/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-jinocvla/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-jiricto2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-jiricto2/index.html’
+
+     0K                                                       100% 40.2M=0s
+
+2012-10-19 23:15:22 (40.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-jiricto2/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-jiricto2/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-kalisja1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-kalisja1/index.html’
+
+     0K                                                       100% 58.5M=0s
+
+2012-10-19 23:15:22 (58.5 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-kalisja1/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-kalisja1/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-kloucvla/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-kloucvla/index.html’
+
+     0K                                                       100% 51.6M=0s
+
+2012-10-19 23:15:22 (51.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-kloucvla/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-kloucvla/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-kolarj29/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-kolarj29/index.html’
+
+     0K                                                       100% 40.2M=0s
+
+2012-10-19 23:15:22 (40.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-kolarj29/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-kolarj29/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-koukavoj/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-koukavoj/index.html’
+
+     0K                                                       100% 43.6M=0s
+
+2012-10-19 23:15:22 (43.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-koukavoj/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-koukavoj/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-kovalmil/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-kovalmil/index.html’
+
+     0K                                                       100% 48.4M=0s
+
+2012-10-19 23:15:22 (48.4 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-kovalmil/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-kovalmil/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-kozakto2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-kozakto2/index.html’
+
+     0K                                                       100% 51.6M=0s
+
+2012-10-19 23:15:22 (51.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-kozakto2/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-kozakto2/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-kropumar/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-kropumar/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:22 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-kropumar/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-kropumar/index.html since it should be rejected.
+
+--2012-10-19 23:15:22--  http://sitr-pise.felk.cvut.cz/status/users/tpj-macosond/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-macosond/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:23 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-macosond/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-macosond/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-macsdani/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-macsdani/index.html’
+
+     0K                                                       100% 30.1M=0s
+
+2012-10-19 23:15:23 (30.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-macsdani/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-macsdani/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-malisdom/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-malisdom/index.html’
+
+     0K                                                       100% 32.9M=0s
+
+2012-10-19 23:15:23 (32.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-malisdom/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-malisdom/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-mazanma3/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-mazanma3/index.html’
+
+     0K                                                       100% 21.3M=0s
+
+2012-10-19 23:15:23 (21.3 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-mazanma3/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-mazanma3/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-minarja4/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-minarja4/index.html’
+
+     0K                                                       100% 42.6M=0s
+
+2012-10-19 23:15:23 (42.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-minarja4/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-minarja4/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-mirteond/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-mirteond/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:23 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-mirteond/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-mirteond/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-moldamil/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-moldamil/index.html’
+
+     0K                                                       100% 15.1M=0s
+
+2012-10-19 23:15:23 (15.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-moldamil/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-moldamil/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-motycjak/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-motycjak/index.html’
+
+     0K                                                       100% 39.6M=0s
+
+2012-10-19 23:15:23 (39.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-motycjak/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-motycjak/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-motykvla/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-motykvla/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:23 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-motykvla/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-motykvla/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-mrazezd1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-mrazezd1/index.html’
+
+     0K                                                       100% 17.4M=0s
+
+2012-10-19 23:15:23 (17.4 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-mrazezd1/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-mrazezd1/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-murinjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-murinjan/index.html’
+
+     0K                                                       100% 43.6M=0s
+
+2012-10-19 23:15:23 (43.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-murinjan/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-murinjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-muzikja6/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 345 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-muzikja6/index.html’
+
+     0K                                                       100% 27.4M=0s
+
+2012-10-19 23:15:23 (27.4 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-muzikja6/index.html’ saved [345/345]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-muzikja6/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-panekon1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-panekon1/index.html’
+
+     0K                                                       100% 36.1M=0s
+
+2012-10-19 23:15:23 (36.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-panekon1/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-panekon1/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-pecekjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-pecekjan/index.html’
+
+     0K                                                       100% 19.8M=0s
+
+2012-10-19 23:15:23 (19.8 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-pecekjan/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-pecekjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-pokorj18/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-pokorj18/index.html’
+
+     0K                                                       100% 32.9M=0s
+
+2012-10-19 23:15:23 (32.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-pokorj18/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-pokorj18/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-poledtom/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-poledtom/index.html’
+
+     0K                                                       100% 36.1M=0s
+
+2012-10-19 23:15:23 (36.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-poledtom/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-poledtom/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-princdan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-princdan/index.html’
+
+     0K                                                       100% 36.1M=0s
+
+2012-10-19 23:15:23 (36.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-princdan/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-princdan/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-prochka6/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-prochka6/index.html’
+
+     0K                                                       100% 17.2M=0s
+
+2012-10-19 23:15:23 (17.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-prochka6/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-prochka6/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-puncmdan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-puncmdan/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:23 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-puncmdan/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-puncmdan/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-purchva1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-purchva1/index.html’
+
+     0K                                                       100% 32.9M=0s
+
+2012-10-19 23:15:23 (32.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-purchva1/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-purchva1/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-remesjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-remesjan/index.html’
+
+     0K                                                       100% 46.8M=0s
+
+2012-10-19 23:15:23 (46.8 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-remesjan/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-remesjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-richtsta/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 345 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-richtsta/index.html’
+
+     0K                                                       100% 15.0M=0s
+
+2012-10-19 23:15:23 (15.0 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-richtsta/index.html’ saved [345/345]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-richtsta/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-rochekar/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-rochekar/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:23 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-rochekar/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-rochekar/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-rokytjak/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-rokytjak/index.html’
+
+     0K                                                       100% 15.1M=0s
+
+2012-10-19 23:15:23 (15.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-rokytjak/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-rokytjak/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-rozendav/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-rozendav/index.html’
+
+     0K                                                       100% 9.91M=0s
+
+2012-10-19 23:15:23 (9.91 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-rozendav/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-rozendav/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-rudolsim/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-rudolsim/index.html’
+
+     0K                                                       100% 43.6M=0s
+
+2012-10-19 23:15:23 (43.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-rudolsim/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-rudolsim/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-rysdanie/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-rysdanie/index.html’
+
+     0K                                                       100% 22.9M=0s
+
+2012-10-19 23:15:23 (22.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-rysdanie/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-rysdanie/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-salaidom/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-salaidom/index.html’
+
+     0K                                                       100% 39.0M=0s
+
+2012-10-19 23:15:23 (39.0 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-salaidom/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-salaidom/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-salampa1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-salampa1/index.html’
+
+     0K                                                       100% 46.8M=0s
+
+2012-10-19 23:15:23 (46.8 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-salampa1/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-salampa1/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-saterond/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-saterond/index.html’
+
+     0K                                                       100% 54.5M=0s
+
+2012-10-19 23:15:23 (54.5 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-saterond/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-saterond/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-simekada/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-simekada/index.html’
+
+     0K                                                       100% 58.5M=0s
+
+2012-10-19 23:15:23 (58.5 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-simekada/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-simekada/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-skoprobe/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-skoprobe/index.html’
+
+     0K                                                       100% 48.4M=0s
+
+2012-10-19 23:15:23 (48.4 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-skoprobe/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-skoprobe/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-smrzond1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-smrzond1/index.html’
+
+     0K                                                       100% 36.3M=0s
+
+2012-10-19 23:15:23 (36.3 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-smrzond1/index.html’ saved [457/457]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-smrzond1/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-sojakrob/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-sojakrob/index.html’
+
+     0K                                                       100% 36.1M=0s
+
+2012-10-19 23:15:23 (36.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-sojakrob/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-sojakrob/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-stajnmar/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-stajnmar/index.html’
+
+     0K                                                       100% 36.1M=0s
+
+2012-10-19 23:15:23 (36.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-stajnmar/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-stajnmar/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-stejsj11/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-stejsj11/index.html’
+
+     0K                                                       100% 20.4M=0s
+
+2012-10-19 23:15:23 (20.4 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-stejsj11/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-stejsj11/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-strakja7/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-strakja7/index.html’
+
+     0K                                                       100% 36.1M=0s
+
+2012-10-19 23:15:23 (36.1 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-strakja7/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-strakja7/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-strnape1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-strnape1/index.html’
+
+     0K                                                       100% 42.6M=0s
+
+2012-10-19 23:15:23 (42.6 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-strnape1/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-strnape1/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-stuchpet/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-stuchpet/index.html’
+
+     0K                                                       100% 40.2M=0s
+
+2012-10-19 23:15:23 (40.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-stuchpet/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-stuchpet/index.html since it should be rejected.
+
+--2012-10-19 23:15:23--  http://sitr-pise.felk.cvut.cz/status/users/tpj-sukhomik/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-sukhomik/index.html’
+
+     0K                                                       100% 32.9M=0s
+
+2012-10-19 23:15:24 (32.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-sukhomik/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-sukhomik/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/status/users/tpj-svobom39/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-svobom39/index.html’
+
+     0K                                                       100% 40.2M=0s
+
+2012-10-19 23:15:24 (40.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-svobom39/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-svobom39/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/status/users/tpj-taranpe1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-taranpe1/index.html’
+
+     0K                                                       100% 32.9M=0s
+
+2012-10-19 23:15:24 (32.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-taranpe1/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-taranpe1/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/status/users/tpj-test/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 415 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-test/index.html’
+
+     0K                                                       100% 17.2M=0s
+
+2012-10-19 23:15:24 (17.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-test/index.html’ saved [415/415]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-test/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/status/users/tpj-tomasma5/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-tomasma5/index.html’
+
+     0K                                                       100% 15.7M=0s
+
+2012-10-19 23:15:24 (15.7 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-tomasma5/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-tomasma5/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/status/users/tpj-turekto5/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-turekto5/index.html’
+
+     0K                                                       100% 10.9M=0s
+
+2012-10-19 23:15:24 (10.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-turekto5/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-turekto5/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/status/users/tpj-viezaluk/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-viezaluk/index.html’
+
+     0K                                                       100% 32.9M=0s
+
+2012-10-19 23:15:24 (32.9 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-viezaluk/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-viezaluk/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/status/users/tpj-volfste2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-volfste2/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:24 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-volfste2/index.html’ saved [491/491]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-volfste2/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/status/users/tpj-zemanon6/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-zemanon6/index.html’
+
+     0K                                                       100% 17.2M=0s
+
+2012-10-19 23:15:24 (17.2 MB/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-zemanon6/index.html’ saved [379/379]
+
+Removing sitr-pise.felk.cvut.cz/status/users/tpj-zemanon6/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 532 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/index.html’
+
+     0K                                                       100% 42.3M=0s
+
+2012-10-19 23:15:24 (42.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/index.html’ saved [532/532]
+
+Removing sitr-pise.felk.cvut.cz/logs/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-bartojak/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bartojak/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:24 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bartojak/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-bartojak/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-bartomat/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bartomat/index.html’
+
+     0K                                                       100% 25.2M=0s
+
+2012-10-19 23:15:24 (25.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bartomat/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-bartomat/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/index.html’
+
+     0K                                                       100% 10.6M=0s
+
+2012-10-19 23:15:24 (10.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-brejcja1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brejcja1/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:24 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brejcja1/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-brejcja1/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/index.html’
+
+     0K                                                       100% 34.0M=0s
+
+2012-10-19 23:15:24 (34.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/index.html’
+
+     0K                                                       100% 20.4M=0s
+
+2012-10-19 23:15:24 (20.4 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-buzektom/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-buzektom/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:24 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-buzektom/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-buzektom/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/index.html’
+
+     0K                                                       100% 30.6M=0s
+
+2012-10-19 23:15:24 (30.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-chasaota/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-chasaota/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:24 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-chasaota/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-chasaota/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-cincipet/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cincipet/index.html’
+
+     0K                                                       100% 30.8M=0s
+
+2012-10-19 23:15:24 (30.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cincipet/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-cincipet/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/index.html’
+
+     0K                                                       100% 38.3M=0s
+
+2012-10-19 23:15:24 (38.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/index.html’
+
+     0K                                                       100% 25.5M=0s
+
+2012-10-19 23:15:24 (25.5 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-egermma1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-egermma1/index.html’
+
+     0K                                                       100% 13.2M=0s
+
+2012-10-19 23:15:24 (13.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-egermma1/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-egermma1/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-harcuond/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-harcuond/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:24 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-harcuond/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-harcuond/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/index.html’
+
+     0K                                                       100% 30.6M=0s
+
+2012-10-19 23:15:24 (30.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/index.html’
+
+     0K                                                       100% 38.3M=0s
+
+2012-10-19 23:15:24 (38.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-hostivac/
+Connecting to sitr-pise.felk.cvut.cz (sitr-pise.felk.cvut.cz)|147.32.83.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hostivac/index.html’
+
+     0K                                                       100% 21.3M=0s
+
+2012-10-19 23:15:24 (21.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hostivac/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-hostivac/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-hrubylu1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hrubylu1/index.html’
+
+     0K                                                       100% 30.8M=0s
+
+2012-10-19 23:15:24 (30.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hrubylu1/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-hrubylu1/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-jakesjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jakesjan/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:24 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jakesjan/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-jakesjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/index.html’
+
+     0K                                                       100% 38.3M=0s
+
+2012-10-19 23:15:24 (38.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-jiricto2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jiricto2/index.html’
+
+     0K                                                       100% 12.6M=0s
+
+2012-10-19 23:15:24 (12.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jiricto2/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-jiricto2/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/index.html’
+
+     0K                                                       100% 30.6M=0s
+
+2012-10-19 23:15:24 (30.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kloucvla/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kloucvla/index.html’
+
+     0K                                                       100% 30.8M=0s
+
+2012-10-19 23:15:24 (30.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kloucvla/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kloucvla/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kolarj29/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kolarj29/index.html’
+
+     0K                                                       100% 23.1M=0s
+
+2012-10-19 23:15:24 (23.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kolarj29/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kolarj29/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/index.html’
+
+     0K                                                       100% 13.9M=0s
+
+2012-10-19 23:15:24 (13.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/index.html’
+
+     0K                                                       100% 12.8M=0s
+
+2012-10-19 23:15:24 (12.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kozakto2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kozakto2/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:24 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kozakto2/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kozakto2/index.html since it should be rejected.
+
+--2012-10-19 23:15:24--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kropumar/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kropumar/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kropumar/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kropumar/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-macosond/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-macosond/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:25 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-macosond/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-macosond/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-macsdani/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-macsdani/index.html’
+
+     0K                                                       100% 25.2M=0s
+
+2012-10-19 23:15:25 (25.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-macsdani/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-macsdani/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-malisdom/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-malisdom/index.html’
+
+     0K                                                       100% 25.2M=0s
+
+2012-10-19 23:15:25 (25.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-malisdom/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-malisdom/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/index.html’
+
+     0K                                                       100% 13.9M=0s
+
+2012-10-19 23:15:25 (13.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/index.html’
+
+     0K                                                       100% 13.9M=0s
+
+2012-10-19 23:15:25 (13.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-mirteond/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mirteond/index.html’
+
+     0K                                                       100% 23.1M=0s
+
+2012-10-19 23:15:25 (23.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mirteond/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-mirteond/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-moldamil/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-moldamil/index.html’
+
+     0K                                                       100% 12.6M=0s
+
+2012-10-19 23:15:25 (12.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-moldamil/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-moldamil/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-motykvla/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motykvla/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motykvla/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-motykvla/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-muzikja6/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-muzikja6/index.html’
+
+     0K                                                       100% 12.6M=0s
+
+2012-10-19 23:15:25 (12.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-muzikja6/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-muzikja6/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-panekon1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-panekon1/index.html’
+
+     0K                                                       100% 10.7M=0s
+
+2012-10-19 23:15:25 (10.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-panekon1/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-panekon1/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/index.html’
+
+     0K                                                       100% 10.2M=0s
+
+2012-10-19 23:15:25 (10.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-pokorj18/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pokorj18/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pokorj18/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-pokorj18/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-poledtom/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-poledtom/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:25 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-poledtom/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-poledtom/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-princdan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-princdan/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:25 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-princdan/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-princdan/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-prochka6/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-prochka6/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:25 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-prochka6/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-prochka6/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-puncmdan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-puncmdan/index.html’
+
+     0K                                                       100% 23.1M=0s
+
+2012-10-19 23:15:25 (23.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-puncmdan/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-puncmdan/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-purchva1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-purchva1/index.html’
+
+     0K                                                       100% 11.6M=0s
+
+2012-10-19 23:15:25 (11.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-purchva1/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-purchva1/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/index.html’
+
+     0K                                                       100% 13.3M=0s
+
+2012-10-19 23:15:25 (13.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-richtsta/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-richtsta/index.html’
+
+     0K                                                       100% 39.6M=0s
+
+2012-10-19 23:15:25 (39.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-richtsta/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-richtsta/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rochekar/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rochekar/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:25 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rochekar/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rochekar/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rokytjak/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rokytjak/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rokytjak/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rokytjak/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/index.html’
+
+     0K                                                       100% 30.6M=0s
+
+2012-10-19 23:15:25 (30.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/index.html’
+
+     0K                                                       100% 34.0M=0s
+
+2012-10-19 23:15:25 (34.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/index.html’
+
+     0K                                                       100% 21.9M=0s
+
+2012-10-19 23:15:25 (21.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/index.html’
+
+     0K                                                       100% 38.3M=0s
+
+2012-10-19 23:15:25 (38.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/index.html’
+
+     0K                                                       100% 34.0M=0s
+
+2012-10-19 23:15:25 (34.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/index.html’
+
+     0K                                                       100% 30.6M=0s
+
+2012-10-19 23:15:25 (30.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/index.html’
+
+     0K                                                       100% 38.3M=0s
+
+2012-10-19 23:15:25 (38.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/index.html’
+
+     0K                                                       100% 11.8M=0s
+
+2012-10-19 23:15:25 (11.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-sojakrob/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-sojakrob/index.html’
+
+     0K                                                       100% 23.1M=0s
+
+2012-10-19 23:15:25 (23.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-sojakrob/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-sojakrob/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-stajnmar/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stajnmar/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stajnmar/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-stajnmar/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/index.html’
+
+     0K                                                       100% 13.3M=0s
+
+2012-10-19 23:15:25 (13.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-strakja7/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strakja7/index.html’
+
+     0K                                                       100% 30.8M=0s
+
+2012-10-19 23:15:25 (30.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strakja7/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-strakja7/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/index.html’
+
+     0K                                                       100% 27.8M=0s
+
+2012-10-19 23:15:25 (27.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-stuchpet/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stuchpet/index.html’
+
+     0K                                                       100% 23.1M=0s
+
+2012-10-19 23:15:25 (23.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stuchpet/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-stuchpet/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-sukhomik/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-sukhomik/index.html’
+
+     0K                                                       100% 25.2M=0s
+
+2012-10-19 23:15:25 (25.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-sukhomik/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-sukhomik/index.html since it should be rejected.
+
+--2012-10-19 23:15:25--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-svobom39/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-svobom39/index.html’
+
+     0K                                                       100% 25.2M=0s
+
+2012-10-19 23:15:26 (25.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-svobom39/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-svobom39/index.html since it should be rejected.
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-taranpe1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-taranpe1/index.html’
+
+     0K                                                       100% 25.2M=0s
+
+2012-10-19 23:15:26 (25.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-taranpe1/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-taranpe1/index.html since it should be rejected.
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-test/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 313 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-test/index.html’
+
+     0K                                                       100% 29.9M=0s
+
+2012-10-19 23:15:26 (29.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-test/index.html’ saved [313/313]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-test/index.html since it should be rejected.
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-tomasma5/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-tomasma5/index.html’
+
+     0K                                                       100% 13.2M=0s
+
+2012-10-19 23:15:26 (13.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-tomasma5/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-tomasma5/index.html since it should be rejected.
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/index.html’
+
+     0K                                                       100% 34.0M=0s
+
+2012-10-19 23:15:26 (34.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/index.html since it should be rejected.
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-viezaluk/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-viezaluk/index.html’
+
+     0K                                                       100% 34.7M=0s
+
+2012-10-19 23:15:26 (34.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-viezaluk/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-viezaluk/index.html since it should be rejected.
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/index.html’
+
+     0K                                                       100% 13.3M=0s
+
+2012-10-19 23:15:26 (13.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/index.html’ saved [321/321]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/index.html since it should be rejected.
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-zemanon6/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 291 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-zemanon6/index.html’
+
+     0K                                                       100% 14.6M=0s
+
+2012-10-19 23:15:26 (14.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-zemanon6/index.html’ saved [291/291]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-zemanon6/index.html since it should be rejected.
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-danisluk/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-danisluk/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-danisluk/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-horakmi2/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-horakmi2/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-horakmi2/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-jinocvla/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-jinocvla/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-jinocvla/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-kalisja1/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-kalisja1/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-kalisja1/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-mazanma3/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-mazanma3/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-mazanma3/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-minarja4/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-minarja4/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-minarja4/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-remesjan/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-remesjan/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-remesjan/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-salaidom/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-salaidom/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-salaidom/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-salampa1/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-salampa1/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-salampa1/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-simekada/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-simekada/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-simekada/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-stejsj11/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-stejsj11/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-stejsj11/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-strnape1/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-strnape1/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-strnape1/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-turekto5/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-turekto5/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-turekto5/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/status/users/tpj-volfste2/2.ok
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘sitr-pise.felk.cvut.cz/status/users/tpj-volfste2/2.ok’
+
+     0K                                                        0.00 =0s
+
+2012-10-19 23:15:26 (0.00 B/s) - ‘sitr-pise.felk.cvut.cz/status/users/tpj-volfste2/2.ok’ saved [0/0]
+
+--2012-10-19 23:15:26--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-bartojak/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bartojak/1/index.html’
+
+     0K                                                       100% 24.1M=0s
+
+2012-10-19 23:15:27 (24.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bartojak/1/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-bartojak/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-bartomat/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bartomat/1/index.html’
+
+     0K                                                       100% 55.9M=0s
+
+2012-10-19 23:15:27 (55.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bartomat/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-bartomat/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 628 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/1/index.html’
+
+     0K                                                       100% 59.9M=0s
+
+2012-10-19 23:15:27 (59.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/1/index.html’ saved [628/628]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/2/index.html’
+
+     0K                                                       100% 24.1M=0s
+
+2012-10-19 23:15:27 (24.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/2/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-bobisjan/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-brejcja1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brejcja1/1/index.html’
+
+     0K                                                       100% 42.0M=0s
+
+2012-10-19 23:15:27 (42.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brejcja1/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-brejcja1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 628 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/1/index.html’
+
+     0K                                                       100% 59.9M=0s
+
+2012-10-19 23:15:27 (59.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/1/index.html’ saved [628/628]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/2/index.html’
+
+     0K                                                       100% 55.1M=0s
+
+2012-10-19 23:15:27 (55.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/2/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-brustto1/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/1/index.html’
+
+     0K                                                       100% 50.1M=0s
+
+2012-10-19 23:15:27 (50.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/1/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/2/index.html’
+
+     0K                                                       100% 27.6M=0s
+
+2012-10-19 23:15:27 (27.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/2/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-burdavac/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-buzektom/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-buzektom/1/index.html’
+
+     0K                                                       100% 40.8M=0s
+
+2012-10-19 23:15:27 (40.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-buzektom/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-buzektom/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/1/index.html’
+
+     0K                                                       100% 22.9M=0s
+
+2012-10-19 23:15:27 (22.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 678 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/2/index.html’
+
+     0K                                                       100% 23.9M=0s
+
+2012-10-19 23:15:27 (23.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/2/index.html’ saved [678/678]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-cermam14/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-chasaota/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-chasaota/1/index.html’
+
+     0K                                                       100% 14.2M=0s
+
+2012-10-19 23:15:27 (14.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-chasaota/1/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-chasaota/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-cincipet/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cincipet/1/index.html’
+
+     0K                                                       100% 30.0M=0s
+
+2012-10-19 23:15:27 (30.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-cincipet/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-cincipet/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/1/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:27 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/2/index.html’
+
+     0K                                                       100% 62.9M=0s
+
+2012-10-19 23:15:27 (62.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/2/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-danisluk/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/1/index.html’
+
+     0K                                                       100% 30.0M=0s
+
+2012-10-19 23:15:27 (30.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/2/index.html’
+
+     0K                                                       100% 37.1M=0s
+
+2012-10-19 23:15:27 (37.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/2/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-dvorap39/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-egermma1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-egermma1/1/index.html’
+
+     0K                                                       100% 50.1M=0s
+
+2012-10-19 23:15:27 (50.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-egermma1/1/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-egermma1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:27--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-harcuond/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-harcuond/1/index.html’
+
+     0K                                                       100% 22.9M=0s
+
+2012-10-19 23:15:28 (22.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-harcuond/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-harcuond/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/1/index.html’
+
+     0K                                                       100% 45.6M=0s
+
+2012-10-19 23:15:28 (45.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/1/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/2/index.html’
+
+     0K                                                       100% 31.3M=0s
+
+2012-10-19 23:15:28 (31.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/2/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-hollmosk/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/1/index.html’
+
+     0K                                                       100% 50.7M=0s
+
+2012-10-19 23:15:28 (50.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/1/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 678 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/2/index.html’
+
+     0K                                                       100% 71.8M=0s
+
+2012-10-19 23:15:28 (71.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/2/index.html’ saved [678/678]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-horakmi2/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-hostivac/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hostivac/1/index.html’
+
+     0K                                                       100% 28.4M=0s
+
+2012-10-19 23:15:28 (28.4 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hostivac/1/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-hostivac/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-hrubylu1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 628 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hrubylu1/1/index.html’
+
+     0K                                                       100% 26.0M=0s
+
+2012-10-19 23:15:28 (26.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-hrubylu1/1/index.html’ saved [628/628]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-hrubylu1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-jakesjan/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jakesjan/1/index.html’
+
+     0K                                                       100% 40.8M=0s
+
+2012-10-19 23:15:28 (40.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jakesjan/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-jakesjan/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/1/
+Connecting to sitr-pise.felk.cvut.cz (sitr-pise.felk.cvut.cz)|147.32.83.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/1/index.html’
+
+     0K                                                       100% 9.49M=0s
+
+2012-10-19 23:15:28 (9.49 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/2/index.html’
+
+     0K                                                       100% 19.8M=0s
+
+2012-10-19 23:15:28 (19.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/2/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-jinocvla/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-jiricto2/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jiricto2/1/index.html’
+
+     0K                                                       100% 40.1M=0s
+
+2012-10-19 23:15:28 (40.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-jiricto2/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-jiricto2/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/1/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:28 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/2/index.html’
+
+     0K                                                       100% 12.5M=0s
+
+2012-10-19 23:15:28 (12.5 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/2/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kalisja1/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kloucvla/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kloucvla/1/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:28 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kloucvla/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kloucvla/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kolarj29/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kolarj29/1/index.html’
+
+     0K                                                       100% 20.7M=0s
+
+2012-10-19 23:15:28 (20.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kolarj29/1/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kolarj29/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/1/index.html’
+
+     0K                                                       100% 25.1M=0s
+
+2012-10-19 23:15:28 (25.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/1/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/2/index.html’
+
+     0K                                                       100% 50.1M=0s
+
+2012-10-19 23:15:28 (50.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/2/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-koukavoj/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/1/index.html’
+
+     0K                                                       100% 55.9M=0s
+
+2012-10-19 23:15:28 (55.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/2/index.html’
+
+     0K                                                       100% 17.7M=0s
+
+2012-10-19 23:15:28 (17.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/2/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kovalmil/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kozakto2/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kozakto2/1/index.html’
+
+     0K                                                       100% 13.2M=0s
+
+2012-10-19 23:15:28 (13.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kozakto2/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kozakto2/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-kropumar/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kropumar/1/index.html’
+
+     0K                                                       100% 32.8M=0s
+
+2012-10-19 23:15:28 (32.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-kropumar/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-kropumar/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-macosond/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-macosond/1/index.html’
+
+     0K                                                       100% 24.0M=0s
+
+2012-10-19 23:15:28 (24.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-macosond/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-macosond/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-macsdani/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 728 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-macsdani/1/index.html’
+
+     0K                                                       100% 77.1M=0s
+
+2012-10-19 23:15:28 (77.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-macsdani/1/index.html’ saved [728/728]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-macsdani/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-malisdom/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-malisdom/1/index.html’
+
+     0K                                                       100% 14.2M=0s
+
+2012-10-19 23:15:28 (14.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-malisdom/1/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-malisdom/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/1/index.html’
+
+     0K                                                       100% 45.1M=0s
+
+2012-10-19 23:15:28 (45.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/2/index.html’
+
+     0K                                                       100% 40.1M=0s
+
+2012-10-19 23:15:28 (40.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/2/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-mazanma3/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/1/index.html’
+
+     0K                                                       100% 45.4M=0s
+
+2012-10-19 23:15:28 (45.4 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/2/index.html’
+
+     0K                                                       100% 31.3M=0s
+
+2012-10-19 23:15:28 (31.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/2/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-minarja4/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-mirteond/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mirteond/1/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:28 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mirteond/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-mirteond/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-moldamil/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-moldamil/1/index.html’
+
+     0K                                                       100% 45.4M=0s
+
+2012-10-19 23:15:28 (45.4 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-moldamil/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-moldamil/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/1/index.html’
+
+     0K                                                       100% 45.4M=0s
+
+2012-10-19 23:15:28 (45.4 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/2/index.html’
+
+     0K                                                       100% 34.8M=0s
+
+2012-10-19 23:15:28 (34.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/2/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-motycjak/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:28--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-motykvla/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motykvla/1/index.html’
+
+     0K                                                       100% 40.8M=0s
+
+2012-10-19 23:15:29 (40.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-motykvla/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-motykvla/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/1/index.html’
+
+     0K                                                       100% 62.9M=0s
+
+2012-10-19 23:15:29 (62.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/2/index.html’
+
+     0K                                                       100% 55.9M=0s
+
+2012-10-19 23:15:29 (55.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/2/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-mrazezd1/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/1/index.html’
+
+     0K                                                       100% 55.1M=0s
+
+2012-10-19 23:15:29 (55.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/1/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/2/index.html’
+
+     0K                                                       100% 45.4M=0s
+
+2012-10-19 23:15:29 (45.4 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/2/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-murinjan/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-muzikja6/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-muzikja6/1/index.html’
+
+     0K                                                       100% 40.1M=0s
+
+2012-10-19 23:15:29 (40.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-muzikja6/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-muzikja6/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-panekon1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-panekon1/1/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:29 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-panekon1/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-panekon1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/1/index.html’
+
+     0K                                                       100% 34.0M=0s
+
+2012-10-19 23:15:29 (34.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/2/index.html’
+
+     0K                                                       100% 13.0M=0s
+
+2012-10-19 23:15:29 (13.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/2/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-pecekjan/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-pokorj18/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pokorj18/1/index.html’
+
+     0K                                                       100% 30.0M=0s
+
+2012-10-19 23:15:29 (30.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-pokorj18/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-pokorj18/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-poledtom/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-poledtom/1/index.html’
+
+     0K                                                       100% 20.7M=0s
+
+2012-10-19 23:15:29 (20.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-poledtom/1/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-poledtom/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-princdan/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-princdan/1/index.html’
+
+     0K                                                       100% 19.0M=0s
+
+2012-10-19 23:15:29 (19.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-princdan/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-princdan/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-prochka6/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-prochka6/1/index.html’
+
+     0K                                                       100% 32.8M=0s
+
+2012-10-19 23:15:29 (32.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-prochka6/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-prochka6/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-puncmdan/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-puncmdan/1/index.html’
+
+     0K                                                       100% 30.0M=0s
+
+2012-10-19 23:15:29 (30.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-puncmdan/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-puncmdan/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-purchva1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-purchva1/1/index.html’
+
+     0K                                                       100% 37.1M=0s
+
+2012-10-19 23:15:29 (37.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-purchva1/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-purchva1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/1/index.html’
+
+     0K                                                       100% 21.9M=0s
+
+2012-10-19 23:15:29 (21.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 628 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/2/index.html’
+
+     0K                                                       100% 59.9M=0s
+
+2012-10-19 23:15:29 (59.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/2/index.html’ saved [628/628]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-remesjan/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-richtsta/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-richtsta/1/index.html’
+
+     0K                                                       100% 16.3M=0s
+
+2012-10-19 23:15:29 (16.3 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-richtsta/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-richtsta/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rochekar/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rochekar/1/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:29 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rochekar/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rochekar/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rokytjak/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rokytjak/1/index.html’
+
+     0K                                                       100% 37.1M=0s
+
+2012-10-19 23:15:29 (37.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rokytjak/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rokytjak/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/1/index.html’
+
+     0K                                                       100% 45.1M=0s
+
+2012-10-19 23:15:29 (45.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/2/index.html’
+
+     0K                                                       100% 65.1M=0s
+
+2012-10-19 23:15:29 (65.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/2/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rozendav/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/1/index.html’
+
+     0K                                                       100% 45.6M=0s
+
+2012-10-19 23:15:29 (45.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/1/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/2/index.html’
+
+     0K                                                       100% 26.1M=0s
+
+2012-10-19 23:15:29 (26.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/2/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rudolsim/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/1/index.html’
+
+     0K                                                       100% 17.0M=0s
+
+2012-10-19 23:15:29 (17.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/2/index.html’
+
+     0K                                                       100% 40.8M=0s
+
+2012-10-19 23:15:29 (40.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/2/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-rysdanie/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/1/index.html’
+
+     0K                                                       100% 40.8M=0s
+
+2012-10-19 23:15:29 (40.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/2/index.html’
+
+     0K                                                       100% 51.0M=0s
+
+2012-10-19 23:15:29 (51.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/2/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-salaidom/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/1/index.html’
+
+     0K                                                       100% 62.9M=0s
+
+2012-10-19 23:15:29 (62.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/2/index.html’
+
+     0K                                                       100% 12.9M=0s
+
+2012-10-19 23:15:29 (12.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/2/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-salampa1/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/1/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:29 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/2/index.html’
+
+     0K                                                       100% 50.7M=0s
+
+2012-10-19 23:15:29 (50.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/2/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-saterond/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 978 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/1/index.html’
+
+     0K                                                       100%  117M=0s
+
+2012-10-19 23:15:29 (117 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/1/index.html’ saved [978/978]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 628 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/2/index.html’
+
+     0K                                                       100% 59.9M=0s
+
+2012-10-19 23:15:29 (59.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/2/index.html’ saved [628/628]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-simekada/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/1/index.html’
+
+     0K                                                       100% 17.7M=0s
+
+2012-10-19 23:15:29 (17.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/2/index.html’
+
+     0K                                                       100% 40.1M=0s
+
+2012-10-19 23:15:29 (40.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/2/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-skoprobe/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/1/index.html’
+
+     0K                                                       100% 17.7M=0s
+
+2012-10-19 23:15:29 (17.7 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/2/index.html’
+
+     0K                                                       100% 36.0M=0s
+
+2012-10-19 23:15:29 (36.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/2/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-smrzond1/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-sojakrob/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-sojakrob/1/index.html’
+
+     0K                                                       100% 28.4M=0s
+
+2012-10-19 23:15:29 (28.4 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-sojakrob/1/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-sojakrob/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-stajnmar/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stajnmar/1/index.html’
+
+     0K                                                       100% 40.8M=0s
+
+2012-10-19 23:15:29 (40.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stajnmar/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-stajnmar/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 478 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/1/index.html’
+
+     0K                                                       100% 45.6M=0s
+
+2012-10-19 23:15:29 (45.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/1/index.html’ saved [478/478]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:29--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/2/index.html’
+
+     0K                                                       100% 20.1M=0s
+
+2012-10-19 23:15:30 (20.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/2/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-stejsj11/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-strakja7/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strakja7/1/index.html’
+
+     0K                                                       100% 18.6M=0s
+
+2012-10-19 23:15:30 (18.6 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strakja7/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-strakja7/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/1/index.html’
+
+     0K                                                       100% 55.1M=0s
+
+2012-10-19 23:15:30 (55.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/1/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/2/index.html’
+
+     0K                                                       100% 34.0M=0s
+
+2012-10-19 23:15:30 (34.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/2/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-strnape1/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-stuchpet/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stuchpet/1/index.html’
+
+     0K                                                       100% 32.8M=0s
+
+2012-10-19 23:15:30 (32.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-stuchpet/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-stuchpet/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-sukhomik/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 628 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-sukhomik/1/index.html’
+
+     0K                                                       100% 49.9M=0s
+
+2012-10-19 23:15:30 (49.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-sukhomik/1/index.html’ saved [628/628]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-sukhomik/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-svobom39/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-svobom39/1/index.html’
+
+     0K                                                       100% 37.1M=0s
+
+2012-10-19 23:15:30 (37.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-svobom39/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-svobom39/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-taranpe1/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-taranpe1/1/index.html’
+
+     0K                                                       100% 16.2M=0s
+
+2012-10-19 23:15:30 (16.2 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-taranpe1/1/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-taranpe1/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-test/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 366 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-test/1/index.html’
+
+     0K                                                       100% 34.9M=0s
+
+2012-10-19 23:15:30 (34.9 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-test/1/index.html’ saved [366/366]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-test/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-test/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 316 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-test/2/index.html’
+
+     0K                                                       100% 30.1M=0s
+
+2012-10-19 23:15:30 (30.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-test/2/index.html’ saved [316/316]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-test/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-tomasma5/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 528 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-tomasma5/1/index.html’
+
+     0K                                                       100% 50.4M=0s
+
+2012-10-19 23:15:30 (50.4 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-tomasma5/1/index.html’ saved [528/528]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-tomasma5/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 378 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/1/index.html’
+
+     0K                                                       100% 32.8M=0s
+
+2012-10-19 23:15:30 (32.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/1/index.html’ saved [378/378]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/2/index.html’
+
+     0K                                                       100% 26.1M=0s
+
+2012-10-19 23:15:30 (26.1 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/2/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-turekto5/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-viezaluk/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-viezaluk/1/index.html’
+
+     0K                                                       100% 51.0M=0s
+
+2012-10-19 23:15:30 (51.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-viezaluk/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-viezaluk/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/1/index.html’
+
+     0K                                                       100% 40.8M=0s
+
+2012-10-19 23:15:30 (40.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/1/index.html’ saved [428/428]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/1/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/2/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 578 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/2/index.html’
+
+     0K                                                       100% 23.0M=0s
+
+2012-10-19 23:15:30 (23.0 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/2/index.html’ saved [578/578]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-volfste2/2/index.html since it should be rejected.
+
+--2012-10-19 23:15:30--  http://sitr-pise.felk.cvut.cz/logs/users/tpj-zemanon6/1/
+Reusing existing connection to sitr-pise.felk.cvut.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 328 [text/html]
+Saving to: ‘sitr-pise.felk.cvut.cz/logs/users/tpj-zemanon6/1/index.html’
+
+     0K                                                       100% 34.8M=0s
+
+2012-10-19 23:15:30 (34.8 MB/s) - ‘sitr-pise.felk.cvut.cz/logs/users/tpj-zemanon6/1/index.html’ saved [328/328]
+
+Removing sitr-pise.felk.cvut.cz/logs/users/tpj-zemanon6/1/index.html since it should be rejected.
+
+FINISHED --2012-10-19 23:15:30--
+Total wall clock time: 9.0s
+Downloaded: 283 files, 117K in 0.04s (2.97 MB/s)

@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rysdanie
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rysdanie
+Repository UUID: a771ec01-831a-45a0-8491-a44e1c01149e
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rysdanie
+Last Changed Rev: 6
+Last Changed Date: 2012-10-19 18:25:50 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:26)
+Test NEPROSEL. Spotrebovany cas: 0 s.

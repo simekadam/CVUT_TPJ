@@ -1,0 +1,274 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-cermam14
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 11
+Last Changed Date: 2012-10-16 12:23:17 +0200 (Tue, 16 Oct 2012)
+
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                                                         ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:7: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("y", Type.BOOLEAN)) == Type.NONE;
+                                                                           ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                         ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                   ^
+../tests/Homework2Test.java:8: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Var("x").getType(ImmutableMap.of("x", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                           ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                                                                  ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                               ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                             ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                           ^
+../tests/Homework2Test.java:9: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("a", Type.BOOLEAN)) == Type.NONE;
+                                                                                                                    ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                  ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                    ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                                      ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                   ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                               ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                             ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                           ^
+../tests/Homework2Test.java:10: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.NUMBER, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NONE;
+                                                                                                                                                       ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                  ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                     ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                                       ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                   ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                               ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                             ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                           ^
+../tests/Homework2Test.java:11: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.NUMBER, "z", Type.NUMBER)) == Type.NUMBER;
+                                                                                                                                                        ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                  ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                     ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                                        ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Ternary
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                   ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                               ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                             ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : class Var
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                           ^
+../tests/Homework2Test.java:12: cannot find symbol
+symbol  : variable Type
+location: class Homework2Test
+        assert new Ternary(new Var("x"), new Var("y"), new Var("z")).getType(ImmutableMap.of("x", Type.BOOLEAN, "y", Type.BOOLEAN, "z", Type.BOOLEAN)) == Type.BOOLEAN;
+                                                                                                                                                          ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+        ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                            ^
+../tests/Homework2Test.java:13: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a1 = new Assignment("x", new Bool(true));
+                                                ^
+../tests/Homework2Test.java:14: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert a1.isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                               ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+        ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                            ^
+../tests/Homework2Test.java:15: cannot find symbol
+symbol  : class Bool
+location: class Homework2Test
+        Assignment a2 = new Assignment("x", new Bool(false));
+                                                ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert new CompoundProgram(a1, a2).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                                                        ^
+../tests/Homework2Test.java:16: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert new CompoundProgram(a1, a2).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                   ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+        ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Assignment
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                            ^
+../tests/Homework2Test.java:17: cannot find symbol
+symbol  : class Num
+location: class Homework2Test
+        Assignment a3 = new Assignment("x", new Num(1));
+                                                ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class Type
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                                                                                                  ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                    ^
+../tests/Homework2Test.java:18: cannot find symbol
+symbol  : class CompoundProgram
+location: class Homework2Test
+        assert !new CompoundProgram(a1, new CompoundProgram(a2, a3)).isWellTyped(new ImmutableMap.Builder<String, Type>().build());
+                                            ^
+51 errors
+Preklad NEPROSEL.

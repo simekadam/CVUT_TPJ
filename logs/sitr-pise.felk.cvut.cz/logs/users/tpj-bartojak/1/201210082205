@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-bartojak
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210082205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-bartojak
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-bartojak
+Repository UUID: 6a485793-0466-4432-b76e-82057a68d8c7
+Revision: 1
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_bartojak
+Last Changed Rev: 1
+Last Changed Date: 2012-10-08 21:30:48 +0200 (Mon, 08 Oct 2012)
+
+Note: cvut_tpj-bartojak/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Test PROSEL. Spotrebovany cas: 1 s.

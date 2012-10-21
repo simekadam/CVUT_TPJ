@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kloucvla
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210071805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kloucvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kloucvla
+Repository UUID: 211d5977-6ce5-4f58-9d8f-83bc336cf13d
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kloucvla
+Last Changed Rev: 2
+Last Changed Date: 2012-10-07 14:55:48 +0200 (Sun, 07 Oct 2012)
+
+Note: cvut_tpj-kloucvla/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Test PROSEL. Spotrebovany cas: 0 s.

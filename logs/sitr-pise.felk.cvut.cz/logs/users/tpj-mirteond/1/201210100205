@@ -1,0 +1,26 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mirteond
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210100205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mirteond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mirteond
+Repository UUID: fda20315-0937-4a60-aed1-ab6e1ca3ec4d
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mirteond
+Last Changed Rev: 4
+Last Changed Date: 2012-10-10 00:30:28 +0200 (Wed, 10 Oct 2012)
+
+---
+Num:42
+Num:0
+Num:0
+Num:1
+Num:1
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:43)
+Test NEPROSEL. Spotrebovany cas: 0 s.

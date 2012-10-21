@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-salaidom
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210161805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-salaidom
+Repository UUID: 7262eb51-a58a-4e16-85c2-8ee7564f6a2a
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_salaidom
+Last Changed Rev: 6
+Last Changed Date: 2012-10-16 14:22:19 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:19)
+Test NEPROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-smrzond1
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210192205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-smrzond1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-smrzond1
+Repository UUID: b2d92d48-4040-4f08-816f-1a90005ff9f1
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_smrzond1
+Last Changed Rev: 11
+Last Changed Date: 2012-10-19 18:52:39 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of if var x then var y else var z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.

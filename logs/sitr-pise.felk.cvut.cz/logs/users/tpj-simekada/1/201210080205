@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210080205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 22
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 22
+Last Changed Date: 2012-10-07 23:57:01 +0200 (Sun, 07 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:44)
+Test NEPROSEL. Spotrebovany cas: 1 s.

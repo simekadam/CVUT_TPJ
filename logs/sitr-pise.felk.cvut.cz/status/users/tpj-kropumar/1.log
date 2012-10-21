@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-kropumar
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210091405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-kropumar
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-kropumar
+Repository UUID: d69f813b-3704-4d38-bf93-f34686f5b30f
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_kropumar
+Last Changed Rev: 2
+Last Changed Date: 2012-10-09 08:50:50 +0200 (Tue, 09 Oct 2012)
+
+---
+Derivative (number): [0]
+Derivative (X): [1]
+Derivative (addition): [( ( X )' + ( X )' )]
+Derivative (multiplication): [( ( X * ( X )' ) + ( ( X )' * X ) )]
+Derivative (exponentiation): [( 2 * ( X^1 ) )]
+Test PROSEL. Spotrebovany cas: 0 s.

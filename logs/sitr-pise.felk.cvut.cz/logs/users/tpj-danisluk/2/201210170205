@@ -1,0 +1,49 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-danisluk
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210170205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-danisluk
+Repository UUID: df604ef5-ad05-436d-ac45-5d4053adaa28
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_danisluk
+Last Changed Rev: 9
+Last Changed Date: 2012-10-16 22:39:26 +0200 (Tue, 16 Oct 2012)
+
+---
+var getType
+var getType
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+ternary getType start
+var getType
+var getType
+ternary getType no error yet
+assignment wellTyped called
+compoundProgram wellTypedCalled
+assignment wellTyped called
+assignment wellTyped called
+compoundProgram wellTypedCalled
+assignment wellTyped called
+compoundProgram wellTypedCalled
+assignment wellTyped called
+assignment wellTyped called
+Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram(Assignment(x,Bool(true)),CompoundProgram(Assignment(x,Bool(false)),Assignment(x,Num(1)))) in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.

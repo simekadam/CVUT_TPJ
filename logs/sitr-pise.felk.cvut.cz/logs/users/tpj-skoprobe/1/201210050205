@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-skoprobe
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210050205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository UUID: 4fac7b45-50ee-4f0f-a0eb-9f5019b5612c
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_skoprobe
+Last Changed Rev: 4
+Last Changed Date: 2012-10-05 00:05:49 +0200 (Fri, 05 Oct 2012)
+
+---
+Derivative (number): [0]
+Derivative (x): [1]
+Derivative (addition): [((X)' + (X)')]
+Derivative (multiplication): [((X * (X)') + ((X)' * X))]
+Derivative (exponentiation): [(2 * (X ^ 1))]
+Test PROSEL. Spotrebovany cas: 0 s.

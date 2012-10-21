@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-strnape1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210022205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository UUID: c099482a-58a2-4c30-b6ea-8325463e3b71
+Revision: 1
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_strnape1
+Last Changed Rev: 1
+Last Changed Date: 2012-10-02 20:13:34 +0200 (Tue, 02 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:44)
+Test NEPROSEL.

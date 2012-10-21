@@ -1,0 +1,23 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-brustto1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210022205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-brustto1
+Repository UUID: bb15169c-4118-4fa9-8ffe-205b01a16977
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_brustto1
+Last Changed Rev: 3
+Last Changed Date: 2012-10-02 19:16:42 +0200 (Tue, 02 Oct 2012)
+
+Note: cvut_tpj-brustto1/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:44)
+Test NEPROSEL.

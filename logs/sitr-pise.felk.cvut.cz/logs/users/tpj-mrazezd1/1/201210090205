@@ -1,0 +1,39 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210090205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 9
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 9
+Last Changed Date: 2012-10-08 22:55:04 +0200 (Mon, 08 Oct 2012)
+
+Note: cvut_tpj-mrazezd1/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Derivative: subexpr:class Num
+Numeric: 42
+Vystup:[Numeric: 0]
+Vystup:[Numeric: 0]
+Derivative: subexpr:class X
+X
+Vystup:[Numeric: 1]
+Vystup:[Numeric: 1]
+Derivative: subexpr:class Addition
+Addition: left:class X, right:class X
+X
+Vystup:[Numeric: 1]
+X
+Vystup:[Numeric: 1]
+Vystup:[Addition: left:class Num, right:class Num]
+Vystup:[Addition: left:class Num, right:class Num]
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:43)
+Test NEPROSEL. Spotrebovany cas: 0 s.

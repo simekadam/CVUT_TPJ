@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-burdavac
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210042205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-burdavac
+Repository UUID: 333c3650-404b-4b2c-adf4-daa30965f315
+Revision: 1
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_burdavac
+Last Changed Rev: 1
+Last Changed Date: 2012-10-03 19:29:04 +0200 (Wed, 03 Oct 2012)
+
+---
+Exception in thread "main" java.lang.NullPointerException
+	at Homework1Test.main(Homework1Test.java:41)
+Test NEPROSEL. Spotrebovany cas: 0 s.

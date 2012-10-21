@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210041405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 23
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 23
+Last Changed Date: 2012-10-04 13:19:28 +0200 (Thu, 04 Oct 2012)
+
+cvut_tpj-koukavoj/homeworks/homework1.java:318: missing return statement
+	}
+	^
+1 error
+Preklad NEPROSEL.

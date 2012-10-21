@@ -1,0 +1,23 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-remesjan
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210031405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 8
+Last Changed Date: 2012-10-03 12:33:07 +0200 (Wed, 03 Oct 2012)
+
+---
+(42\')
+Exception in thread "main" java.util.NoSuchElementException
+	at com.google.common.collect.Iterators$1.next(Iterators.java:77)
+	at Homework1Test.main(Homework1Test.java:41)
+Test NEPROSEL. Spotrebovany cas: 0 s.

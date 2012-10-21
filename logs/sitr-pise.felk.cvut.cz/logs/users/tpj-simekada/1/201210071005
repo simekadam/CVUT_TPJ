@@ -1,0 +1,105 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-simekada
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210071005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-simekada
+Repository UUID: 8f3249b4-7ec1-4e71-8c6d-641ce5af7b19
+Revision: 18
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_simekada
+Last Changed Rev: 18
+Last Changed Date: 2012-10-07 09:48:13 +0200 (Sun, 07 Oct 2012)
+
+Note: cvut_tpj-simekada/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+42
+0
+0
+0
+0
+X
+1
+1
+1
+1
+X
+X
+(X+X)
+1
+1
+1
+1
+1
+1
+(1+1)
+1
+1
+(1+1)
+1
+1
+1
+1
+1
+1
+(1+1)
+X
+1
+1
+X
+1
+1
+1
+1
+(1+1)
+X
+X
+(X*X)
+1
+1
+1
+(1*X)
+1
+1
+1
+(X*1)
+1
+1
+((1*X)+(X*1))
+1
+1
+((1*X)+(X*1))
+1
+1
+1
+(1*X)
+1
+1
+1
+(X*1)
+1
+1
+((1*X)+(X*1))
+X
+X
+1
+1
+1
+(X*1)
+X
+1
+1
+X
+1
+(1*X)
+1
+1
+((X*1)+(1*X))
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:44)
+Test NEPROSEL. Spotrebovany cas: 0 s.

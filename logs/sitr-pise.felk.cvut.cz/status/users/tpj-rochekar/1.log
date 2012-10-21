@@ -1,0 +1,19 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rochekar
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210062205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rochekar
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rochekar
+Repository UUID: e6f5831d-81c0-488d-9987-d8b32237df08
+Revision: 2
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rochekar
+Last Changed Rev: 2
+Last Changed Date: 2012-10-06 20:37:38 +0200 (Sat, 06 Oct 2012)
+
+---
+Test PROSEL. Spotrebovany cas: 1 s.

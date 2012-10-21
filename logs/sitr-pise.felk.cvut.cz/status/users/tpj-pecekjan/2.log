@@ -1,0 +1,26 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-pecekjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210190205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-pecekjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-pecekjan
+Repository UUID: 3f383f60-3530-4322-85d1-b98f564dc882
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_pecekjan
+Last Changed Rev: 4
+Last Changed Date: 2012-10-18 22:34:31 +0200 (Thu, 18 Oct 2012)
+
+cvut_tpj-pecekjan/homeworks/homework2.java:2: warning: com.sun.org.apache.bcel.internal.generic.INSTANCEOF is Sun proprietary API and may be removed in a future release
+import com.sun.org.apache.bcel.internal.generic.INSTANCEOF;
+                                               ^
+1 warning
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of var x in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.

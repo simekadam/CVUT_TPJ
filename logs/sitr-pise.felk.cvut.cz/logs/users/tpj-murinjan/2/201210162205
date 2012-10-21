@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-murinjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210162205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-murinjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-murinjan
+Repository UUID: 91523ccc-3e46-4d30-bd1c-d5efb1d5595f
+Revision: 11
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_murinjan
+Last Changed Rev: 11
+Last Changed Date: 2012-10-16 19:42:16 +0200 (Tue, 16 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-bobisjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-bobisjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-bobisjan
+Repository UUID: 152b877a-810c-4752-a582-5aeaab552593
+Revision: 32
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_bobisjan
+Last Changed Rev: 32
+Last Changed Date: 2012-10-19 06:33:26 +0200 (Fri, 19 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@1908ca1 in environment {} failed (expected result: true).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:24)
+Test NEPROSEL. Spotrebovany cas: 1 s.

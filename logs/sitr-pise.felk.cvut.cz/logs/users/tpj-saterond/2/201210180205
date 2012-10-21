@@ -1,0 +1,22 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-saterond
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210180205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-saterond
+Repository UUID: 719a4495-0031-4f48-998b-95ee38858139
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_saterond
+Last Changed Rev: 4
+Last Changed Date: 2012-10-18 00:16:40 +0200 (Thu, 18 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:16)
+Test NEPROSEL. Spotrebovany cas: 1 s.

@@ -1,0 +1,74 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-strnape1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210051005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-strnape1
+Repository UUID: c099482a-58a2-4c30-b6ea-8325463e3b71
+Revision: 6
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_strnape1
+Last Changed Rev: 6
+Last Changed Date: 2012-10-05 09:39:21 +0200 (Fri, 05 Oct 2012)
+
+---
+Created Num(42);
+Created Derivative(Num(42));
+Created Num(0);
+Derivative(Num(42)) rewritten to [Num(0), ]
+Created Num(0);
+Created X();
+Created Derivative(X);
+Created Num(1);
+Derivative(X) rewritten to [Num(1), ]
+Created Num(1);
+Created X();
+Created X();
+Created Addition(X, X);
+Created Derivative(Addition(X,X));
+Created Derivative(X);
+Created Derivative(X);
+Created Addition(Derivative(X), Derivative(X));
+Derivative(Addition(X,X)) rewritten to [Addition(Derivative(X),Derivative(X)), ]
+Created X();
+Created Derivative(X);
+Created X();
+Created Derivative(X);
+Created Addition(Derivative(X), Derivative(X));
+Created X();
+Created X();
+Created Multiplication(X, X);
+Created Derivative(Multiplication(X,X));
+Created Derivative(X);
+Created Multiplication(X, Derivative(X));
+Created Derivative(X);
+Created Multiplication(Derivative(X), X);
+Created Addition(Multiplication(X,Derivative(X)), Multiplication(Derivative(X),X));
+Derivative(Multiplication(X,X)) rewritten to [Addition(Multiplication(X,Derivative(X)),Multiplication(Derivative(X),X)), ]
+Created X();
+Created X();
+Created Derivative(X);
+Created Multiplication(X, Derivative(X));
+Created X();
+Created Derivative(X);
+Created X();
+Created Multiplication(Derivative(X), X);
+Created Addition(Multiplication(X,Derivative(X)), Multiplication(Derivative(X),X));
+Created X();
+Created Num(2);
+Created Exponentiation(X, Num(2));
+Created Derivative(Exponentiation(X,Num(2)));
+Created Num(1);
+Created Exponentiation(X, Num(1));
+Created Multiplication(Num(2), Exponentiation(X,Num(1)));
+Derivative(Exponentiation(X,Num(2))) rewritten to [Multiplication(Num(2),Exponentiation(X,Num(1))), ]
+Created Num(2);
+Created X();
+Created Num(1);
+Created Exponentiation(X, Num(1));
+Created Multiplication(Num(2), Exponentiation(X,Num(1)));
+Test PROSEL. Spotrebovany cas: 0 s.

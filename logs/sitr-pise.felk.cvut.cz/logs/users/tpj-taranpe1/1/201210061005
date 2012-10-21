@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-taranpe1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210061005
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-taranpe1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-taranpe1
+Repository UUID: 3f9eb9da-3f1d-4add-8468-b198a5bf4512
+Revision: 5
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_taranpe1
+Last Changed Rev: 5
+Last Changed Date: 2012-10-06 09:31:43 +0200 (Sat, 06 Oct 2012)
+
+---
+Exception in thread "main" java.lang.NullPointerException
+	at Homework1Test.main(Homework1Test.java:41)
+Test NEPROSEL. Spotrebovany cas: 0 s.

@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-mrazezd1
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210081805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-mrazezd1
+Repository UUID: 4a75dbbb-6728-44b5-8ce9-2b06e0410ea5
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_mrazezd1
+Last Changed Rev: 3
+Last Changed Date: 2012-10-08 18:00:19 +0200 (Mon, 08 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:43)
+Test NEPROSEL. Spotrebovany cas: 0 s.

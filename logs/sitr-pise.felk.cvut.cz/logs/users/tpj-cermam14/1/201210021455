@@ -1,0 +1,37 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-cermam14
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-cermam14
+Repository UUID: f4e52d61-faf8-49e9-b84e-8ec12461e737
+Revision: 1
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_cermam14
+Last Changed Rev: 1
+Last Changed Date: 2012-09-30 14:28:22 +0200 (Sun, 30 Sep 2012)
+
+cvut_tpj-cermam14/homeworks/homework1.java:2: package com.google.common.collect does not exist
+import com.google.common.collect.ImmutableSet;
+                                ^
+cvut_tpj-cermam14/homeworks/homework1.java:36: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Num
+        return ImmutableSet.of();
+               ^
+cvut_tpj-cermam14/homeworks/homework1.java:62: cannot find symbol
+symbol  : variable ImmutableSet
+location: class X
+        return ImmutableSet.of();
+               ^
+cvut_tpj-cermam14/homeworks/homework1.java:230: cannot find symbol
+symbol  : variable ImmutableSet
+location: class Derivative
+        if (subexpr.isNumber()) return ImmutableSet.of((Expr) new Num(0));
+                                       ^
+4 errors
+Preklad NEPROSEL.

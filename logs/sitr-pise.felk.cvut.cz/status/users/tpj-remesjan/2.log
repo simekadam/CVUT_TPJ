@@ -1,0 +1,87 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-remesjan
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210181805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-remesjan
+Repository UUID: ed172691-6093-4247-9281-88157461119a
+Revision: 19
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_remesjan
+Last Changed Rev: 19
+Last Changed Date: 2012-10-18 14:28:52 +0200 (Thu, 18 Oct 2012)
+
+---
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Compound program typecheck :
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+first part:true second :true
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Compound program typecheck :
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Compound program typecheck :
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+first part:true second :false
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+first part:true second :false
+Assignment type check :
+Assignment is well typed :x Bool:true
+gamma.getVarName :null
+null BOOLEAN
+Compound program typecheck :
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+first part:true second :false
+Assignment type check :
+Assignment is well typed :x Bool:false
+gamma.getVarName :null
+null BOOLEAN
+Assignment type check :
+Assignment is well typed :x Num:1
+gamma.getVarName :null
+null NUMBER
+Test PROSEL. Spotrebovany cas: 0 s.

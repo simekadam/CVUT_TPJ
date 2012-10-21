@@ -1,0 +1,26 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-rozendav
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210191805
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-rozendav
+Repository UUID: c83abeb0-3889-4f6c-9f4f-499ba0b2da5c
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_rozendav
+Last Changed Rev: 8
+Last Changed Date: 2012-10-19 14:32:22 +0200 (Fri, 19 Oct 2012)
+
+Note: cvut_tpj-rozendav/homeworks/homework2.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Exception in thread "main" java.lang.AssertionError: Typecheck of Asignment(varname : x , expression : Bool, value true) 
+Asignment(varname : x , expression : Bool, value false) 
+Asignment(varname : x , expression : Num, value 1)  in environment {} failed (expected result: false).
+	at Homework2Test.typecheckProgram(Homework2Test.java:12)
+	at Homework2Test.main(Homework2Test.java:28)
+Test NEPROSEL. Spotrebovany cas: 0 s.

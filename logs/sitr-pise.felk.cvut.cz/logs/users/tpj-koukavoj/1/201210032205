@@ -1,0 +1,23 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-koukavoj
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210032205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-koukavoj
+Repository UUID: 7fb352bb-b03a-4ed6-8cfa-3117d41b4aaf
+Revision: 19
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_koukavoj
+Last Changed Rev: 19
+Last Changed Date: 2012-10-03 18:05:36 +0200 (Wed, 03 Oct 2012)
+
+---
+Exception in thread "main" java.util.NoSuchElementException
+	at java.util.HashMap$HashIterator.nextEntry(HashMap.java:796)
+	at java.util.HashMap$KeyIterator.next(HashMap.java:828)
+	at Homework1Test.main(Homework1Test.java:43)
+Test NEPROSEL. Spotrebovany cas: 0 s.

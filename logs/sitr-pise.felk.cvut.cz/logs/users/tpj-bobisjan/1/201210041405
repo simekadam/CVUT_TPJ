@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-bobisjan
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210041405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-bobisjan
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-bobisjan
+Repository UUID: 152b877a-810c-4752-a582-5aeaab552593
+Revision: 14
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_bobisjan
+Last Changed Rev: 14
+Last Changed Date: 2012-10-04 13:00:22 +0200 (Thu, 04 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:43)
+Test NEPROSEL. Spotrebovany cas: 0 s.

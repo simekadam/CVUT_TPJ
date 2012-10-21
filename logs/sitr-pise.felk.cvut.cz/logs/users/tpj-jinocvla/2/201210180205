@@ -1,0 +1,28 @@
+-----------------------------------------------------------------
+Jmeno repozitare: tpj-jinocvla
+Cislo domaciho ukolu: 2
+Datum spusteni testu: 201210180205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository UUID: 0d5ce121-767a-497f-86a5-6f9f0be3d983
+Revision: 8
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jinocvla
+Last Changed Rev: 8
+Last Changed Date: 2012-10-17 22:15:49 +0200 (Wed, 17 Oct 2012)
+
+---
+x
+x
+x
+x
+x
+Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+	at Ternary.getType(homework2.java:99)
+	at Homework2Test.typecheckExpression(Homework2Test.java:8)
+	at Homework2Test.main(Homework2Test.java:20)
+Test NEPROSEL. Spotrebovany cas: 0 s.

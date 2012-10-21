@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-tomasma5
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210031405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-tomasma5
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-tomasma5
+Repository UUID: 5f998abe-1397-4ff9-8a41-9e4d64ef2262
+Revision: 10
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_tomasma5
+Last Changed Rev: 10
+Last Changed Date: 2012-10-03 10:19:32 +0200 (Wed, 03 Oct 2012)
+
+Note: cvut_tpj-tomasma5/homeworks/homework1.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+---
+Test PROSEL. Spotrebovany cas: 0 s.

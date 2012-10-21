@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-jinocvla
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210022205
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-jinocvla
+Repository UUID: 0d5ce121-767a-497f-86a5-6f9f0be3d983
+Revision: 4
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_jinocvla
+Last Changed Rev: 4
+Last Changed Date: 2012-10-02 20:50:19 +0200 (Tue, 02 Oct 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:45)
+Test NEPROSEL.

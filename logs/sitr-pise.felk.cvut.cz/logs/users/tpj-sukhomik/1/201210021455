@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-sukhomik
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210021455
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-sukhomik
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-sukhomik
+Repository UUID: 1cb33e2c-a8d2-44f8-a243-d5ae934fa282
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_sukhomik
+Last Changed Rev: 3
+Last Changed Date: 2012-09-27 18:37:31 +0200 (Thu, 27 Sep 2012)
+
+---
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:45)
+Test NEPROSEL.

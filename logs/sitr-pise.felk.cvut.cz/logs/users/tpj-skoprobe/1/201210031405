@@ -1,0 +1,25 @@
+-----------------------------------------------------------------
+Uzivatelske jmeno: tpj-skoprobe
+Cislo domaciho ukolu: 1
+Datum spusteni testu: 201210031405
+---
+Vystup svn info
+Path: .
+URL: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository Root: http://cvut.repositoryhosting.com/svn/cvut_tpj-skoprobe
+Repository UUID: 4fac7b45-50ee-4f0f-a0eb-9f5019b5612c
+Revision: 3
+Node Kind: directory
+Schedule: normal
+Last Changed Author: tpj_skoprobe
+Last Changed Rev: 3
+Last Changed Date: 2012-10-03 11:43:14 +0200 (Wed, 03 Oct 2012)
+
+---
+Derivative (number): [0]
+Derivative (x): [1]
+Derivative (addition): [((X)' + (X)')]
+Derivative (multiplication): [((X + (X)') * ((X)' + X))]
+Exception in thread "main" java.lang.AssertionError
+	at Homework1Test.main(Homework1Test.java:44)
+Test NEPROSEL. Spotrebovany cas: -1 s.
