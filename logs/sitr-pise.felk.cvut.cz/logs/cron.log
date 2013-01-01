@@ -59,8 +59,8 @@ Error in if x then y else z
 Error in if x then y else z
 Error in x=false;
 
-Exception in thread "main" java.lang.AssertionError
-	at Homework2Test.main(Homework2Test.java:16)
+Exception in thread "week12" java.lang.AssertionError
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-brustto1
@@ -372,8 +372,8 @@ Last Changed Rev: 5
 Last Changed Date: 2012-10-16 13:53:42 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError
-	at Homework2Test.main(Homework2Test.java:10)
+Exception in thread "week12" java.lang.AssertionError
+	at Homework2Test.week12(Homework2Test.java:10)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-murinjan
@@ -393,8 +393,8 @@ Last Changed Rev: 7
 Last Changed Date: 2012-10-16 11:58:24 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError
-	at Homework2Test.main(Homework2Test.java:7)
+Exception in thread "week12" java.lang.AssertionError
+	at Homework2Test.week12(Homework2Test.java:7)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-salaidom
@@ -688,10 +688,10 @@ Last Changed Rev: 5
 Last Changed Date: 2012-10-16 13:28:12 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at Assignment.isWellTyped(homework2.java:134)
-	at Homework2Test.main(Homework2Test.java:14)
+	at Homework2Test.week12(Homework2Test.java:14)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-stejsj11
@@ -741,8 +741,8 @@ x=false;
 Type error in: 
 x=false;
 
-Exception in thread "main" java.lang.AssertionError
-	at Homework2Test.main(Homework2Test.java:16)
+Exception in thread "week12" java.lang.AssertionError
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-volfste2
@@ -762,8 +762,8 @@ Last Changed Rev: 7
 Last Changed Date: 2012-10-16 12:24:57 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError
-	at Homework2Test.main(Homework2Test.java:14)
+Exception in thread "week12" java.lang.AssertionError
+	at Homework2Test.week12(Homework2Test.java:14)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-cermam14
@@ -1087,9 +1087,9 @@ ternary getType start
 var getType
 var getType
 ternary getType no error yet
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary(Var(x),Var(y),Var(z)) in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary(Var(x),Var(y),Var(z)) in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-murinjan
@@ -1109,9 +1109,9 @@ Last Changed Rev: 10
 Last Changed Date: 2012-10-16 16:54:45 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-remesjan
@@ -1131,9 +1131,9 @@ Last Changed Rev: 13
 Last Changed Date: 2012-10-16 18:01:58 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of ternary, if Var:x then Var:y else Var:z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of ternary, if Var:x then Var:y else Var:z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-salaidom
@@ -1153,9 +1153,9 @@ Last Changed Rev: 6
 Last Changed Date: 2012-10-16 14:22:19 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-salampa1
@@ -1254,7 +1254,7 @@ Type ok in:
 x=false;
 x=1;
 
-Exception in thread "main" java.lang.IllegalArgumentException: duplicate key: x
+Exception in thread "week12" java.lang.IllegalArgumentException: duplicate key: x
 	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:119)
 	at com.google.common.collect.RegularImmutableMap.<init>(RegularImmutableMap.java:70)
 	at com.google.common.collect.ImmutableMap$Builder.fromEntryList(ImmutableMap.java:249)
@@ -1262,7 +1262,7 @@ Exception in thread "main" java.lang.IllegalArgumentException: duplicate key: x
 	at CompoundProgram.isWellTyped(homework2.java:198)
 	at CompoundProgram.isWellTyped(homework2.java:198)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-brustto1
@@ -1300,9 +1300,9 @@ Last Changed Rev: 14
 Last Changed Date: 2012-10-16 18:17:59 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of var name: x in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of var name: x in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-danisluk
@@ -1333,9 +1333,9 @@ ternary getType no error yet
 ternary getType start
 var getType
 ternary getType no error yet
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary(Var(x),Var(y),Var(z)) in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary(Var(x),Var(y),Var(z)) in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-murinjan
@@ -1355,9 +1355,9 @@ Last Changed Rev: 11
 Last Changed Date: 2012-10-16 19:42:16 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-remesjan
@@ -1378,9 +1378,9 @@ Last Changed Date: 2012-10-16 19:15:19 +0200 (Tue, 16 Oct 2012)
 
 ---
 Assignment is well typed :x Bool:true
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment, varNamex Expr :Bool:true in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment, varNamex Expr :Bool:true in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-salaidom
@@ -1419,9 +1419,9 @@ Last Changed Rev: 8
 Last Changed Date: 2012-10-16 21:00:32 +0200 (Tue, 16 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment(x, Bool(true)) in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment(x, Bool(true)) in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-danisluk
@@ -1468,9 +1468,9 @@ assignment wellTyped called
 compoundProgram wellTypedCalled
 assignment wellTyped called
 assignment wellTyped called
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram(Assignment(x,Bool(true)),CompoundProgram(Assignment(x,Bool(false)),Assignment(x,Num(1)))) in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram(Assignment(x,Bool(true)),CompoundProgram(Assignment(x,Bool(false)),Assignment(x,Num(1)))) in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-remesjan
@@ -1494,9 +1494,9 @@ Last Changed Date: 2012-10-16 23:14:33 +0200 (Tue, 16 Oct 2012)
 Assignment is well typed :x Bool:true
 gamma.getVarName :null
 null BOOLEAN
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment, varName :x Expr :Bool:true in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment, varName :x Expr :Bool:true in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-stejsj11
@@ -1540,11 +1540,11 @@ Type ok in:
 x=true;
 x=false;
 
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:196)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-cermam14
@@ -1564,9 +1564,9 @@ Last Changed Rev: 16
 Last Changed Date: 2012-10-17 09:46:26 +0200 (Wed, 17 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of assignment: var name: x subexpr: Bool value: true program: assignment: var name: x subexpr: Bool value: false program: var name: x subexpr: Num value: 1 in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of assignment: var name: x subexpr: Bool value: true program: assignment: var name: x subexpr: Bool value: false program: var name: x subexpr: Num value: 1 in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-danisluk
@@ -1638,9 +1638,9 @@ Last Changed Rev: 9
 Last Changed Date: 2012-10-17 07:09:05 +0200 (Wed, 17 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment(x, Bool(true)) in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment(x, Bool(true)) in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-remesjan
@@ -1664,10 +1664,10 @@ Last Changed Date: 2012-10-17 10:36:14 +0200 (Wed, 17 Oct 2012)
 Assignment is well typed :x Bool:true
 gamma.getVarName :null
 null BOOLEAN
-Exception in thread "main" java.lang.NullPointerException
+Exception in thread "week12" java.lang.NullPointerException
 	at Assignment.isWellTyped(homework2.java:176)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-stejsj11
@@ -1772,11 +1772,11 @@ Last Changed Rev: 10
 Last Changed Date: 2012-10-17 11:48:18 +0200 (Wed, 17 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at Assignment.isWellTyped(homework2.java:138)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-burdavac
@@ -1796,9 +1796,9 @@ Last Changed Rev: 7
 Last Changed Date: 2012-10-17 17:13:30 +0200 (Wed, 17 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-cermam14
@@ -1833,9 +1833,9 @@ VAR_in: (type:BOOLEAN)
 ASSIGNMENT_in: null, BOOLEAN
 ASSIGNMENT_in: null, BOOLEAN
 ASSIGNMENT_in: null, BOOLEAN
-Exception in thread "main" java.lang.AssertionError: Typecheck of Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (true)) program: Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (false)) program: ASSIGNMENT: (var name: x subexpr: NUM: (1)))) in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (true)) program: Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (false)) program: ASSIGNMENT: (var name: x subexpr: NUM: (1)))) in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-burdavac
@@ -1855,10 +1855,10 @@ Last Changed Rev: 8
 Last Changed Date: 2012-10-17 20:52:48 +0200 (Wed, 17 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+Exception in thread "week12" java.lang.ClassCastException: Var cannot be cast to Bool
 	at Ternary.getType(homework2.java:79)
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-jinocvla
@@ -1878,9 +1878,9 @@ Last Changed Rev: 6
 Last Changed Date: 2012-10-17 18:53:55 +0200 (Wed, 17 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-remesjan
@@ -1912,9 +1912,9 @@ null BOOLEAN
 Assignment is well typed :x Bool:false
 gamma.getVarName :null
 null BOOLEAN
-Exception in thread "main" java.lang.AssertionError: Typecheck of Compound program,Assignment :Assignment, varName :x Expr :Bool:trueProgram :Assignment, varName :x Expr :Bool:false in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Compound program,Assignment :Assignment, varName :x Expr :Bool:trueProgram :Assignment, varName :x Expr :Bool:false in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-burdavac
@@ -1934,10 +1934,10 @@ Last Changed Rev: 9
 Last Changed Date: 2012-10-17 22:23:22 +0200 (Wed, 17 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+Exception in thread "week12" java.lang.ClassCastException: Var cannot be cast to Bool
 	at Ternary.getType(homework2.java:77)
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-horakmi2
@@ -1957,9 +1957,9 @@ Last Changed Rev: 7
 Last Changed Date: 2012-10-18 01:49:55 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-jinocvla
@@ -1984,10 +1984,10 @@ x
 x
 x
 x
-Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+Exception in thread "week12" java.lang.ClassCastException: Var cannot be cast to Bool
 	at Ternary.getType(homework2.java:99)
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-mrazezd1
@@ -2007,9 +2007,9 @@ Last Changed Rev: 15
 Last Changed Date: 2012-10-17 22:39:00 +0200 (Wed, 17 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-saterond
@@ -2029,9 +2029,9 @@ Last Changed Rev: 4
 Last Changed Date: 2012-10-18 00:16:40 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-brustto1
@@ -2090,9 +2090,9 @@ Ternary: e1 BOOLEAN e2 BOOLEAN e3 BOOLEAN
 Bool
 Assignment null BOOLEAN
 Bool
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-jinocvla
@@ -2114,11 +2114,11 @@ Last Changed Date: 2012-10-18 08:32:57 +0200 (Thu, 18 Oct 2012)
 ---
 NUMBER NUMBER
 BOOLEAN BOOLEAN
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:170)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-mrazezd1
@@ -2138,9 +2138,9 @@ Last Changed Rev: 16
 Last Changed Date: 2012-10-18 07:57:19 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-remesjan
@@ -2224,9 +2224,9 @@ null BOOLEAN
 Assignment is well typed :x Num:1
 gamma.getVarName :null
 null NUMBER
-Exception in thread "main" java.lang.AssertionError: Typecheck of Compound program,Assignment :Assignment, varName :x Expr :Bool:trueProgram :Compound program,Assignment :Assignment, varName :x Expr :Bool:falseProgram :Assignment, varName :x Expr :Num:1 in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Compound program,Assignment :Assignment, varName :x Expr :Bool:trueProgram :Compound program,Assignment :Assignment, varName :x Expr :Bool:falseProgram :Assignment, varName :x Expr :Num:1 in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-horakmi2
@@ -2246,9 +2246,9 @@ Last Changed Rev: 8
 Last Changed Date: 2012-10-18 11:33:17 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-jinocvla
@@ -2587,10 +2587,10 @@ Last Changed Rev: 10
 Last Changed Date: 2012-10-18 16:56:17 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+Exception in thread "week12" java.lang.ClassCastException: Var cannot be cast to Bool
 	at Ternary.getType(homework2.java:90)
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-kalisja1
@@ -2716,9 +2716,9 @@ Last Changed Rev: 5
 Last Changed Date: 2012-10-18 16:33:06 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Nand Var x Var y Var z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Nand Var x Var y Var z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-strnape1
@@ -2738,9 +2738,9 @@ Last Changed Rev: 7
 Last Changed Date: 2012-10-18 16:57:46 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Var(x) in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Var(x) in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-volfste2
@@ -2760,9 +2760,9 @@ Last Changed Rev: 11
 Last Changed Date: 2012-10-18 17:36:34 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram(Assignment(x, Bool(true)), CompoundProgram(Assignment(x, Bool(false)), Assignment(x, Num(1)))) in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram(Assignment(x, Bool(true)), CompoundProgram(Assignment(x, Bool(false)), Assignment(x, Num(1)))) in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-cermam14
@@ -2800,9 +2800,9 @@ VALUES IN GAMMA:
 ASSIGNMENT_in: null, BOOLEAN
 VALUES IN GAMMA:
 ASSIGNMENT_in: null, BOOLEAN
-Exception in thread "main" java.lang.AssertionError: Typecheck of Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (true)) program: Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (false)) program: ASSIGNMENT: (var name: x subexpr: NUM: (1)))) in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (true)) program: Comp.PROGRAM: (assignment: ASSIGNMENT: (var name: x subexpr: BOOL: (false)) program: ASSIGNMENT: (var name: x subexpr: NUM: (1)))) in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-horakmi2
@@ -2822,9 +2822,9 @@ Last Changed Rev: 12
 Last Changed Date: 2012-10-18 21:49:45 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of VarName x ExprValue true in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of VarName x ExprValue true in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-koukavoj
@@ -2844,9 +2844,9 @@ Last Changed Rev: 29
 Last Changed Date: 2012-10-18 21:23:28 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-mazanma3
@@ -2866,9 +2866,9 @@ Last Changed Rev: 5
 Last Changed Date: 2012-10-18 18:52:31 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-minarja4
@@ -2907,9 +2907,9 @@ Last Changed Rev: 17
 Last Changed Date: 2012-10-18 21:36:23 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-saterond
@@ -2929,10 +2929,10 @@ Last Changed Rev: 6
 Last Changed Date: 2012-10-18 20:55:57 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+Exception in thread "week12" java.lang.ClassCastException: Var cannot be cast to Bool
 	at Ternary.getType(homework2.java:120)
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-simekada
@@ -2952,9 +2952,9 @@ Last Changed Rev: 25
 Last Changed Date: 2012-10-18 21:43:43 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Var x null in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Var x null in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-strnape1
@@ -2974,11 +2974,11 @@ Last Changed Rev: 8
 Last Changed Date: 2012-10-18 18:10:48 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:182)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-volfste2
@@ -3040,9 +3040,9 @@ Assignment null BOOLEAN
 Bool
 Assignment return: false
 Bool
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-horakmi2
@@ -3062,11 +3062,11 @@ Last Changed Rev: 13
 Last Changed Date: 2012-10-18 23:06:54 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at Assignment.isWellTyped(homework2.java:166)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-koukavoj
@@ -3086,9 +3086,9 @@ Last Changed Rev: 33
 Last Changed Date: 2012-10-18 22:18:54 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-pecekjan
@@ -3112,9 +3112,9 @@ import com.sun.org.apache.bcel.internal.generic.INSTANCEOF;
                                                ^
 1 warning
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of var x in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of var x in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-rozendav
@@ -3134,9 +3134,9 @@ Last Changed Rev: 5
 Last Changed Date: 2012-10-18 23:46:48 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-saterond
@@ -3156,9 +3156,9 @@ Last Changed Rev: 7
 Last Changed Date: 2012-10-18 22:08:48 +0200 (Thu, 18 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Program ass: Assignment x Bool true, prog: Assignment x Bool false in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Program ass: Assignment x Bool true, prog: Assignment x Bool false in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-simekada
@@ -3202,9 +3202,9 @@ Ternary@b1c260
 Tak co to asi je za typ false
 Bool@8b819f
 Assignment@eb017e
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@eb017e in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment@eb017e in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-strnape1
@@ -3274,9 +3274,9 @@ Num@120a47e
 Assignment@f73c1
 CompoundProgram@789144
 CompoundProgram@1893efe
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@1893efe in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@1893efe in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-bobisjan
@@ -3296,9 +3296,9 @@ Last Changed Rev: 32
 Last Changed Date: 2012-10-19 06:33:26 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@1908ca1 in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment@1908ca1 in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-horakmi2
@@ -3318,9 +3318,9 @@ Last Changed Rev: 14
 Last Changed Date: 2012-10-19 09:46:12 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment VarName x ExprValue true in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment VarName x ExprValue true in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-koukavoj
@@ -3340,9 +3340,9 @@ Last Changed Rev: 35
 Last Changed Date: 2012-10-19 08:59:22 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-mazanma3
@@ -3381,9 +3381,9 @@ Last Changed Rev: 6
 Last Changed Date: 2012-10-19 08:40:47 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of if Var name x then Var name y else Var name z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of if Var name x then Var name y else Var name z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-simekada
@@ -3436,9 +3436,9 @@ CompoundProgram@17bd6a1
 CompoundProgram@147ee05
 Environment:
 
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@147ee05 in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@147ee05 in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-brustto1
@@ -3631,9 +3631,9 @@ Number
 Assignment null NUMBER
 Number
 Return true from if
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-dvorap39
@@ -3653,11 +3653,11 @@ Last Changed Rev: 11
 Last Changed Date: 2012-10-19 12:33:16 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:236)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-koukavoj
@@ -3677,9 +3677,9 @@ Last Changed Rev: 37
 Last Changed Date: 2012-10-19 10:44:23 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-kovalmil
@@ -3717,9 +3717,9 @@ Last Changed Rev: 18
 Last Changed Date: 2012-10-19 13:52:21 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-rozendav
@@ -3739,11 +3739,11 @@ Last Changed Rev: 7
 Last Changed Date: 2012-10-19 12:14:53 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:189)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-rysdanie
@@ -3820,9 +3820,9 @@ CompoundProgram@17bd6a1
 CompoundProgram@147ee05
 Environment:
 
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@147ee05 in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@147ee05 in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-skoprobe
@@ -3842,9 +3842,9 @@ Last Changed Rev: 5
 Last Changed Date: 2012-10-19 12:09:55 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary@1e9cb75 in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-brustto1
@@ -3882,9 +3882,9 @@ Last Changed Rev: 12
 Last Changed Date: 2012-10-19 17:56:25 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoudProgram... sem asi vic dat nelze. in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoudProgram... sem asi vic dat nelze. in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-hollmosk
@@ -3904,11 +3904,11 @@ Last Changed Rev: 13
 Last Changed Date: 2012-10-19 16:12:32 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:212)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-horakmi2
@@ -3928,9 +3928,9 @@ Last Changed Rev: 15
 Last Changed Date: 2012-10-19 16:54:31 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment VarName x ExprValue true in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment VarName x ExprValue true in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-koukavoj
@@ -3950,9 +3950,9 @@ Last Changed Rev: 41
 Last Changed Date: 2012-10-19 14:27:12 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-kovalmil
@@ -3972,9 +3972,9 @@ Last Changed Rev: 9
 Last Changed Date: 2012-10-19 14:52:56 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Assignment@e3b895 in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-motycjak
@@ -3994,9 +3994,9 @@ Last Changed Rev: 12
 Last Changed Date: 2012-10-19 15:58:57 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Ternary in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Ternary in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-mrazezd1
@@ -4019,9 +4019,9 @@ Last Changed Date: 2012-10-19 14:39:37 +0200 (Fri, 19 Oct 2012)
 CompoundProgram: program.getClass() - class Assignment
 CompoundProgram: program.getClass() - class CompoundProgram
 CompoundProgram: program.getClass() - class Assignment
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram: program.getClass() - class CompoundProgram in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram: program.getClass() - class CompoundProgram in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-rozendav
@@ -4043,11 +4043,11 @@ Last Changed Date: 2012-10-19 14:32:22 +0200 (Fri, 19 Oct 2012)
 Note: cvut_tpj-rozendav/homeworks/homework2.java uses unchecked or unsafe operations.
 Note: Recompile with -Xlint:unchecked for details.
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Asignment(varname : x , expression : Bool, value true) 
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Asignment(varname : x , expression : Bool, value true)
 Asignment(varname : x , expression : Bool, value false) 
 Asignment(varname : x , expression : Num, value 1)  in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-rudolsim
@@ -4067,9 +4067,9 @@ Last Changed Rev: 6
 Last Changed Date: 2012-10-19 16:47:55 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of Var@13caecd in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-rysdanie
@@ -4089,9 +4089,9 @@ Last Changed Rev: 5
 Last Changed Date: 2012-10-19 15:29:37 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-simekada
@@ -4134,11 +4134,11 @@ Last Changed Date: 2012-10-19 17:18:03 +0200 (Fri, 19 Oct 2012)
 [Bool](false)
 [Assignment](x, [Bool](false))
 [Program]([Assignment](x, [Bool](true)), [Assignment](x, [Bool](false)))
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:222)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-skoprobe
@@ -4158,9 +4158,9 @@ Last Changed Rev: 6
 Last Changed Date: 2012-10-19 17:18:54 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of VAR = x == VAR = y ? VAR = x : VAR = z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of VAR = x == VAR = y ? VAR = x : VAR = z in environment {x=NUMBER, y=NUMBER, z=NUMBER} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:19)
+	at Homework2Test.week12(Homework2Test.java:19)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-smrzond1
@@ -4180,10 +4180,10 @@ Last Changed Rev: 9
 Last Changed Date: 2012-10-19 17:42:01 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.ClassCastException: Var cannot be cast to Bool
+Exception in thread "week12" java.lang.ClassCastException: Var cannot be cast to Bool
 	at Ternary.getType(homework2.java:107)
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-brustto1
@@ -4236,9 +4236,9 @@ VAR_in: (name: z, type:BOOLEAN)
 VALUES IN GAMMA:
 VAR NAME=x: null
 ASSIGNMENT_in: null, BOOLEAN
-Exception in thread "main" java.lang.AssertionError: Typecheck of ASSIGNMENT: (var name: x subexpr: BOOL: (true)) in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of ASSIGNMENT: (var name: x subexpr: BOOL: (true)) in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:24)
+	at Homework2Test.week12(Homework2Test.java:24)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-dvorap39
@@ -4261,11 +4261,11 @@ Last Changed Date: 2012-10-19 21:31:35 +0200 (Fri, 19 Oct 2012)
 CompoudProgram... prubeh is welltyped.
 Assingement, name x, expr type Boolean
 Assingement, name x, expr type Boolean
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:256)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 1 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-horakmi2
@@ -4304,9 +4304,9 @@ Last Changed Rev: 43
 Last Changed Date: 2012-10-19 21:24:32 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@e3b895 in environment {} failed (expected result: false).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:28)
+	at Homework2Test.week12(Homework2Test.java:28)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-kovalmil
@@ -4326,12 +4326,12 @@ Last Changed Rev: 10
 Last Changed Date: 2012-10-19 21:17:11 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at Assignment.getNewGamma(homework2.java:123)
 	at CompoundProgram.isWellTyped(homework2.java:158)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-rysdanie
@@ -4351,9 +4351,9 @@ Last Changed Rev: 6
 Last Changed Date: 2012-10-19 18:25:50 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-simekada
@@ -4419,9 +4419,9 @@ Last Changed Rev: 11
 Last Changed Date: 2012-10-19 18:52:39 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of if var x then var y else var z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of if var x then var y else var z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
 -----------------------------------------------------------------
 Jmeno repozitare: tpj-turekto5

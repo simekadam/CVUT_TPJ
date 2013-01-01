@@ -16,9 +16,9 @@ Last Changed Rev: 13
 Last Changed Date: 2012-10-19 16:12:32 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.UnsupportedOperationException
+Exception in thread "week12" java.lang.UnsupportedOperationException
 	at com.google.common.collect.ImmutableMap.put(ImmutableMap.java:306)
 	at CompoundProgram.isWellTyped(homework2.java:212)
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.

@@ -16,7 +16,7 @@ Last Changed Rev: 6
 Last Changed Date: 2012-10-19 18:25:50 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: true).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of CompoundProgram@1908ca1 in environment {} failed (expected result: true).
 	at Homework2Test.typecheckProgram(Homework2Test.java:12)
-	at Homework2Test.main(Homework2Test.java:26)
+	at Homework2Test.week12(Homework2Test.java:26)
 Test NEPROSEL. Spotrebovany cas: 0 s.

@@ -20,7 +20,7 @@ import com.sun.org.apache.bcel.internal.generic.INSTANCEOF;
                                                ^
 1 warning
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of var x in environment {y=BOOLEAN} failed (expected result: NONE).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of var x in environment {y=BOOLEAN} failed (expected result: NONE).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:16)
+	at Homework2Test.week12(Homework2Test.java:16)
 Test NEPROSEL. Spotrebovany cas: 0 s.

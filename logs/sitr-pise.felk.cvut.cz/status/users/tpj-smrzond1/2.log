@@ -16,7 +16,7 @@ Last Changed Rev: 11
 Last Changed Date: 2012-10-19 18:52:39 +0200 (Fri, 19 Oct 2012)
 
 ---
-Exception in thread "main" java.lang.AssertionError: Typecheck of if var x then var y else var z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
+Exception in thread "week12" java.lang.AssertionError: Typecheck of if var x then var y else var z in environment {x=BOOLEAN, y=NUMBER, z=NUMBER} failed (expected result: NUMBER).
 	at Homework2Test.typecheckExpression(Homework2Test.java:8)
-	at Homework2Test.main(Homework2Test.java:20)
+	at Homework2Test.week12(Homework2Test.java:20)
 Test NEPROSEL. Spotrebovany cas: 0 s.
